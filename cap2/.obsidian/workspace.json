@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "llm공부/Untitled.canvas",
+                "file": "잽 게임/Untitled.canvas",
                 "viewState": {
-                  "x": -634.5944822904786,
-                  "y": -748.3474618552448,
-                  "zoom": -1
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -201,6 +201,10 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
+    "잽 게임/Untitled.canvas",
+    "잽 게임",
+    "llm공부/Untitled.canvas",
     "Pasted image 20250515171241.png",
     "Pasted image 20250515171213.png",
     "Pasted image 20250515165826.png",
@@ -211,10 +215,8 @@
     "Pasted image 20250515153302.png",
     "Pasted image 20250515153152.png",
     "llm공부/Untitled.md",
-    "llm공부/Untitled.canvas",
     "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
     "llm공부",
-    "Untitled/Untitled.md",
     "MEW/Untitled/dc796ce3a9dc2c95395c3fbec030597008d8.pdf",
     "MEW/Untitled/Adv Healthcare Materials - 2020 - Kade - Polymers for Melt Electrowriting.pdf",
     "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
@@ -222,7 +224,6 @@
     "MEW/Untitled",
     "MEW",
     "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
-    "Untitled",
     "ros2/혼공로봇sw ros2.md",
     "ros2/Untitled.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
@@ -234,7 +235,6 @@
     "캡쳐사진 모음/Untitled Diagram.svg",
     "인허가 시험용/정리.canvas",
     "인허가 시험용 1/정리.canvas",
-    "캡쳐사진 모음/Pasted image 20250423154622.png",
     "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
     "캡스톤디자인 2/Soft Robotics/Configure.md",
     "Highlights for Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.md",
