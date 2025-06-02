@@ -1,5 +1,6 @@
 {
   "spellcheck": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "캡쳐사진 모음"
+  "newFileFolderPath": "캡쳐사진 모음",
+  "alwaysUpdateLinks": true
 }
