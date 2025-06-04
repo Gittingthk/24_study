@@ -11,14 +11,17 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "계획/0604.md",
-                "mode": "source",
-                "source": false
+                "file": "잽 게임/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "0604"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -198,8 +201,11 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
-    "Untitled.md",
+    "잽 게임/Untitled 1.md",
+    "잽 게임/Untitled.md",
+    "잽 게임/Untitled.canvas",
     "계획/0604.md",
+    "Untitled.md",
     "계획",
     "Untitled/Untitled.md",
     "캡쳐사진 모음/Pasted image 20250515153152.png",
@@ -215,10 +221,7 @@
     "캡쳐사진 모음/Pasted image 20250515153302.png",
     "캡쳐사진 모음/Pasted image 20250515153933.png",
     "MEW/Untitled/Adv Healthcare Materials - 2020 - Kade - Polymers for Melt Electrowriting.pdf",
-    "잽 게임/Untitled.md",
-    "잽 게임/Untitled.canvas",
     "캡쳐사진 모음/Pasted image 20250529124544.png",
-    "잽 게임/Untitled 1.md",
     "잽 게임",
     "캡쳐사진 모음/Pasted image 20250515171241.png",
     "캡쳐사진 모음/Pasted image 20250515171213.png",
