@@ -11,14 +11,16 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "llm공부/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
+                "page": 3,
+                "left": -16,
+                "top": 737,
+                "zoom": 0.9172215897882302
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S2214860422003918-main"
             }
           }
         ]
@@ -198,6 +200,7 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "llm공부/Untitled.md",
     "llm공부/Untitled.canvas",
     "MEW/Untitled.canvas",
     "MEW/Untitled/dc796ce3a9dc2c95395c3fbec030597008d8.pdf",
@@ -220,7 +223,6 @@
     "Pasted image 20250515171241.png",
     "Pasted image 20250515171213.png",
     "Pasted image 20250515165826.png",
-    "llm공부/Untitled.md",
     "llm공부",
     "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
     "MEW/Untitled",
