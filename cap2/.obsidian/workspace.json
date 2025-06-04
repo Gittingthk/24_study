@@ -11,17 +11,14 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "잽 게임/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "계획/0604.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "0604"
             }
           }
         ]
@@ -201,9 +198,9 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "잽 게임/Untitled.canvas",
     "잽 게임/Untitled 1.md",
     "잽 게임/Untitled.md",
-    "잽 게임/Untitled.canvas",
     "계획/0604.md",
     "Untitled.md",
     "계획",
