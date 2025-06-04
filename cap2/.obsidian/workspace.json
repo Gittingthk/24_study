@@ -11,16 +11,14 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
-                "page": 3,
-                "left": -16,
-                "top": 737,
-                "zoom": 0.9172215897882302
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S2214860422003918-main"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -200,11 +198,11 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
     "llm공부/Untitled.md",
     "llm공부/Untitled.canvas",
     "MEW/Untitled.canvas",
     "MEW/Untitled/dc796ce3a9dc2c95395c3fbec030597008d8.pdf",
-    "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
     "MEW/Untitled/1-s2.0-S2468451117300156-main.pdf",
     "Pasted image 20250515153152.png",
     "Pasted image 20250515153302.png",
