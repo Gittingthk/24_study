@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계획/3주안에 끝낼거.md",
+                "file": "계획/0605.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3주안에 끝낼거"
+              "title": "0605"
             }
           }
         ]
@@ -198,9 +198,10 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
-    "Report_Pass_Kor_Print.pdf",
-    "계획/0604.md",
     "계획/3주안에 끝낼거.md",
+    "계획/0605.md",
+    "계획/0604.md",
+    "Report_Pass_Kor_Print.pdf",
     "잽 게임/Untitled.canvas",
     "잽 게임/Untitled 1.md",
     "잽 게임/Untitled.md",
@@ -228,7 +229,6 @@
     "llm공부",
     "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
     "MEW/Untitled",
-    "MEW",
     "ros2/혼공로봇sw ros2.md",
     "ros2/Untitled.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
