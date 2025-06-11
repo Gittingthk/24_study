@@ -11,16 +11,14 @@
             "id": "aac26fd7d6f30938",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1-s2.0-S2542504823000192-main.pdf",
-                "page": 6,
-                "left": -8,
-                "top": 109,
-                "zoom": 1.869720936170785
+                "file": "계획/창업아이디어.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S2542504823000192-main"
+              "icon": "lucide-file",
+              "title": "창업아이디어"
             }
           }
         ]
@@ -200,8 +198,9 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
-    "Report_Pass_Kor_Print.pdf",
     "1-s2.0-S2542504823000192-main.pdf",
+    "계획/창업아이디어.md",
+    "Report_Pass_Kor_Print.pdf",
     "계획/0611.md",
     "계획/3주안에 끝낼거.md",
     "계획/0604.md",
