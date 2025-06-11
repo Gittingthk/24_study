@@ -11,14 +11,16 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "계획/0611.md",
-                "mode": "source",
-                "source": false
+                "file": "1-s2.0-S2542504823000192-main.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 797,
+                "zoom": 1.869720936170785
               },
-              "icon": "lucide-file",
-              "title": "0611"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S2542504823000192-main"
             }
           }
         ]
@@ -198,9 +200,10 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "계획/0611.md",
+    "1-s2.0-S2542504823000192-main.pdf",
     "계획/3주안에 끝낼거.md",
     "계획/0604.md",
-    "계획/0611.md",
     "계획/0609.md",
     "계획/0605.md",
     "Report_Pass_Kor_Print.pdf",
@@ -230,7 +233,6 @@
     "캡쳐사진 모음/Pasted image 20250515165826.png",
     "llm공부",
     "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
-    "MEW/Untitled",
     "ros2/혼공로봇sw ros2.md",
     "ros2/Untitled.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
