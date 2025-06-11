@@ -11,14 +11,16 @@
             "id": "aac26fd7d6f30938",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "계획/창업아이디어.md",
-                "mode": "source",
-                "source": false
+                "file": "1-s2.0-S2542504823000192-main.pdf",
+                "page": 8,
+                "left": -16,
+                "top": 68,
+                "zoom": 0.9172215913290643
               },
-              "icon": "lucide-file",
-              "title": "창업아이디어"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S2542504823000192-main"
             }
           }
         ]
@@ -198,8 +200,9 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
-    "1-s2.0-S2542504823000192-main.pdf",
+    "Untitled.md",
     "계획/창업아이디어.md",
+    "1-s2.0-S2542504823000192-main.pdf",
     "Report_Pass_Kor_Print.pdf",
     "계획/0611.md",
     "계획/3주안에 끝낼거.md",
@@ -209,7 +212,6 @@
     "잽 게임/Untitled.canvas",
     "잽 게임/Untitled 1.md",
     "잽 게임/Untitled.md",
-    "Untitled.md",
     "계획",
     "Untitled/Untitled.md",
     "캡쳐사진 모음/Pasted image 20250515153152.png",
