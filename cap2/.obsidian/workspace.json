@@ -11,17 +11,14 @@
             "id": "aac26fd7d6f30938",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "llm공부/Untitled.canvas",
-                "viewState": {
-                  "x": -455,
-                  "y": 10,
-                  "zoom": -1.088697345975287
-                }
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -201,8 +198,9 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
-    "llm공부/Untitled.md",
     "llm공부/Untitled.canvas",
+    "Untitled 1.md",
+    "llm공부/Untitled.md",
     "영상학.md",
     "Pasted image 20250613174359.png",
     "Pasted image 20250613174117.png",
