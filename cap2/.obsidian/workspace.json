@@ -11,14 +11,17 @@
             "id": "aac26fd7d6f30938",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "영상학.md",
-                "mode": "source",
-                "source": false
+                "file": "llm공부/Untitled.canvas",
+                "viewState": {
+                  "x": -455,
+                  "y": 10,
+                  "zoom": -1.088697345975287
+                }
               },
-              "icon": "lucide-file",
-              "title": "영상학"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -198,10 +201,12 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
+    "llm공부/Untitled.md",
+    "llm공부/Untitled.canvas",
+    "영상학.md",
     "Pasted image 20250613174359.png",
     "Pasted image 20250613174117.png",
     "Untitled.md",
-    "영상학.md",
     "계획/3주안에 끝낼거.md",
     "계획/0609.md",
     "계획/0611.md",
@@ -221,8 +226,6 @@
     "캡쳐사진 모음/Pasted image 20250423154622.png",
     "캡쳐사진 모음/Pasted image 20250416230411.png",
     "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
-    "llm공부/Untitled.md",
-    "llm공부/Untitled.canvas",
     "MEW/Untitled.canvas",
     "MEW/Untitled/dc796ce3a9dc2c95395c3fbec030597008d8.pdf",
     "MEW/Untitled/1-s2.0-S2468451117300156-main.pdf",
@@ -232,7 +235,6 @@
     "캡쳐사진 모음/Pasted image 20250529124544.png",
     "잽 게임",
     "캡쳐사진 모음/Pasted image 20250515171241.png",
-    "캡쳐사진 모음/Pasted image 20250515171213.png",
     "llm공부",
     "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
     "ros2/혼공로봇sw ros2.md",
