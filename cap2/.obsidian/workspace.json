@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "유기화학/L04_유기화학_Alkanes1.pdf",
-                "page": 2,
+                "file": "유기화학/L04_유기화학_Alkanes2.pdf",
+                "page": 1,
                 "left": -9,
-                "top": 471,
+                "top": 272,
                 "zoom": 1.6916666666666667
               },
               "icon": "lucide-file-text",
-              "title": "L04_유기화학_Alkanes1"
+              "title": "L04_유기화학_Alkanes2"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
-    "유기화학/L03_유기화학_Structure and Bonding4.pdf",
     "유기화학/L04_유기화학_Alkanes1.pdf",
+    "유기화학/L03_유기화학_Structure and Bonding4.pdf",
     "유기화학/L03_유기화학_Structure and Bonding3.pdf",
     "유기화학/L02_유기화학_Structure and Bonding2.pdf",
     "유기화학/L02_유기화학_Structure and Bonding1.pdf",
