@@ -11,16 +11,17 @@
             "id": "aac26fd7d6f30938",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "유기화학/L11_유기화학1_Aromatic Compounds2 (1).pdf",
-                "page": 11,
-                "left": -9,
-                "top": 541,
-                "zoom": 1.6916666666666667
+                "file": "Untitled 1/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "L11_유기화학1_Aromatic Compounds2 (1)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -200,17 +201,18 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
+    "Untitled 1/Untitled.canvas",
+    "유기화학/L11_유기화학1_Aromatic Compounds2 (1).pdf",
+    "Untitled 1",
     "유기화학/L11_유기화학1_Aromatic Compounds3 (1).pdf",
     "유기화학/L10_유기화학_RXN of Alkenes and Alkynes4 (1).pdf",
     "유기화학/L08_유기화학_RXN of Alkenes and Alkynes3.pdf",
-    "유기화학/L11_유기화학1_Aromatic Compounds2 (1).pdf",
     "유기화학/L10_유기화학1_Aromatic Compounds1 (1).pdf",
     "유기화학/L08_유기화학_RXN of Alkenes and Alkynes2.pdf",
     "유기화학/L07_유기화학_RXN of Alkenes and Alkynes1.pdf",
     "유기화학/L07_유기화학_Alkenes and Alkynes2.pdf",
     "유기화학/L06_유기화학_Alkenes and Alkynes1.pdf",
-    "유기화학/L06_유기화학_Alkanes3.pdf",
-    "유기화학/L04_유기화학_Alkanes2.pdf",
     "계획/0616.md",
     "계획/연구동향.md",
     "계획/3주안에 끝낼거.md",
@@ -229,7 +231,6 @@
     "잽 게임/Untitled.canvas",
     "잽 게임/Untitled 1.md",
     "잽 게임/Untitled.md",
-    "Untitled/Untitled.md",
     "캡쳐사진 모음/Pasted image 20250515153152.png",
     "캡쳐사진 모음/Untitled Diagram.svg",
     "캡쳐사진 모음/Pasted image 20250423154622.png",
@@ -248,7 +249,6 @@
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
     "docker/Untitled.canvas",
     "인허가 시험용/정리.canvas",
-    "인허가 시험용 1/정리.canvas",
     "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
     "캡스톤디자인 2/Soft Robotics/Configure.md",
     "Highlights for Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.md",
