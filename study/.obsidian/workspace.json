@@ -11,14 +11,17 @@
             "id": "7c8364ae710d8b3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "자료 모음.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "자료 모음"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자료 모음.md",
+                "file": "gpt 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 자료 모음"
+              "title": "Backlinks for gpt 자료"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자료 모음.md",
+                "file": "gpt 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 자료 모음"
+              "title": "Outgoing links from gpt 자료"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자료 모음.md",
+                "file": "gpt 자료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 자료 모음"
+              "title": "Outline of gpt 자료"
             }
           }
         ]
@@ -171,11 +174,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a88db1e18b398511",
+  "active": "7c8364ae710d8b3b",
   "lastOpenFiles": [
-    "Untitled",
+    "6c84a48076973b52b38e8c0de65e51b193d6.pdf",
     "AIT_2013012915301219.pdf",
+    "Untitled.canvas",
+    "gpt 자료.md",
     "자료 모음.md",
-    "gpt 자료.md"
+    "자료모음"
   ]
 }

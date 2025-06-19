@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"49d8c50ef48f4ac1","x":-760,"y":-200,"width":400,"height":400,"type":"file","file":"gpt 자료.md"},
+		{"id":"3162c90aecb26442","x":-320,"y":-200,"width":400,"height":400,"type":"file","file":"AIT_2013012915301219.pdf"},
+		{"id":"b3c82576de670b27","x":120,"y":-200,"width":400,"height":400,"type":"file","file":"6c84a48076973b52b38e8c0de65e51b193d6.pdf"}
+	],
+	"edges":[]
+}
