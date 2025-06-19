@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "gpt 자료.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "gpt 자료"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
+                "file": "gpt 자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for create a link"
+              "title": "Backlinks for gpt 자료"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create a link.md",
+                "file": "gpt 자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from create a link"
+              "title": "Outgoing links from gpt 자료"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "gpt 자료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of gpt 자료"
             }
           }
         ]
@@ -175,6 +175,6 @@
   "lastOpenFiles": [
     "자료 모음.md",
     "AIT_2013012915301219.pdf",
-    "create a link.md"
+    "gpt 자료.md"
   ]
 }
