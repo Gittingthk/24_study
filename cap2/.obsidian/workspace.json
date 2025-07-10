@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계획/0711.md",
+                "file": "ultrasound 논문/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0711"
+              "title": "Untitled"
             }
           }
         ]
@@ -198,10 +198,13 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
+    "논문 3.pdf",
+    "계획/0711.md",
+    "ultrasound 논문/Untitled.md",
+    "ultrasound 논문",
     "계획/연구동향 포스터 대회.md",
     "계획/0701.md",
     "계획/0704.md",
-    "계획/0711.md",
     "docker/Untitled.canvas",
     "계획/0710.md",
     "계획/창업아이디어.md",
@@ -237,7 +240,6 @@
     "Pasted image 20250620155324.png",
     "3학년 2학기/유기화학/L11_유기화학1_Aromatic Compounds2 (1).pdf",
     "3학년 2학기/유기화학/L11_유기화학1_Aromatic Compounds3 (1).pdf",
-    "3학년 2학기/유기화학/L10_유기화학_RXN of Alkenes and Alkynes4 (1).pdf",
     "계획/2025-6/0605.md",
     "llm공부/Untitled.canvas",
     "llm공부/Untitled.md",
@@ -251,7 +253,6 @@
     "3학년 2학기/캡스톤디자인 2/로봇팔/관련 링크들.canvas",
     "3학년 2학기/압축관련 논문/Untitled.canvas",
     "3학년 2학기/캡스톤디자인 2/캡디 활용 방안과 문제점.md",
-    "3학년 2학기/인허가 시험용/정리.canvas",
-    "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md"
+    "3학년 2학기/인허가 시험용/정리.canvas"
   ]
 }
