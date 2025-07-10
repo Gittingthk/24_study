@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "캡쳐사진 모음",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }
