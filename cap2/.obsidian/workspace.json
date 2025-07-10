@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계획/0711.md",
+                "file": "계획/0701.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0711"
+              "title": "0701"
             }
           }
         ]
@@ -198,16 +198,16 @@
   },
   "active": "aac26fd7d6f30938",
   "lastOpenFiles": [
-    "docker/Untitled.canvas",
+    "계획/0704.md",
+    "계획/0701.md",
     "계획/0711.md",
+    "docker/Untitled.canvas",
     "계획/0710.md",
     "계획/연구동향 포스터 대회.md",
     "계획/창업아이디어.md",
     "계획/0709.md",
     "계획/0708.md",
     "계획/0707.md",
-    "계획/0704.md",
-    "계획/0701.md",
     "계획/2025-6/0604.md",
     "계획/2025-6/3주안에 끝낼거.md",
     "계획/2025-6",
