@@ -11,16 +11,17 @@
             "id": "ac6f4252a8d73438",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 2,
-                "left": -15,
-                "top": 762,
-                "zoom": 2
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": 165,
+                  "y": 1255.4787250099698,
+                  "zoom": -0.6498069981285877
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           },
           {
@@ -218,8 +219,11 @@
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
-    "논문 공부/3.3관련 논문_1.pdf",
+    "simmons's organonachip.pdf",
+    "simmons's elasto.pdf",
+    "simmons's review.pdf",
     "논문 공부/3.3관련 논문.pdf",
+    "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/도식화.canvas",
     "콜아웃 함수.md",
     "초음파 공부.md",
@@ -249,9 +253,7 @@
     "계획/2025-6/0611.md",
     "Source",
     "Source/캡쳐사진 모음/Pasted image 20250416230411.png",
-    "Untitled",
     "Source/캡쳐사진 모음/Pasted image 20250423154622.png",
-    "llm공부/1-s2.0-S2542504823000192-main.pdf",
     "llm공부/Untitled 1.md",
     "Pasted image 20250620155342.png",
     "Pasted image 20250620155326.png",
