@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -15,
-                "top": 10,
+                "top": 762,
                 "zoom": 2
               },
               "icon": "lucide-file-text",
@@ -27,21 +27,19 @@
             "id": "45ebcbe2696e48cb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": 165,
-                  "y": 1074.8679245283022,
-                  "zoom": -0.31647366479525435
-                }
+                "file": "논문 공부/3.3관련 논문_1.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 786,
+                "zoom": 2.0461097037340665
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "icon": "lucide-file-text",
+              "title": "3.3관련 논문_1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,14 +216,14 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "45ebcbe2696e48cb",
+  "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문_1.pdf",
+    "논문 공부/3.3관련 논문.pdf",
+    "논문 공부/도식화.canvas",
     "콜아웃 함수.md",
     "초음파 공부.md",
-    "논문 공부/도식화.canvas",
     "논문 공부/메인리뷰 논문.pdf",
-    "논문 공부/3.3관련 논문.pdf",
-    "논문 공부/3.3관련 논문_1.pdf",
     "docker/Untitled.canvas",
     "ultrasound 논문/Untitled.md",
     "2025-07-10.md",
