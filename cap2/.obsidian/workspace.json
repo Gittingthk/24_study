@@ -15,9 +15,9 @@
               "state": {
                 "file": "논문 3.pdf",
                 "page": 7,
-                "left": -7,
-                "top": 601,
-                "zoom": 2.298093653535346
+                "left": 19,
+                "top": 529,
+                "zoom": 2.5
               },
               "icon": "lucide-file-text",
               "title": "논문 3"
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "620704063541882d",

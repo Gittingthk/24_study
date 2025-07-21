@@ -1,0 +1,106 @@
+/*
+.metadata-container {
+    display: none !important;
+}
+
+div.tree-item-self[data-path$="/metadata.md"] {
+    display: none !important;
+}
+*/
+
+.tree-item-self[data-path$="metadata.md"],
+.tree-item-self[data-path$="blog_metadata.md"] {
+    display: none !important;
+}
+
+/* dialog buttons */
+.dialog-confirm-button {
+    margin-right: 10px;
+}
+
+/* Modal header styling */
+.book-selection-header {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Book list styling */
+.book-selection-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+/* Book list item styling */
+.book-selection-list-item {
+    padding: 10px 15px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.book-selection-list-item:hover {
+    background-color: #f0f0f0;
+}
+
+/* dark mode */
+body.theme-dark .book-selection-header {
+    color: #ddd;
+}
+
+body.theme-dark .book-selection-list {
+    border: 1px solid #444;
+    background-color: #2a2a2a;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
+
+body.theme-dark .book-selection-list-item {
+    border-bottom: 1px solid #555;
+    color: #ddd;
+}
+
+body.theme-dark .book-selection-list-item:hover {
+    background-color: #3a3a3a;
+}
+
+body.theme-dark .book-selection-empty-message {
+    color: #bbb;
+}
+
+/* Empty message styling */
+.book-selection-empty-message {
+    padding: 10px 15px;
+    text-align: center;
+    color: #999;
+}
+
+/* 공통 스타일 */
+.plugin-setting-input {
+	width: 100%;
+	min-width: 300px;
+	padding: 5px;
+	font-size: 14px;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	outline: none;
+}
+
+.plugin-setting-input:focus {
+	border-color: #007bff; /* 포커스 시 테두리 색상 */
+	box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* 포커스 시 외곽선 효과 */
+}
+
+
+.lock-icon::before {
+    content: "🔒"; /* 자물쇠 이모지 */
+    margin-left: 4px; /* 텍스트와 간격 */
+    font-size: 1em; /* 아이콘 크기 */
+}
