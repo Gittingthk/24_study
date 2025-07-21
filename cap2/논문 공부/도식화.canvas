@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cd4e4cf938bfde63","type":"file","file":"논문 공부/메인리뷰 논문.pdf","x":-280,"y":-160,"width":400,"height":400},
+		{"id":"742af75ed0910149","type":"file","file":"논문 공부/3.3관련 논문_1.pdf","x":200,"y":520,"width":400,"height":400},
+		{"id":"16603f0a366a1c0d","type":"text","text":"main review paper","x":-205,"y":380,"width":250,"height":60},
+		{"id":"1299b601bfc83df3","type":"text","text":"심장 섬유의 시","x":600,"y":520,"width":250,"height":400}
+	],
+	"edges":[]
+}
