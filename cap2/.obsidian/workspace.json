@@ -13,35 +13,33 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/메인리뷰 논문.pdf",
-                "page": 9,
-                "left": 32,
-                "top": 219,
-                "zoom": 2.2
+                "file": "논문 공부/s41598-017-00946-7.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 786,
+                "zoom": 0.9172215913290643
               },
               "icon": "lucide-file-text",
-              "title": "메인리뷰 논문"
+              "title": "s41598-017-00946-7"
             }
           },
           {
             "id": "773b74a9ad6653b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/Untitled.canvas",
-                "viewState": {
-                  "x": 305.71174096373875,
-                  "y": 699.5932139228232,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "논문 공부/s41598-017-00946-7.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 786,
+                "zoom": 0.9172215913290643
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "s41598-017-00946-7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +216,12 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "773b74a9ad6653b2",
+  "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
-    "s41598-017-00946-7.pdf",
-    "논문 공부/3.3관련 논문.pdf",
-    "논문 공부/Untitled.canvas",
     "논문 공부/메인리뷰 논문.pdf",
+    "논문 공부/s41598-017-00946-7.pdf",
+    "논문 공부/Untitled.canvas",
+    "논문 공부/3.3관련 논문.pdf",
     "docker/Untitled.canvas",
     "초음파 공부.md",
     "ultrasound 논문/Untitled.md",
@@ -253,7 +251,6 @@
     "Untitled",
     "Source/캡쳐사진 모음/Pasted image 20250423154622.png",
     "llm공부/1-s2.0-S2542504823000192-main.pdf",
-    "3학년 2학기",
     "llm공부/Untitled 1.md",
     "Pasted image 20250620155342.png",
     "Pasted image 20250620155326.png",
