@@ -11,16 +11,14 @@
             "id": "ac6f4252a8d73438",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 3.pdf",
-                "page": 7,
-                "left": 19,
-                "top": 529,
-                "zoom": 2.5
+                "file": "kimaigastudy/we 한글.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "논문 3"
+              "icon": "lucide-file",
+              "title": "we 한글"
             }
           }
         ]
@@ -202,11 +200,12 @@
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "논문 3.pdf",
+    "kimaigastudy/we 한글.md",
     "kimaigastudy/blog_metadata.md",
     "kimaigastudy",
     "초음파 공부.md",
     "ultrasound 논문/Untitled.md",
-    "논문 3.pdf",
     "2025-07-10.md",
     "계획/0711.md",
     "ultrasound 논문",
@@ -248,8 +247,6 @@
     "Pasted image 20250620155324.png",
     "계획/2025-6/0605.md",
     "llm공부/Untitled.canvas",
-    "llm공부/Untitled.md",
-    "계획/2025-6/0609.md",
     "Source/캡쳐사진 모음/Pasted image 20250515153152.png",
     "Source/캡쳐사진 모음/Untitled Diagram.svg",
     "MEW/Untitled.canvas",
