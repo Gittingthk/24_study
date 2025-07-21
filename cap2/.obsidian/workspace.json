@@ -15,9 +15,25 @@
               "state": {
                 "file": "논문 공부/3.3관련 논문.pdf",
                 "page": 1,
-                "left": -17,
-                "top": 396,
-                "zoom": 0.9172693596754278
+                "left": -15,
+                "top": 10,
+                "zoom": 2
+              },
+              "icon": "lucide-file-text",
+              "title": "3.3관련 논문"
+            }
+          },
+          {
+            "id": "45ebcbe2696e48cb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/3.3관련 논문.pdf",
+                "page": 9,
+                "left": -202,
+                "top": 544,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "3.3관련 논문"
@@ -39,7 +55,8 @@
               "title": "3.3관련 논문_1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +233,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "ac6f4252a8d73438",
+  "active": "45ebcbe2696e48cb",
   "lastOpenFiles": [
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/도식화.canvas",
