@@ -15,9 +15,9 @@
               "state": {
                 "file": "논문 공부/도식화.canvas",
                 "viewState": {
-                  "x": -575.8482371593432,
-                  "y": 1348.85525367419,
-                  "zoom": -0.3333333333333334
+                  "x": -351.76034630862335,
+                  "y": 1417.8291786497455,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -219,6 +219,7 @@
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "bioreactor.pdf",
     "ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
     "논문 공부/도식화.canvas",
@@ -239,7 +240,6 @@
     "kimaigastudy/blog_metadata.md",
     "kimaigastudy",
     "계획/0711.md",
-    "ultrasound 논문",
     "계획/연구동향 포스터 대회.md",
     "계획/0701.md",
     "계획/0704.md",
