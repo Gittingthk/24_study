@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 3.pdf",
+                "file": "논문 공부/메인리뷰 논문.pdf",
                 "page": 7,
                 "left": -7,
-                "top": 187,
+                "top": 415,
                 "zoom": 2.0461097002968214
               },
               "icon": "lucide-file-text",
-              "title": "논문 3"
+              "title": "메인리뷰 논문"
             }
           }
         ]
@@ -202,21 +202,21 @@
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "docker/Untitled.canvas",
+    "초음파 공부.md",
+    "논문 공부/메인리뷰 논문.pdf",
     "ultrasound 논문/Untitled.md",
-    "논문 3.pdf",
     "2025-07-10.md",
     "논문 공부",
     "kimaigastudy/옵시디언 실험.md",
     "kimaigastudy/we 한글.md",
     "kimaigastudy/blog_metadata.md",
     "kimaigastudy",
-    "초음파 공부.md",
     "계획/0711.md",
     "ultrasound 논문",
     "계획/연구동향 포스터 대회.md",
     "계획/0701.md",
     "계획/0704.md",
-    "docker/Untitled.canvas",
     "계획/0710.md",
     "계획/창업아이디어.md",
     "계획/0709.md",
