@@ -14,16 +14,33 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/메인리뷰 논문.pdf",
-                "page": 7,
+                "page": 9,
+                "left": 32,
+                "top": 219,
+                "zoom": 2.2
+              },
+              "icon": "lucide-file-text",
+              "title": "메인리뷰 논문"
+            }
+          },
+          {
+            "id": "773b74a9ad6653b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/메인리뷰 논문.pdf",
+                "page": 13,
                 "left": -7,
-                "top": 415,
-                "zoom": 2.0461097002968214
+                "top": 797,
+                "zoom": 2.046109700296821
               },
               "icon": "lucide-file-text",
               "title": "메인리뷰 논문"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +217,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "773b74a9ad6653b2",
   "lastOpenFiles": [
     "논문 공부/3.3관련 논문.pdf",
     "docker/Untitled.canvas",

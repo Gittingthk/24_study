@@ -291,7 +291,7 @@
   "hoverableDropdownMenuInToolbar": true,
   "zoomLevelInputBoxInToolbar": true,
   "popoverPreviewOnExternalLinkHover": true,
-  "actionOnCitationHover": "pdf-plus-bib-popover",
+  "actionOnCitationHover": "google-scholar-popover",
   "enableBibInEmbed": false,
   "enableBibInHoverPopover": false,
   "enableBibInCanvas": true,
