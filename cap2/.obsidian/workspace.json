@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bb3fc7106b3fa200",
+        "id": "73ab478579f8414e",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6f4252a8d73438",
+            "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "45ebcbe2696e48cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/3.3관련 논문_1.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 786,
-                "zoom": 2.0461097037340665
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": -245.98113207547163,
+                  "y": 1183.680621069182,
+                  "zoom": -0.5157824730186611
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문_1"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           }
         ]
@@ -210,8 +201,9 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "ac6f4252a8d73438",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/도식화.canvas",
     "bioreactor.pdf",
     "ECM scaffold assessment for lvier organoid.pdf",
@@ -220,7 +212,6 @@
     "simmons's elasto.pdf",
     "simmons's review.pdf",
     "논문 공부/3.3관련 논문.pdf",
-    "논문 공부/3.3관련 논문_1.pdf",
     "콜아웃 함수.md",
     "초음파 공부.md",
     "논문 공부/메인리뷰 논문.pdf",
