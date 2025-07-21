@@ -11,16 +11,17 @@
             "id": "ac6f4252a8d73438",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 392,
-                "zoom": 0.9172693596754278
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": 164.85001012748182,
+                  "y": 507.9246410514295,
+                  "zoom": -0.3851307605802616
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           },
           {
@@ -218,9 +219,9 @@
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/도식화.canvas",
-    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "docker/Untitled.canvas",
     "초음파 공부.md",
