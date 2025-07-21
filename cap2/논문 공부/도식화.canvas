@@ -20,7 +20,8 @@
 		{"id":"5dfb657e7b257993","x":280,"y":1800,"width":250,"height":60,"type":"text","text":"딥러닝 기반"},
 		{"id":"e17f7640ffe0e62c","x":1286,"y":2480,"width":400,"height":400,"type":"file","file":"QUS 분류 nature.pdf"},
 		{"id":"1c1a4776a8a92e3b","x":280,"y":2450,"width":250,"height":60,"type":"text","text":"물리 모델+딥러닝 결합\n"},
-		{"id":"6454dbf8a4b1306c","x":280,"y":1880,"width":400,"height":400,"type":"file","file":"Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf"}
+		{"id":"6454dbf8a4b1306c","x":280,"y":1880,"width":400,"height":400,"type":"file","file":"Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf"},
+		{"id":"54c0a1cfc7536141","x":760,"y":1880,"width":400,"height":400,"type":"file","file":"Deep_learning_enables_the_automation_of_grading_hi.pdf"}
 	],
 	"edges":[
 		{"id":"1be98b3ea1d7beeb","fromNode":"2a7affc945540b5c","fromSide":"right","toNode":"12dbad2bb4fdf29e","toSide":"left"},
