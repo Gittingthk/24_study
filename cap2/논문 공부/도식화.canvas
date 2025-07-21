@@ -4,7 +4,7 @@
 		{"id":"742af75ed0910149","type":"file","file":"논문 공부/3.3관련 논문_1.pdf","x":200,"y":520,"width":400,"height":400},
 		{"id":"1299b601bfc83df3","type":"text","text":"심장 섬유의 실시간 구조 변화 관찰  \n\n# 1. novelty\n### **3D-BTI (3D Backscatter Tensor Imaging)** 기법 자체의 최초 제안\n\n- **완전히 새로운 초음파 기반 영상기법**으로, 기존에는 불가능했던 **3차원 심근 섬유 방향과 그 시간적 동역학**을 **비침습적(in vivo)**으로 영상화.\n    \n- 기존 초음파 영상이나 MRI 기반 DTI(Diffusion Tensor Imaging)로는 얻을 수 없던 **심장 섬유의 실시간 구조 변화**를 관찰 가능.\n    \n\n---\n\n### 2. **초고속 3D 볼륨 영상화 (90 volumes/sec)**\n\n- 자체 개발한 3D 초고속 초음파 시스템을 활용해, **한 심장 박동(cardiac cycle)** 동안 **섬유 방향의 시간 변화**를 추적함.\n    \n- 기존 DTI MRI는 분해능이 낮고, 운동에 취약하며, 시간 해상도가 매우 낮음 → 이 문제를 극복.\n    \n\n---\n\n### 3. **공간 코히어런스(Spatial Coherence)의 새로운 사용**\n\n- 초음파 산란 파의 **공간 코히어런스(anisotropy)** 분석을 통해, **하위 파장 수준의 미세 구조 정보**를 추출해 섬유 방향 추정.\n    \n- 공간 코히어런스의 방향성 분석으로 섬유의 방향성을 추정한 접근은 기존 문헌에서 거의 시도되지 않았음.\n    \n\n---\n\n### 4. **in vitro–in vivo–human validation 세트 완비**\n\n- 돼지 심장 샘플(histology 비교), 살아있는 양(open-chest model), 사람 대상 transthoracic imaging까지 실현 → 점진적인 신뢰성 확보.\n    \n- **in vivo beating heart에서 동역학적 섬유 영상화에 성공한 최초의 연구 중 하나**\n    \n\n---\n\n### 5. **임상 적용 가능성**\n\n- 저에너지 초음파 기반이므로 실시간, 반복 측정이 가능하며, 장비 비용도 MRI 대비 저렴.\n    \n- 향후 **심근 섬유 이상(disarray)**, 섬유화(fibrosis), 비후성 심근병증(HCM) 등 조기 진단 가능성을 시사.","x":600,"y":520,"width":250,"height":400},
 		{"id":"e6f7419702a50ace","type":"file","file":"논문 공부/3.3관련 논문.pdf","x":-520,"y":520,"width":400,"height":400},
-		{"id":"16603f0a366a1c0d","type":"text","text":"세포 밀도 증가에 따른 감쇠 계수 변화\n# novelty\n\n","x":-120,"y":520,"width":280,"height":400}
+		{"id":"16603f0a366a1c0d","type":"text","text":"세포 밀도 증가에 따른 감쇠 계수 변화\n\n>**실험 새팅**\n>fibrin 하이드로갤 (0.75, 1.00, 1.25)\n# novelty\n\n","x":-120,"y":520,"width":280,"height":400}
 	],
 	"edges":[]
 }
