@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"16603f0a366a1c0d","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"cd4e4cf938bfde63","x":-280,"y":-160,"width":400,"height":400,"type":"file","file":"논문 공부/메인리뷰 논문.pdf"}
+		{"id":"cd4e4cf938bfde63","x":-280,"y":-160,"width":400,"height":400,"type":"file","file":"논문 공부/메인리뷰 논문.pdf"},
+		{"id":"16603f0a366a1c0d","x":-205,"y":260,"width":250,"height":60,"type":"text","text":"main review paper"}
 	],
 	"edges":[]
 }
