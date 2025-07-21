@@ -11,17 +11,10 @@
             "id": "ac6f4252a8d73438",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": -351.76034630862335,
-                  "y": 1417.8291786497455,
-                  "zoom": -1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -219,10 +212,10 @@
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "논문 공부/도식화.canvas",
     "bioreactor.pdf",
     "ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
-    "논문 공부/도식화.canvas",
     "simmons's organonachip.pdf",
     "simmons's elasto.pdf",
     "simmons's review.pdf",
@@ -238,7 +231,6 @@
     "kimaigastudy/옵시디언 실험.md",
     "kimaigastudy/we 한글.md",
     "kimaigastudy/blog_metadata.md",
-    "kimaigastudy",
     "계획/0711.md",
     "계획/연구동향 포스터 대회.md",
     "계획/0701.md",
