@@ -195,11 +195,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
       "smart-composer:Open smart composer": false,
-      "print:Print note": false
+      "print:Print note": false,
+      "wikidocs:위키독스 책 목록 가져오기": false,
+      "wikidocs:위키독스 블로그 가져오기": false
     }
   },
   "active": "ac6f4252a8d73438",
   "lastOpenFiles": [
+    "kimaigastudy/blog_metadata.md",
+    "kimaigastudy",
     "초음파 공부.md",
     "ultrasound 논문/Untitled.md",
     "논문 3.pdf",
@@ -242,7 +246,6 @@
     "잽 게임/Untitled.md",
     "잽 게임/Untitled.canvas",
     "Pasted image 20250620155324.png",
-    "3학년 2학기/유기화학/L11_유기화학1_Aromatic Compounds2 (1).pdf",
     "계획/2025-6/0605.md",
     "llm공부/Untitled.canvas",
     "llm공부/Untitled.md",
