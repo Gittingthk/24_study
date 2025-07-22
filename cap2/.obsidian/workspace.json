@@ -15,16 +15,33 @@
               "state": {
                 "file": "논문 공부/도식화.canvas",
                 "viewState": {
-                  "x": 1450.5415560998504,
-                  "y": 1907.8532161393941,
-                  "zoom": -0.6711963251471813
+                  "x": 689.7736043768559,
+                  "y": 2172.579002190271,
+                  "zoom": 0.662137008186152
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "도식화"
             }
+          },
+          {
+            "id": "7de419c3002927f6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 786,
+                "zoom": 2.0461097037340665
+              },
+              "icon": "lucide-file-text",
+              "title": "Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +218,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "7de419c3002927f6",
   "lastOpenFiles": [
-    "논문 공부/bioreactor_1.pdf",
     "논문 공부/도식화.canvas",
+    "논문 공부/bioreactor_1.pdf",
     "2024.07.19.604365v1.full.pdf",
     "논문 공부/포공 bioreator.pdf",
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
