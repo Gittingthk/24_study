@@ -11,14 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "kimaigastudy/옵시디언 실험.md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/QUS 분류 nature.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 786,
+                "zoom": 2.0461097037340665
               },
-              "icon": "lucide-file",
-              "title": "옵시디언 실험"
+              "icon": "lucide-file-text",
+              "title": "QUS 분류 nature"
             }
           }
         ]
@@ -200,28 +202,28 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
+    "콜아웃 함수.md",
+    "계획/0701.md",
+    "kimaigastudy/옵시디언 실험.md",
     "논문 공부/도식화.canvas",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/bioreactor.pdf",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
-    "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/QUS 분류 nature.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/simmons's elasto.pdf",
-    "콜아웃 함수.md",
     "초음파 공부.md",
     "docker/Untitled.canvas",
     "ultrasound 논문/Untitled.md",
     "2025-07-10.md",
-    "kimaigastudy/옵시디언 실험.md",
     "kimaigastudy/we 한글.md",
     "kimaigastudy/blog_metadata.md",
     "계획/0711.md",
     "계획/연구동향 포스터 대회.md",
-    "계획/0701.md",
     "계획/0704.md",
     "계획/0710.md",
     "계획/창업아이디어.md",
