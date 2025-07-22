@@ -11,16 +11,17 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/QUS 분류 nature.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 786,
-                "zoom": 2.0461097037340665
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": 243,
+                  "y": 1360,
+                  "zoom": -1.8095136760753714
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "QUS 분류 nature"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           }
         ]
@@ -202,6 +203,7 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/QUS 분류 nature.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "콜아웃 함수.md",
     "계획/0701.md",
@@ -210,7 +212,6 @@
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/bioreactor.pdf",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
-    "논문 공부/QUS 분류 nature.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
