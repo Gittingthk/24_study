@@ -11,17 +11,14 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": 649.1476291574912,
-                  "y": 2221.0893290485255,
-                  "zoom": -0.5157824730186611
-                }
+                "file": "kimaigastudy/옵시디언 실험.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "icon": "lucide-file",
+              "title": "옵시디언 실험"
             }
           }
         ]
@@ -203,18 +200,17 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "Deep_learning_enables_the_automation_of_grading_hi.pdf",
-    "Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
-    "QUS 분류 nature.pdf",
-    "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/도식화.canvas",
-    "bioreactor.pdf",
-    "ECM scaffold assessment for lvier organoid.pdf",
+    "논문 공부/메인리뷰 논문.pdf",
+    "논문 공부/bioreactor.pdf",
+    "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
+    "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
+    "논문 공부/QUS 분류 nature.pdf",
+    "논문 공부/3.3관련 논문_1.pdf",
+    "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
-    "simmons's organonachip.pdf",
-    "simmons's elasto.pdf",
-    "simmons's review.pdf",
-    "논문 공부/3.3관련 논문.pdf",
+    "논문 공부/simmons's organonachip.pdf",
+    "논문 공부/simmons's elasto.pdf",
     "콜아웃 함수.md",
     "초음파 공부.md",
     "docker/Untitled.canvas",
