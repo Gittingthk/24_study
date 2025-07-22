@@ -15,16 +15,33 @@
               "state": {
                 "file": "논문 공부/도식화.canvas",
                 "viewState": {
-                  "x": -432.6251598105091,
-                  "y": 1622.357608775941,
+                  "x": 674.5364058084316,
+                  "y": 1519.983080448162,
                   "zoom": -0.337862991813848
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "도식화"
             }
+          },
+          {
+            "id": "6fe48787e12987cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/simmons's organonachip.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 805,
+                "zoom": 2.0052419461054183
+              },
+              "icon": "lucide-file-text",
+              "title": "simmons's organonachip"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +218,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "6fe48787e12987cf",
   "lastOpenFiles": [
-    "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/도식화.canvas",
+    "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/bioreactor_1.pdf",
     "2024.07.19.604365v1.full.pdf",
