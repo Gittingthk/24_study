@@ -23,7 +23,8 @@
 		{"id":"6454dbf8a4b1306c","type":"file","file":"논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf","x":280,"y":1880,"width":400,"height":400},
 		{"id":"54c0a1cfc7536141","type":"file","file":"논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf","x":760,"y":1880,"width":400,"height":400},
 		{"id":"9d3b9d773b619089","x":-1387,"y":2422,"width":400,"height":400,"type":"file","file":"bioreactor_1.pdf"},
-		{"id":"c7f32b09a25a7787","x":-850,"y":2422,"width":400,"height":400,"type":"file","file":"AI_enabled organoid_bioreactor.pdf"}
+		{"id":"c7f32b09a25a7787","x":-940,"y":2422,"width":400,"height":400,"type":"file","file":"AI_enabled organoid_bioreactor.pdf"},
+		{"id":"528dce34772ea3f7","x":-500,"y":2422,"width":400,"height":400,"type":"file","file":"포공 bioreator.pdf"}
 	],
 	"edges":[
 		{"id":"1be98b3ea1d7beeb","fromNode":"2a7affc945540b5c","fromSide":"right","toNode":"12dbad2bb4fdf29e","toSide":"left"},
