@@ -32,9 +32,9 @@
               "state": {
                 "file": "논문 공부/simmons's organonachip.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 805,
-                "zoom": 2.0052419461054183
+                "left": -9,
+                "top": 547,
+                "zoom": 1.7582909675210074
               },
               "icon": "lucide-file-text",
               "title": "simmons's organonachip"
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +217,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "6fe48787e12987cf",
+  "active": "384bed12165643ea",
   "lastOpenFiles": [
     "논문 공부/도식화.canvas",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
