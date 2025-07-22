@@ -15,33 +15,16 @@
               "state": {
                 "file": "논문 공부/도식화.canvas",
                 "viewState": {
-                  "x": 689.7736043768559,
-                  "y": 2172.579002190271,
-                  "zoom": 0.662137008186152
+                  "x": -432.6251598105091,
+                  "y": 1622.357608775941,
+                  "zoom": -0.337862991813848
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "도식화"
             }
-          },
-          {
-            "id": "7de419c3002927f6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 786,
-                "zoom": 2.0461097037340665
-              },
-              "icon": "lucide-file-text",
-              "title": "Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,21 +201,21 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "7de419c3002927f6",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/도식화.canvas",
+    "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/bioreactor_1.pdf",
     "2024.07.19.604365v1.full.pdf",
     "논문 공부/포공 bioreator.pdf",
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
     "논문 공부/QUS 분류 nature.pdf",
-    "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "콜아웃 함수.md",
     "계획/0701.md",
     "kimaigastudy/옵시디언 실험.md",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/bioreactor.pdf",
-    "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "초음파 공부.md",
     "docker/Untitled.canvas",

@@ -18,7 +18,6 @@
 		{"id":"5dfb657e7b257993","type":"text","text":"딥러닝 기반","x":280,"y":1800,"width":250,"height":60},
 		{"id":"1c1a4776a8a92e3b","type":"text","text":"물리 모델+딥러닝 결합\n","x":280,"y":2450,"width":250,"height":60},
 		{"id":"6454dbf8a4b1306c","type":"file","file":"논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf","x":280,"y":1880,"width":400,"height":400},
-		{"id":"54c0a1cfc7536141","type":"file","file":"논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf","x":760,"y":1880,"width":400,"height":400},
 		{"id":"9d3b9d773b619089","type":"file","file":"논문 공부/bioreactor_1.pdf","x":-1387,"y":2422,"width":400,"height":400},
 		{"id":"528dce34772ea3f7","type":"file","file":"논문 공부/포공 bioreator.pdf","x":-500,"y":2422,"width":400,"height":400},
 		{"id":"52b60901b5190424","type":"file","file":"2024.07.19.604365v1.full.pdf","x":-1387,"y":2920,"width":400,"height":400},
