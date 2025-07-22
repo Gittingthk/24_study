@@ -28,16 +28,14 @@
             "id": "6fe48787e12987cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/simmons's organonachip.pdf",
-                "page": 1,
-                "left": -19,
-                "top": 357,
-                "zoom": 0.8198772489002449
+                "file": "kimaigastudy/딥러닝 1일차.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "simmons's organonachip"
+              "icon": "lucide-file",
+              "title": "딥러닝 1일차"
             }
           }
         ],
@@ -218,8 +216,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "6fe48787e12987cf",
   "lastOpenFiles": [
+    "논문 공부/simmons's organonachip.pdf",
+    "kimaigastudy/딥러닝 1일차.md",
     "논문 공부/도식화.canvas",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
@@ -264,7 +264,6 @@
     "Untitled/Untitled.md",
     "ros2/혼공로봇sw ros2.md",
     "ros2/Untitled.canvas",
-    "잽 게임/Untitled 1.md",
     "잽 게임/Untitled.canvas",
     "Pasted image 20250620155324.png",
     "llm공부/Untitled.canvas",
