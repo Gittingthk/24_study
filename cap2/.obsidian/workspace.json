@@ -60,10 +60,14 @@
             "id": "fde29b3e4e27c701",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "초음파 공부.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "초음파 공부"
             }
           }
         ],
@@ -246,6 +250,8 @@
   },
   "active": "fde29b3e4e27c701",
   "lastOpenFiles": [
+    "콜아웃 함수.md",
+    "초음파 공부.md",
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/simmons's organonachip.pdf",
@@ -258,11 +264,8 @@
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/bioreactor_1.pdf",
-    "2024.07.19.604365v1.full.pdf",
-    "콜아웃 함수.md",
     "계획/0701.md",
     "kimaigastudy/옵시디언 실험.md",
-    "초음파 공부.md",
     "docker/Untitled.canvas",
     "ultrasound 논문/Untitled.md",
     "2025-07-10.md",
