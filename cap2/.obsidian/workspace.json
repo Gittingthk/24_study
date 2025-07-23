@@ -25,32 +25,32 @@
             }
           },
           {
-            "id": "6fe48787e12987cf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 2,
-                "left": -7,
-                "top": 756,
-                "zoom": 2.046216263891339
-              },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
-            }
-          },
-          {
             "id": "913e9542fa20b050",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 9,
-                "left": -202,
-                "top": 544,
-                "zoom": 1.25
+                "page": 2,
+                "left": -49,
+                "top": 505,
+                "zoom": 1.8
+              },
+              "icon": "lucide-file-text",
+              "title": "3.3관련 논문"
+            }
+          },
+          {
+            "id": "89917dd4c72a9bef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/3.3관련 논문.pdf",
+                "page": 8,
+                "left": -7,
+                "top": 44,
+                "zoom": 2.046216263891339
               },
               "icon": "lucide-file-text",
               "title": "3.3관련 논문"
@@ -234,13 +234,15 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "913e9542fa20b050",
+  "active": "89917dd4c72a9bef",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문_1.pdf",
+    "논문 공부/3.3관련 논문.pdf",
+    "논문 공부/도식화.canvas",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/포공 bioreator.pdf",
     "kimaigastudy/딥러닝 1일차.md",
     "논문 공부/simmons's organonachip.pdf",
-    "논문 공부/도식화.canvas",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/bioreactor_1.pdf",
@@ -250,7 +252,6 @@
     "콜아웃 함수.md",
     "계획/0701.md",
     "kimaigastudy/옵시디언 실험.md",
-    "논문 공부/bioreactor.pdf",
     "초음파 공부.md",
     "docker/Untitled.canvas",
     "ultrasound 논문/Untitled.md",
