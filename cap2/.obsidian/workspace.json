@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/포공 bioreator.pdf",
-                "page": 1,
+                "file": "논문 공부/메인리뷰 논문.pdf",
+                "page": 10,
                 "left": -7,
-                "top": 795,
-                "zoom": 2.0461097037340665
+                "top": 669,
+                "zoom": 2.0461097002968214
               },
               "icon": "lucide-file-text",
-              "title": "포공 bioreator"
+              "title": "메인리뷰 논문"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "6fe48787e12987cf",
   "lastOpenFiles": [
+    "논문 공부/포공 bioreator.pdf",
     "kimaigastudy/딥러닝 1일차.md",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/도식화.canvas",
@@ -227,7 +228,6 @@
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/bioreactor_1.pdf",
     "2024.07.19.604365v1.full.pdf",
-    "논문 공부/포공 bioreator.pdf",
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
     "논문 공부/QUS 분류 nature.pdf",
     "콜아웃 함수.md",
