@@ -28,14 +28,16 @@
             "id": "6fe48787e12987cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "kimaigastudy/딥러닝 1일차.md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/포공 bioreator.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 795,
+                "zoom": 2.0461097037340665
               },
-              "icon": "lucide-file",
-              "title": "딥러닝 1일차"
+              "icon": "lucide-file-text",
+              "title": "포공 bioreator"
             }
           }
         ],
@@ -218,8 +220,8 @@
   },
   "active": "6fe48787e12987cf",
   "lastOpenFiles": [
-    "논문 공부/simmons's organonachip.pdf",
     "kimaigastudy/딥러닝 1일차.md",
+    "논문 공부/simmons's organonachip.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
@@ -233,7 +235,6 @@
     "kimaigastudy/옵시디언 실험.md",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/bioreactor.pdf",
-    "논문 공부/3.3관련 논문_1.pdf",
     "초음파 공부.md",
     "docker/Untitled.canvas",
     "ultrasound 논문/Untitled.md",
