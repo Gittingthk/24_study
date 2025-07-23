@@ -31,17 +31,33 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -7,
-                "top": 768,
+                "top": 756,
                 "zoom": 2.046216263891339
+              },
+              "icon": "lucide-file-text",
+              "title": "3.3관련 논문"
+            }
+          },
+          {
+            "id": "913e9542fa20b050",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/3.3관련 논문.pdf",
+                "page": 9,
+                "left": -202,
+                "top": 544,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "3.3관련 논문"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +234,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "6fe48787e12987cf",
+  "active": "913e9542fa20b050",
   "lastOpenFiles": [
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/포공 bioreator.pdf",
