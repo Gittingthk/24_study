@@ -55,9 +55,19 @@
               "icon": "lucide-file-text",
               "title": "3.3관련 논문"
             }
+          },
+          {
+            "id": "fde29b3e4e27c701",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,13 +244,13 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "913e9542fa20b050",
+  "active": "fde29b3e4e27c701",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/simmons's review.pdf",
     "논문 공부/simmons's elasto.pdf",
-    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/포공 bioreator.pdf",
