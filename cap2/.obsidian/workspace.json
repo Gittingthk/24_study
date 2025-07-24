@@ -60,16 +60,17 @@
             "id": "fde29b3e4e27c701",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/메인리뷰 논문.pdf",
-                "page": 13,
-                "left": -7,
-                "top": 335,
-                "zoom": 2.0461097002968214
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": -424.0354937890796,
+                  "y": 1760.754333385378,
+                  "zoom": -0.004529658480514676
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "메인리뷰 논문"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           }
         ],
@@ -252,6 +253,7 @@
   },
   "active": "fde29b3e4e27c701",
   "lastOpenFiles": [
+    "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "초음파 공부.md",
     "콜아웃 함수.md",
@@ -260,7 +262,6 @@
     "논문 공부/simmons's review.pdf",
     "논문 공부/simmons's elasto.pdf",
     "논문 공부/도식화.canvas",
-    "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/포공 bioreator.pdf",
     "kimaigastudy/딥러닝 1일차.md",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
