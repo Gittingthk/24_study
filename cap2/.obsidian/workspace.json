@@ -60,14 +60,16 @@
             "id": "fde29b3e4e27c701",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "초음파 공부.md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/메인리뷰 논문.pdf",
+                "page": 13,
+                "left": -7,
+                "top": 335,
+                "zoom": 2.0461097002968214
               },
-              "icon": "lucide-file",
-              "title": "초음파 공부"
+              "icon": "lucide-file-text",
+              "title": "메인리뷰 논문"
             }
           }
         ],
@@ -250,10 +252,10 @@
   },
   "active": "fde29b3e4e27c701",
   "lastOpenFiles": [
-    "콜아웃 함수.md",
-    "초음파 공부.md",
-    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
+    "초음파 공부.md",
+    "콜아웃 함수.md",
+    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/simmons's review.pdf",
     "논문 공부/simmons's elasto.pdf",
