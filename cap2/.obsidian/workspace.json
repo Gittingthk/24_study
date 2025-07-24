@@ -28,16 +28,17 @@
             "id": "062aff4f8dbed6c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/simmons's elasto.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 797,
-                "zoom": 2.0461097037340665
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": -378.05614706823167,
+                  "y": 893.8606113215833,
+                  "zoom": -0.337862991813848
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "simmons's elasto"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           },
           {
@@ -267,6 +268,7 @@
   },
   "active": "062aff4f8dbed6c9",
   "lastOpenFiles": [
+    "논문 공부/simmons's elasto.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/bioreactor.pdf",
