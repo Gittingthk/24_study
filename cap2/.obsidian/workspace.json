@@ -33,7 +33,7 @@
                 "file": "논문 공부/3.3관련 논문.pdf",
                 "page": 2,
                 "left": -49,
-                "top": 505,
+                "top": 509,
                 "zoom": 1.8
               },
               "icon": "lucide-file-text",
@@ -48,33 +48,14 @@
               "state": {
                 "file": "논문 공부/3.3관련 논문.pdf",
                 "page": 8,
-                "left": -7,
-                "top": 48,
                 "zoom": 2.046216263891339
               },
               "icon": "lucide-file-text",
               "title": "3.3관련 논문"
             }
-          },
-          {
-            "id": "fde29b3e4e27c701",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": -424.0354937890796,
-                  "y": 1760.754333385378,
-                  "zoom": -0.004529658480514676
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,8 +232,9 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "fde29b3e4e27c701",
+  "active": "913e9542fa20b050",
   "lastOpenFiles": [
+    "논문 공부/도식화.canvas",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "초음파 공부.md",
@@ -261,7 +243,6 @@
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/simmons's review.pdf",
     "논문 공부/simmons's elasto.pdf",
-    "논문 공부/도식화.canvas",
     "논문 공부/포공 bioreator.pdf",
     "kimaigastudy/딥러닝 1일차.md",
     "논문 공부/Deep_learning_enables_the_automation_of_grading_hi.pdf",
