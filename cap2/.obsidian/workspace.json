@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/bioreactor.pdf",
-                "page": 10,
-                "left": 35,
-                "top": 756,
-                "zoom": 2.046095954844779
+                "page": 1,
+                "left": 24,
+                "top": 693,
+                "zoom": 0.83658110469023
               },
               "icon": "lucide-file-text",
               "title": "bioreactor"
@@ -48,47 +48,17 @@
               "state": {
                 "file": "논문 공부/도식화.canvas",
                 "viewState": {
-                  "x": -832.1320754716985,
-                  "y": 1861.4290978773583,
+                  "x": -842.5257628653133,
+                  "y": 1148.8096271621214,
                   "zoom": -0.004529658480514676
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "도식화"
             }
-          },
-          {
-            "id": "33a98b4241015cb9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/3.3관련 논문_1.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 786,
-                "zoom": 2.0461097037340665
-              },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문_1"
-            }
-          },
-          {
-            "id": "89917dd4c72a9bef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 8,
-                "zoom": 2.046216263891339
-              },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,13 +235,13 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "062aff4f8dbed6c9",
+  "active": "913e9542fa20b050",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문_1.pdf",
+    "논문 공부/bioreactor.pdf",
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/simmons's elasto.pdf",
-    "논문 공부/3.3관련 논문_1.pdf",
-    "논문 공부/bioreactor.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/QUS 분류 nature.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
