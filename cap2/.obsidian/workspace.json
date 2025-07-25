@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/메인리뷰 논문.pdf",
-                "page": 10,
-                "left": -18,
-                "top": 689,
-                "zoom": 0.8365867247519022
+                "page": 4,
+                "left": -62,
+                "top": 456,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
               "title": "메인리뷰 논문"
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "620704063541882d",
