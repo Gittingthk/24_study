@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 2,
-                "left": -7,
-                "top": 513,
-                "zoom": 2.046216263891339
+                "file": "논문 공부/bioreactor.pdf",
+                "page": 10,
+                "left": 35,
+                "top": 756,
+                "zoom": 2.046095954844779
               },
               "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
+              "title": "bioreactor"
             }
           },
           {
@@ -267,6 +267,7 @@
   },
   "active": "062aff4f8dbed6c9",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/simmons's elasto.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
