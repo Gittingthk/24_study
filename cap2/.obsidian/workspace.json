@@ -44,17 +44,16 @@
             "id": "913e9542fa20b050",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": -842.5257628653133,
-                  "y": 1148.8096271621214,
-                  "zoom": -0.004529658480514676
-                }
+                "file": "논문 공부/메인리뷰 논문.pdf",
+                "page": 10,
+                "left": -18,
+                "top": 689,
+                "zoom": 0.8365867247519022
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "icon": "lucide-file-text",
+              "title": "메인리뷰 논문"
             }
           }
         ],
@@ -237,10 +236,10 @@
   },
   "active": "913e9542fa20b050",
   "lastOpenFiles": [
+    "논문 공부/도식화.canvas",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/bioreactor.pdf",
     "논문 공부/3.3관련 논문.pdf",
-    "논문 공부/도식화.canvas",
     "논문 공부/simmons's elasto.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
     "논문 공부/QUS 분류 nature.pdf",
@@ -248,7 +247,6 @@
     "논문 공부/bioreactor_1.pdf",
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
     "논문 공부/메인리뷰 논문.pdf",
-    "논문 공부/포공 bioreator.pdf",
     "초음파 공부.md",
     "콜아웃 함수.md",
     "kimaigastudy/딥러닝 1일차.md",
