@@ -16,7 +16,7 @@
                 "file": "논문 공부/도식화.canvas",
                 "viewState": {
                   "x": 35.82886416344326,
-                  "y": 1328.8570572240285,
+                  "y": 884.5794213368948,
                   "zoom": 0.32880367485281864
                 }
               },
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/bioreactor.pdf",
-                "page": 1,
+                "page": 3,
                 "left": 35,
-                "top": 697,
+                "top": 668,
                 "zoom": 2.298078215293643
               },
               "icon": "lucide-file-text",
@@ -56,8 +56,7 @@
               "title": "메인리뷰 논문"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +234,12 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "062aff4f8dbed6c9",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/bioreactor.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/3.3관련 논문_1.pdf",
-    "논문 공부/bioreactor.pdf",
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/simmons's elasto.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
