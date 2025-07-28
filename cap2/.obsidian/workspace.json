@@ -36,24 +36,9 @@
               "icon": "lucide-file-text",
               "title": "bioreactor"
             }
-          },
-          {
-            "id": "913e9542fa20b050",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/메인리뷰 논문.pdf",
-                "page": 8,
-                "left": -70,
-                "top": 21,
-                "zoom": 1.9
-              },
-              "icon": "lucide-file-text",
-              "title": "메인리뷰 논문"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +215,11 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "062aff4f8dbed6c9",
   "lastOpenFiles": [
-    "계획/0707.md",
+    "논문 공부/메인리뷰 논문.pdf",
     "계획/0728.md",
+    "계획/0707.md",
     "계획/0711.md",
     "계획/0704.md",
     "kimaigastudy/딥러닝의 역사.md",
@@ -243,7 +229,6 @@
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/bioreactor.pdf",
-    "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/simmons's elasto.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
@@ -276,7 +261,6 @@
     "Pasted image 20250613174117.png",
     "영상학.md",
     "Untitled 1/Untitled.canvas",
-    "Untitled/Untitled.md",
     "ros2/Untitled.canvas",
     "잽 게임/Untitled.canvas",
     "Pasted image 20250620155324.png",
