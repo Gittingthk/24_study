@@ -11,16 +11,14 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 798,
-                "zoom": 2.046216263891339
+                "file": "kimaigastudy/딥러닝의 역사.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
+              "icon": "lucide-file",
+              "title": "딥러닝의 역사"
             }
           },
           {
@@ -234,8 +232,12 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/도식화.canvas",
+    "kimaigastudy/옵시디언 실험.md",
+    "kimaigastudy/딥러닝 1일차.md",
+    "kimaigastudy/딥러닝의 역사.md",
+    "kimaigastudy/we 한글.md",
     "논문 공부/3.3관련 논문.pdf",
+    "논문 공부/도식화.canvas",
     "논문 공부/bioreactor.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
@@ -247,13 +249,10 @@
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
     "초음파 공부.md",
     "콜아웃 함수.md",
-    "kimaigastudy/딥러닝 1일차.md",
     "계획/0701.md",
-    "kimaigastudy/옵시디언 실험.md",
     "docker/Untitled.canvas",
     "ultrasound 논문/Untitled.md",
     "2025-07-10.md",
-    "kimaigastudy/we 한글.md",
     "kimaigastudy/blog_metadata.md",
     "계획/0711.md",
     "계획/연구동향 포스터 대회.md",
