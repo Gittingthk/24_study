@@ -25,16 +25,14 @@
             "id": "062aff4f8dbed6c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/bioreactor.pdf",
-                "page": 3,
-                "left": 35,
-                "top": 668,
-                "zoom": 2.298078215293643
+                "file": "kimaigastudy/딥러닝의 역사.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "bioreactor"
+              "icon": "lucide-file",
+              "title": "딥러닝의 역사"
             }
           }
         ],
@@ -217,18 +215,18 @@
   },
   "active": "062aff4f8dbed6c9",
   "lastOpenFiles": [
+    "kimaigastudy/딥러닝 1일차.md",
+    "논문 공부/bioreactor.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "계획/0728.md",
     "계획/0707.md",
     "계획/0711.md",
     "계획/0704.md",
     "kimaigastudy/딥러닝의 역사.md",
-    "kimaigastudy/딥러닝 1일차.md",
     "kimaigastudy/옵시디언 실험.md",
     "kimaigastudy/we 한글.md",
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/도식화.canvas",
-    "논문 공부/bioreactor.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/simmons's elasto.pdf",
     "논문 공부/ECM scaffold assessment for lvier organoid.pdf",
