@@ -94,5 +94,8 @@ for i = 1:Resource.RcvBuffer(1).numFrames
 	Receive(i).Apod(Resource.Parameters.numRcvChannels+1:Trnas.numelements) = 1.0;
 	Recieve(i).framenum = i;
 	Recieve(i).acqNum = 1;
-	Recive
+	Recieve(i).callMediaFunc = 1;
+end
+
+Recon = struct(')
 
