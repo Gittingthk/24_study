@@ -65,4 +65,5 @@ Resource.ImageBuffer(1).numFrames = 10; 최대 10장의 이미지가 저장될 �
 Resource.DisplayWindow(1).Title = 'L7-4Flash_LE' ;
 Resource.DisplayWindow(1).pdelta = 0.35;
 ScrnSze = get(0, 'ScreenSize');
-DwWidth = ceil(PData(1).Size(2)*PData(1)/Resource.DisplayWindow(1).)
+DwWidth = ceil(PData(1).Size(2)*PData(1)/Resource.DisplayWindow(1).pdelta);
+DwHeight = ceil(PData(1).Size(1)*PData*(1))
