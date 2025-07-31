@@ -106,6 +106,6 @@ Recon = struct('senscutoff', 0.6, ... % 감도 컷오프 값
 ReconInfo = repmat(struct('mode', 'replaceIQ', ...
 					'txnum', 1, ... % 송신 파형 1번 사용
 					'rcvnum', 1, ... % 수신 횟수 구분
-		
+					'regionnum', 1),1,2);
 					))
 
