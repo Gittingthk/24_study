@@ -63,4 +63,5 @@ Resource.RcvBuffer(1).numFrames = 100; %
 Resource.InterBuffer(1).numFrames = 1; %프레임 간 누적이 필요 없는 경우
 Resource.ImageBuffer(1).numFrames = 10; 최대 10장의 이미지가 저장될 공간
 Resource.DisplayWindow(1).Title = 'L7-4Flash_LE' ;
-
+Resource.DisplayWindow(1).pdelta = 0.35;
+ScrnSze = get(0, 'ScreenSze);
