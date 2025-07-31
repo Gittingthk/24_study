@@ -98,5 +98,7 @@ for i = 1:Resource.RcvBuffer(1).numFrames
 end
 
 Recon = struct('senscutoff', 0.6, ... % 감도 컷오프 값
-						'pdatanum'
+				'pdatanum', 1, ... % 사용할 PData 구조 번호
+				'rcvBufframe', -1, ... 가장 최근 수신한 프레임 사용
+				
 
