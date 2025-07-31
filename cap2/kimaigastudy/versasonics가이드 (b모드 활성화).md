@@ -45,4 +45,5 @@ Trans = computeTrans(Trans); 트랜스듀서 정보 초기화 함수
 Trans.maxHighVoltage = 50; 송신 펄스에 사용할 최대 전압 단위는 볼트이며 50V이하에서 안전하게 사용가능하다(L7-4)
 PData(1).PDelta = [Trans.spacing, 0, 0.5]; [dx, dy, dz]는 x축 방향 해상도 (요소 간격), y축 방향 은(0), z축 방향 해상도( 깊이 간격) Trans.spacing은 탐촉자 요소 간의 거리로 0.3mm 파장이라면 0.3을 입력한다? 이거 다시 알아봐야할 듯
 PData(1).Size(1) = ceil((P.endDepth - P.startDepth) / PData(1).PDelta(3)); Z축(깊이) 방향의 영상 크기(픽셀 수) 를 계산한다 전체 깊이 범위를 dz 간격으로 나눈 것.
-PData(1).Size(2) = ceil((Trnas.numelements * Trnas.spacing /2 ) / PData(1).PDelta(1));
+PData(1).Size(2) = ceil((Trnas.numelements * Trnas.spacing /2 ) / PData(1).PDelta(1)); /2를 한 이유는 Verasonics 영상이 탐촉자 중심 기준 반폭만을 영상화 하기 때문이다.
+PData(1).Size
