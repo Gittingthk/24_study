@@ -126,6 +126,7 @@ Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
 						
 						};
 
-SeqControl(1).command = 'jump'
+SeqControl(1).command = 'jump';
+Seq
 
 
