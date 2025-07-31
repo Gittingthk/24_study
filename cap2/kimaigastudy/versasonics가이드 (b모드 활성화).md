@@ -91,11 +91,11 @@ TGC.Waveform = computeTGWaveform(TGC); % 위설정을 바탕으로 실제 TGC �
 Receive = repmat(struct('Apod', zeros(1, Trans.numelements),'startDepth', P.startDepth, 'endDepth', amxAcqLength,'TGC, 1, 'bufnum', 1, 'framenum', 1, 'acqNum', 1, 'sampleMode', 'NS200BW', 'mode', 0, 'callMediaFunc', 0),1,2*Resource.RcvBuffer(1).numFrames);
 
 for i = 1:Resource.RcvBuffer(1).numFrames
-	Receive(i).Apod(Resource.Parameters.numRcvChannels+1:Trnas.numelements) = 1.0;
-	Recieve(i).framenum = i; %현재 프ㄹ
-	Recieve(i).acqNum = 1;
-	Recieve(i).callMediaFunc = 1;
+	Receive(i).Apod(Resource.Parameters.numRcvChannels+1:Trnas.numelements) = 1.0; 오른쪽 반 수신 채널 활성화
+	Recieve(i).framenum = i; %현재 프레임 번호 설정 
+	Recieve(i).acqNum = 1; %각 프레임의 첫 번째 수신 이벤트
+	Recieve(i).callMediaFunc = 1; %시뮬레이션에서 media 객체 업데이트
 end
 
-Recon = struct(')
+Recon = struct('sen)
 
