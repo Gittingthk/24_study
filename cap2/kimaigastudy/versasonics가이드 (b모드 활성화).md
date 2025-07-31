@@ -91,4 +91,5 @@ TGC.Waveform = computeTGWaveform(TGC); % 위설정을 바탕으로 실제 TGC �
 Receive = repmat(struct('Apod', zeros(1, Trans.numelements),'startDepth', P.startDepth, 'endDepth', amxAcqLength,'TGC, 1, 'bufnum', 1, 'framenum', 1, 'acqNum', 1, 'sampleMode', 'NS200BW', 'mode', 0, 'callMediaFunc', 0),1,2*Resource.RcvBuffer(1).numFrames);
 
 for i = 1:Resource.RcvBuffer(1).numFrames
+	Receive(i).Apod()
 
