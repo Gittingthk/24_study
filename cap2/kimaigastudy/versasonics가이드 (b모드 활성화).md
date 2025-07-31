@@ -113,6 +113,7 @@ ReconInfo(2).rcvnum = 2;
 pres = 20;
 Process(1).classname = 'Image';
 Process(1),method = 'imageDisplay';
-Process(1).Parameters = {'imgbufnum'}
+Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
+						'framenum', -1, ...}
 
 
