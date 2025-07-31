@@ -124,6 +124,8 @@ Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
 						'displayWindow', 1번 display 창에 표시
 						'display', 1 실제화면 띄움
 						
-						}
+						};
+
+SeqControl(1).command
 
 
