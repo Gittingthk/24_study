@@ -130,6 +130,6 @@ SeqControl(1).command = 'jump';
 SeqControl(1).argument = 1;
 
 SeqControl(2).command = 'timeToNextAcq';
-
+SeqControl(2).argument = 200;
 
 
