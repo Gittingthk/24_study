@@ -117,7 +117,9 @@ Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
 						'framenum', -1, ...% 마지막 프레임 표시
 						'pdatanum', 1,...
 						'pgain',1.0,...
-						'reject',2,000 % rejct level 노이즈 억제
+						'reject',2,000 % reject level 노이즈 억제
+						'persistLevel', 20 %20프레임까지 잔상 유지
+						'interpMethod', ''
 						}
 
 
