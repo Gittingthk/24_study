@@ -74,6 +74,5 @@ Resource.DisplyaWindow(1).numFrames = 20;
 Resource.DisplayWindow(1).AxesUnits = 'mm';
 Resource.DisplayWindow(1).Colormap = gray(256);
 TW(1).type = 'parametric';
-TW(1).Parameters = [Trans.frequency, 0.67, 2, 1];
-
+TW(1).Parameters = [Trans.frequency, 0.67, 2, 1]; % TW(1)은 1번째 송신 파형 정의, parametric파형 수식으로 정의, parameters = 
 
