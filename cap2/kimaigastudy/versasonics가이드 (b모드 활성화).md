@@ -53,4 +53,6 @@ pt1; 이 파일을 실행해서 point scatterers(점 산란체) 위치를 불러
 Media.attenuation = -0.5; 매질의 감쇠를 설정한다. 여기선 시뮬레이션이므로 약하게 -0.5로 설정
 Media.function = 'movePoints';
 
+리소스 구조체 설정
 
+Resource.RcvBuffer(1) % 수신 버퍼
