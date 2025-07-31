@@ -67,4 +67,4 @@ Resource.DisplayWindow(1).pdelta = 0.35;
 ScrnSze = get(0, 'ScreenSize');
 DwWidth = ceil(PData(1).Size(2)*PData(1)/Resource.DisplayWindow(1).pdelta);
 DwHeight = ceil(PData(1).Size(1)*PData*(1).PDelta(3)/Resource.DisplayWindow(1).pdelta);
-Resource
+Resource.DisplyWindow(1).Position = [250,(ScrnSize(4)-(DwHeight+150))]
