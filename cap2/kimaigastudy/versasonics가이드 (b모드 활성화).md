@@ -39,5 +39,5 @@ Resource.Parameters.speedOfSound = 1540; % 초음파의 인체 조직 내 속도
 Resource.Parameters.verbose = 2; % 이건 출력 디버깅 정보 수준 0은 출력 없음, 1은 간단한 정보 출력, 2는 자세한 정보 출력
 Resoure.Parameters.initializeOnly = 0; % 1로 설정함녀 시퀀스를 메모리에 로밍만 하고 실행하지 않음. 0이면 로딩 후 즉시 실행
 Resource.Parameters.simulateMode =0; % 0은 실제 하드웨어로 작동, 1은 시뮬레이션 모드(개발 디버깅용), 2 계속해서 수신데이터를 처리만 함
-Trans.name = 'L7-4';
-Trnas.units = 'wavelent'
+Trans.name = 'L7-4'; 중심 주파수 대역은 5.5MHz이고 리니어 탐촉자
+Trnas.units = 'wavelengths';
