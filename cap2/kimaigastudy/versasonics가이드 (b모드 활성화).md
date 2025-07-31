@@ -132,4 +132,5 @@ SeqControl(1).argument = 1;
 SeqControl(2).command = 'timeToNextAcq';
 SeqControl(2).argument = 200;
 
-
+SeqControl(3).command = 'timeToNextAcq';
+SeqControl(3).argument = 9
