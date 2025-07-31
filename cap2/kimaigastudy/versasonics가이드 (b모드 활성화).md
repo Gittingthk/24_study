@@ -47,4 +47,4 @@ PData(1).PDelta = [Trans.spacing, 0, 0.5]; [dx, dy, dz]는 x축 방향 해상도
 PData(1).Size(1) = ceil((P.endDepth - P.startDepth) / PData(1).PDelta(3)); Z축(깊이) 방향의 영상 크기(픽셀 수) 를 계산한다 전체 깊이 범위를 dz 간격으로 나눈 것.
 PData(1).Size(2) = ceil((Trnas.numelements * Trnas.spacing /2 ) / PData(1).PDelta(1)); /2를 한 이유는 Verasonics 영상이 탐촉자 중심 기준 반폭만을 영상화 하기 때문이다.
 PData(1).Size(3) = 1; 영상 페이지 수 1장이면 2d영상, **3D 영상은 여러 페이지 필요**
-
+PData(1).Origin = [0, 0, P.startDepth]; 기준 좌표로를 
