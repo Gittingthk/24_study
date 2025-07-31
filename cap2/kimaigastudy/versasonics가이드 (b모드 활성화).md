@@ -60,4 +60,5 @@ Resource.RcvBuffer(1).rowPerFrame = 4096*2; % 1프레임당 샘플 개수(길이
 Resource.RcvBuffer(1).colsPerFrame = Resource.Paramters.numTransmit; % 프레임당 열 수 = 송신 횟수
 Resource.RcvBuffer(1).numFrames = 100; %
 
-Resource.InterBuffer(1).numFrames = 100; %
+Resource.InterBuffer(1).numFrames = 1; %프레임 간 누적이 필요 없는 경우
+Resource.ImageBuffer(1).numFrames
