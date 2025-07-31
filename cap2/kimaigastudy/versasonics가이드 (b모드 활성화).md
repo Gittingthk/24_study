@@ -71,4 +71,7 @@ Resource.DisplyWindow(1).Position = [250,(ScrnSize(4)-(DwHeight+150))/2, DwWidth
 Resource.DisplayWindow(1).ReferencePt = [PData(1).Origin(1),0,PData(1).Origin(3)];
 Resource.DisplayWindow(1).Type = 'Verasonics';
 Resource.DisplyaWindow(1).numFrames = 20;
-Resource.DisplayWind
+Resource.DisplayWindow(1).AxesUnits = 'mm';
+Resource.DisplayWindow(1).Colormap = gray(256);
+
+
