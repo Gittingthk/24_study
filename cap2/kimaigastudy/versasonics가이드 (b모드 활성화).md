@@ -114,6 +114,8 @@ pres = 20;
 Process(1).classname = 'Image';
 Process(1),method = 'imageDisplay';
 Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
-						'framenum', -1, ...}
+						'framenum', -1, ...% 마지막 프레임 표시
+						'pdatanum', 1,...
+						'pgain'}
 
 
