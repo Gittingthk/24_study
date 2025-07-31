@@ -38,4 +38,5 @@ Resource.Parameters.numRcvChannels = 64; %수신 채널 수를 의미한다. Ver
 Resource.Parameters.speedOfSound = 1540; % 초음파의 인체 조직 내 속도로 1540m/s로 설정한다. 나중에 computeTrans()라는 함수로 초점이나 delay 계산
 Resource.Parameters.verbose = 2; % 이건 출력 디버깅 정보 수준 0은 출력 없음, 1은 간단한 정보 출력, 2는 자세한 정보 출력
 Resoure.Parameters.initializeOnly = 0; % 1로 설정함녀 시퀀스를 메모리에 로밍만 하고 실행하지 않음. 0이면 로딩 후 즉시 실행
+Resource.Parameters.simulateMode =0; % 0은 실제 하드웨어로 작동, 1은 시뮬레이션 모드(개발 디버깅용), 계속해서 쉬
 
