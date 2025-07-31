@@ -48,3 +48,5 @@ PData(1).Size(1) = ceil((P.endDepth - P.startDepth) / PData(1).PDelta(3)); Z축(
 PData(1).Size(2) = ceil((Trnas.numelements * Trnas.spacing /2 ) / PData(1).PDelta(1)); /2를 한 이유는 Verasonics 영상이 탐촉자 중심 기준 반폭만을 영상화 하기 때문이다.
 PData(1).Size(3) = 1; 영상 페이지 수 1장이면 2d영상, **3D 영상은 여러 페이지 필요**
 PData(1).Origin = [0, 0, P.startDepth]; 영상의 기준 좌표를 설정한다. (x, y, z) = 왼쪽 위 꼭짓점
+pt1; 
+
