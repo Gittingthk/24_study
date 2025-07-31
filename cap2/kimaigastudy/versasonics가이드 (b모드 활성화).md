@@ -74,5 +74,6 @@ Resource.DisplyaWindow(1).numFrames = 20;
 Resource.DisplayWindow(1).AxesUnits = 'mm';
 Resource.DisplayWindow(1).Colormap = gray(256);
 TW(1).type = 'parametric';
-TW(1).Parameters = [Trans.frequency, 0.67, 2, 1]
+TW(1).Parameters = [Trans.frequency, 0.67, 2, 1];
+
 
