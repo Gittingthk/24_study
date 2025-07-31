@@ -52,3 +52,5 @@ PData(1).Origin = [0, 0, P.startDepth]; 영상의 기준 좌표를 설정한다.
 pt1; 이 파일을 실행해서 point scatterers(점 산란체) 위치를 불러온다.
 Media.attenuation = -0.5; 매질의 감쇠를 설정한다. 여기선 시뮬레이션이므로 약하게 -0.5로 설정
 Media.function = 'movePoints';
+
+
