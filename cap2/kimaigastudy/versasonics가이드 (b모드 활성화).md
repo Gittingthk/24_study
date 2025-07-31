@@ -88,5 +88,5 @@ TGC.CntrlPts = [0,244,476,699,883,1023,1023,1023]; %이득의 조절점 8개
 TGC.rangeMax = P.endDepth; %TGC적용 깊이의 최대 범위
 TGC.Waveform = computeTGWaveform(TGC); % 위설정을 바탕으로 실제 TGC 곡성 생성
 
-Receive = repmat(struct('Apod', zeros(1, Trans.numelements), ...'startDepth', P.startDepth), 1, 2 * Resource.RcvBuffer(1).numFrames);
+Receive = repmat(struct('Apod', zeros(1, Trans.numelements), ...'startDepth', P.startDepth, ...'endDepth', amxAcqLength,...'TGC;, 1, ), 1, 2 * Resource.RcvBuffer(1).numFrames);
 
