@@ -56,4 +56,4 @@ Media.function = 'movePoints';
 리소스 구조체 설정
 
 Resource.RcvBuffer(1).datatype = 'int16' % 수신 버퍼
-Resource.RcvBuffer(1).rowPerFrame = 40
+Resource.RcvBuffer(1).rowPerFrame = 4096*2;
