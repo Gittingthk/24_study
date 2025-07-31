@@ -133,4 +133,8 @@ SeqControl(2).command = 'timeToNextAcq';
 SeqControl(2).argument = 200;
 
 SeqControl(3).command = 'timeToNextAcq';
-SeqControl(3).argument = 9
+SeqControl(3).argument = 9800;
+
+SeqControl(4).command = 'returnToMatlab;
+
+nsc = 5;
