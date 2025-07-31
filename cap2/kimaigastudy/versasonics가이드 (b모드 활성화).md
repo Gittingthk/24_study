@@ -84,7 +84,7 @@ TX(1).Delay = computeTXDelays(TX(1)); 초점화, 조향, 평면파 송신 등에
 
 초음파 수신부
 
-TGC.CntrlPts = [0,244,476,699,883,1023,1023];
-TGC.rangeMax = P.endDepth;
+TGC.CntrlPts = [0,244,476,699,883,1023,1023]; %이득의 조절점 8개
+TGC.rangeMax = P.endDepth; %TGC적용 깊이의 최대 범위
 TGC.Waveform = computeTGWaveform(TGC);
 
