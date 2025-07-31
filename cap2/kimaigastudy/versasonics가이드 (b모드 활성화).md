@@ -76,4 +76,5 @@ Resource.DisplayWindow(1).Colormap = gray(256);
 TW(1).type = 'parametric';
 TW(1).Parameters = [Trans.frequency, 0.67, 2, 1]; % TW(1)은 1번째 송신 파형 정의, parametric파형 수식으로 정의, parameters = [중심주파수, 대역폭, 사이클 수, 인벌롭] 이벌롭이 1이면 Gaussian
 TX(1).waveform = 1;
+TX(1).Origin = [0.0,0.0,0.0];
 
