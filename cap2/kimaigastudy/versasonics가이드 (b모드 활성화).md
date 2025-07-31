@@ -32,4 +32,5 @@ clear all
 P.statDepth = 20; % 단위는 파장이다 이건 20람다 로 6.16mm부터 수신 시작하겠다는 뜻이다. 계산법(속도/중심주파수 * 원하는 깊이{여기서 20을 의미})
 P.endDepth = 192; % 최대 깊이를 의미 128의 배술 설정하는게 좋다 이유는 Verasonics의 데이터 처리가 128-sample 단위로 최적화 되어 있기 때문이다.? 여기는 더 공부가 필요하다
 
-
+%시스템 파라미터 정의
+Resource.Parameters.numTrans
