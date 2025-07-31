@@ -110,5 +110,9 @@ ReconInfo = repmat(struct('mode', 'replaceIQ', ...
 ReconInfo(2).mode = 'accumIQ_replacentensity';
 ReconInfo(2).rcvnum = 2;
 
+pres = 20;
+Process(1).classname = 'Image';
+Process(1),method = 'imageDisplay';
+Process(1).Parameters = {'imgbufnum'}
 
 
