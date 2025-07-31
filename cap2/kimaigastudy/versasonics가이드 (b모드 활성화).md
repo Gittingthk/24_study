@@ -97,5 +97,6 @@ for i = 1:Resource.RcvBuffer(1).numFrames
 	Recieve(i).callMediaFunc = 1; %시뮬레이션에서 media 객체 업데이트
 end
 
-Recon = struct('sen)
+Recon = struct('senscutoff', 0.6, ... % 감도 컷오프 값
+						'pdatanum'
 
