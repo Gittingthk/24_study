@@ -43,4 +43,4 @@ Trans.name = 'L7-4'; 중심 주파수 대역은 5.5MHz이고 리니어 탐촉자
 Trnas.units = 'wavelengths'; 이후 좌표 값이나 깊이 값들ㄹ이 파장 단위로 해석된다
 Trans = computeTrans(Trans); 트랜스듀서 정보 초기화 함수
 Trans.maxHighVoltage = 50; 송신 펄스에 사용할 최대 전압 단위는 볼트이며 50V이하에서 안전하게 사용가능하다(L7-4)
-
+PData(1).PDelta = [Trans.spacing, 0, 0.5]; 
