@@ -56,4 +56,5 @@ Media.function = 'movePoints';
 리소스 구조체 설정
 
 Resource.RcvBuffer(1).datatype = 'int16' % 수신 버퍼
-Resource.RcvBuffer(1).rowPerFrame = 4096*2;
+Resource.RcvBuffer(1).rowPerFrame = 4096*2; % 1프레임당 샘플 개수(길이 방향), 8192개의 샘플 저장 가능
+Resource.RcvBuffer(1).colsPerFrame = Resource.Paramters.numTransmit;
