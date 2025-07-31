@@ -12,4 +12,6 @@ MATLAB명령창에 아래를 입력한다
 
 
 정상 실행되면 아무 에러없이 조용히 넘어간다
+>[!note] vsv.apps.runQuickScan() 
 
+B-mode GUI 실행을 위한 실행 명령이다.
