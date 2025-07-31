@@ -68,4 +68,4 @@ ScrnSze = get(0, 'ScreenSize');
 DwWidth = ceil(PData(1).Size(2)*PData(1)/Resource.DisplayWindow(1).pdelta);
 DwHeight = ceil(PData(1).Size(1)*PData*(1).PDelta(3)/Resource.DisplayWindow(1).pdelta);
 Resource.DisplyWindow(1).Position = [250,(ScrnSize(4)-(DwHeight+150))/2, DwWidth, DwHeight];
-Resource.DisplayWindow(1).ReferencePt = [PData()]
+Resource.DisplayWindow(1).ReferencePt = [PData(1).Origin(1),0,PData(1).Origin(3)];
