@@ -40,4 +40,5 @@ Resource.Parameters.verbose = 2; % 이건 출력 디버깅 정보 수준 0은 �
 Resoure.Parameters.initializeOnly = 0; % 1로 설정함녀 시퀀스를 메모리에 로밍만 하고 실행하지 않음. 0이면 로딩 후 즉시 실행
 Resource.Parameters.simulateMode =0; % 0은 실제 하드웨어로 작동, 1은 시뮬레이션 모드(개발 디버깅용), 2 계속해서 수신데이터를 처리만 함
 Trans.name = 'L7-4'; 중심 주파수 대역은 5.5MHz이고 리니어 탐촉자
-Trnas.units = 'wavelengths';
+Trnas.units = 'wavelengths'; 이후 좌표 값이나 깊이 값들ㄹ이 파장 단위로 해석된다
+Trans = computeTrans(Trans); 트랜스듀서 정보 초기화 함수
