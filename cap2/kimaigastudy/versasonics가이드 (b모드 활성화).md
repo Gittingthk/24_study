@@ -92,5 +92,6 @@ Receive = repmat(struct('Apod', zeros(1, Trans.numelements),'startDepth', P.star
 
 for i = 1:Resource.RcvBuffer(1).numFrames
 	Receive(i).Apod(Resource.Parameters.numRcvChannels+1:Trnas.numelements) = 1.0;
-	Recieve(i).
+	Recieve(i).framenum = i;
+	Recieve
 
