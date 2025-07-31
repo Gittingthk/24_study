@@ -29,5 +29,6 @@ B-mode GUI 실행을 위한 실행 명령이다. **트랜스듀서 선택하고 
 test_bmode_right.m
 
 clear all
-P.statDepth = 20;
+P.statDepth = 20; % 단위는 파장이다 이건 20람다 로 6.16mm부터 수신 시작하겠다는 뜻이다. 계산법(속도/중심주파수)
+
 
