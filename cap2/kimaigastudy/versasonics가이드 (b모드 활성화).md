@@ -80,5 +80,5 @@ TX(1).Origin = [0.0, 0.0, 0.0]; %중심에서 시작하는 flash transmit(평면
 TX(1).focus = 0;  % 0이면 비집중형 송신(plane wave)
 TX(1).Steer = [0.0, 0.0]; % 빔 조향 강도 [theta, alpha] 조향 없이 정직한 파형
 TX(1).Apod = ones(1, Trnas.numelements);
-TX(1).Delay = computeTXDelays(TX(1)); 
+TX(1).Delay = computeTXDelays(TX(1)); 초점화, 조향, 평면파 송신 등에 필요한 delay 설저
 
