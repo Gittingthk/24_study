@@ -119,7 +119,11 @@ Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
 						'pgain',1.0,...
 						'reject',2,000 % reject level 노이즈 억제
 						'persistLevel', 20 %20프레임까지 잔상 유지
-						'interpMethod', ''
+						'interpMethod', '4pt' % 4포인트 interpolation 사용
+						'compressMethod', 40 압축 세기 조절(40dB)
+						'displayWindow', 1번 display 창에 표시
+						'display', 1 실제화면 띄움
+						
 						}
 
 
