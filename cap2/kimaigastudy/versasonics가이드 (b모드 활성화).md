@@ -99,7 +99,8 @@ end
 
 Recon = struct('senscutoff', 0.6, ... % 감도 컷오프 값
 				'pdatanum', 1, ... % 사용할 PData 구조 번호
-				'rcvBufframe', -1, ... 가장 최근 수신한 프레임 사용
-				'IntBufDest', [1,1], ... 중간 버퍼에 저장할 위치
-				'ImgBufDest', [1,-1], ... % 
+				'rcvBufframe', -1, ... % 가장 최근 수신한 프레임 사용
+				'IntBufDest', [1,1], ... % 중간 버퍼에 저장할 위치
+				'ImgBufDest', [1,-1], ... % 이미지 버퍼 1번에 저장, 프레임 번호는 자동 증가 -1
+				'RINums', 1:2); 
 
