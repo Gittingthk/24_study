@@ -105,6 +105,7 @@ Recon = struct('senscutoff', 0.6, ... % 감도 컷오프 값
 				'RINums', 1:2); % ReconInfo의 1번과 2번을 순서대로 사용해 재구성
 ReconInfo = repmat(struct('mode', 'replaceIQ', ...
 					'txnum', 1, ... % 송신 파형 1번 사용
-					'rcvnum', 1, ... 
+					'rcvnum', 1, ... % 수신 횟수 구분
+		
 					))
 
