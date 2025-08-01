@@ -185,5 +185,5 @@ UI(1).Callback = text2cell( '%SenCutoffCallback');
 MinMaxVal = [64, 300, P.endDepth];
 
 AxesUnit = 'wls'
-if isfield(Resoure.DisplayWindow(1), 'AxesUnits')
+if isfield(Resoure.DisplayWindow(1), 'AxesUnits')&&~isempty(Resource.DisplayWindow(1).AxesUnits)
 
