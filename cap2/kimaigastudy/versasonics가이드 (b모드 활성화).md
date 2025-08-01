@@ -171,5 +171,8 @@ Event(n).recon = 0;
 Event(n).process = 0;
 Event(n).seqControl = 1;
 
-UI(1).Control = {'UserB7',
+UI(1).Control = {
+			'UserB7', % 위치 : 사용자 패널에서 b열 7행
+			'Style', 'VsSlider', % 수직 슬라이더 스타일
+			'Label'
 
