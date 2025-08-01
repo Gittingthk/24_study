@@ -231,4 +231,5 @@ end
 assignin('base', 'P', P);
 
 evalin('base','PData(1).Size(1) = ceil((P.endDepth-P.startDepth)/PData(1).PDelta(3));');
-evalin('base','PData(1).Region = computeRe)
+evalin('base','PData(1).Region = computeRegions(PData(1));');
+evalin(')
