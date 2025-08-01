@@ -207,6 +207,7 @@ for i = 1:size(ReconL,2)
 end
 assginin('base', 'Recon', ReoncL);
 Control = evalin('base', 'Control');
-
+Control.Command = 'update&Run';
+Control.Parameters = 
 
 
