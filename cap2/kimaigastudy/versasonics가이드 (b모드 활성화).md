@@ -208,6 +208,7 @@ end
 assginin('base', 'Recon', ReoncL);
 Control = evalin('base', 'Control');
 Control.Command = 'update&Run';
-Control.Parameters = 
+Control.Parameters = {'Recon'};
+assignin('base', 'Control', Control)
 
 
