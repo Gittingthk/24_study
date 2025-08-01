@@ -228,4 +228,6 @@ if isfield(Resource.DisplayWindow(1), 'AxesUints')&&~isempty(Resource.DisplayWin
 		P.endDepth = UIValue*scaleToWvl;
 	end
 end
-assign
+assignin('base', 'P', P);
+
+evalin('base','PData(1).Size(1) = ceil((P.endDepth-P.startDepth)/PData))
