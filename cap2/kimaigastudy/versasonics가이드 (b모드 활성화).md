@@ -214,6 +214,7 @@ return
 
 sinMode = evalin('base', 'Resource.Parameters.simulateMode');
 if simMode == 2
-		set(hObject, 'Value', evalin('base', 'P.endDepth'))
+		set(hObject, 'Value', evalin('base', 'P.endDepth'));
+		return
 
 
