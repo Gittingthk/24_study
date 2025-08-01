@@ -239,4 +239,18 @@ for i = 1:size(Receive,2)
 	Receive(i).endDepth = maxAcqLength;
 end
 assignin('base', 'Receive',Receive);
-evalin
+evalin('base','TGC.rangeMax = P.endDepth;');
+
+evalin('base','TGC.Waveform = computeTGCWaveform(TGC);');
+
+Control = evalin('base','Control');
+
+Control.Command = 'update&Run';
+
+Control.Parameters = {'PData','InterBuffer','ImageBuffer','DisplayWindow','Receive','TGC','Recon'};
+
+assignin('base','Control', Control);
+
+assignin('base', 'action', 'displayChange');
+
+return
