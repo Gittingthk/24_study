@@ -223,5 +223,6 @@ scaleToWvl = Trans.frequency/(Resource.Parameters.speedOfSound/1000);
 
 P = evalin('base', 'P');
 P.endDepth = UIValue;
-if isfiled(Resource.DisplayWindow(1), 'AxesUints')&&~isempty(Resource.DisplayWindow(1).AxesUnits)
-
+if isfield(Resource.DisplayWindow(1), 'AxesUints')&&~isempty(Resource.DisplayWindow(1).AxesUnits)
+	if strcmp(Resource.DisplayWindow(1).AxesUnits, 'mm');
+		P.endDepth = 
