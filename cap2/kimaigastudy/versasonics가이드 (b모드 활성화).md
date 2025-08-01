@@ -210,5 +210,10 @@ Control = evalin('base', 'Control');
 Control.Command = 'update&Run';
 Control.Parameters = {'Recon'};
 assignin('base', 'Control', Control);
+return
+
+sinMode = evalin('base', 'Resource.Parameters.simulateMode');
+if simMode == 2
+		set(hObject, 'Value', evalin('base', 'P.endDepth'))
 
 
