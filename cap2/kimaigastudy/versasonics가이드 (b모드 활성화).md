@@ -125,18 +125,14 @@ Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
 						'display', 1 실제화면 띄움
 						
 						};
-
+% SeqControl struc
 SeqControl(1).command = 'jump';
 SeqControl(1).argument = 1;
-
 SeqControl(2).command = 'timeToNextAcq';
 SeqControl(2).argument = 200;
-
 SeqControl(3).command = 'timeToNextAcq';
 SeqControl(3).argument = 9800;
-
 SeqControl(4).command = 'returnToMatlab;
-
 nsc = 5;
 
 
