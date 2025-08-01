@@ -206,5 +206,7 @@ for i = 1:size(ReconL,2)
 	ReconL(i).senscutoff = UIValue;
 end
 assginin('base', 'Recon', ReoncL);
+Control = evalin('base', 'Control');
+
 
 
