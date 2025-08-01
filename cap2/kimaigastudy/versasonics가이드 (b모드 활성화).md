@@ -188,5 +188,9 @@ AxesUnit = 'wls'
 if isfield(Resoure.DisplayWindow(1), 'AxesUnits')&&~isempty(Resource.DisplayWindow(1).AxesUnits)
 	if strcmp(Resource.DisplayWindow(1).AxesUnits, 'mm');
 		AxesUnit = 'mm';
-		MinMazVal = MinMaxVal * (Resource.Parameters.
+		MinMazVal = MinMaxVal * (Resource.Parameters.speedOfSound/1000/Trans.frequency);
+	end
+end
+
+UI(2).Control = 
 
