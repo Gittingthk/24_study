@@ -182,4 +182,8 @@ UI(1).Control = {
 };
 UI(1).Callback = text2cell( '%SenscutoffCallback');
 
-<
+MinMaxVal = [64, 300, P.endDepth];
+
+AxesUnit = 'wls'
+
+
