@@ -144,6 +144,6 @@ for i =1 : Resource.RcvBuffer(1).numFrames
 	Event(n).rcv = i; % i번 Receive 사용
 	Event(n).recon = 0; % 재구성 안함
 	Event(n).process = 0; % 처리도 안함
-	Event(n).seqControl = [3,nsc];
+	Event(n).seqControl = [3,nsc]; %SeqControl(3)과 SeqContorl()
 
 
