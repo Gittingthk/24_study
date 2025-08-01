@@ -192,5 +192,7 @@ if isfield(Resoure.DisplayWindow(1), 'AxesUnits')&&~isempty(Resource.DisplayWind
 	end
 end
 
-UI(2).Control = {'UserA1, 'Style', 'VsSldier', 'Label', ['Range (',AxesUnit, ')'],...}
+UI(2).Control = {'UserA1, 'Style', 'VsSldier', 'Label', ['Range (',AxesUnit, ')'],...
+				'SliderMinMaxVal',MinMaxVal, 'SliderStep',[0.1,0.2],'ValueFormat', '%3.0f'};
+	
 
