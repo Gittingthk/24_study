@@ -232,4 +232,6 @@ assignin('base', 'P', P);
 
 evalin('base','PData(1).Size(1) = ceil((P.endDepth-P.startDepth)/PData(1).PDelta(3));');
 evalin('base','PData(1).Region = computeRegions(PData(1));');
-evalin('base','Resource.DisplayWindow(1).Position(4) = ceil(PData(1).Size(1)*PData(1).PDelta(3)/Resource.DisplayWindow(1).pdelta);)
+evalin('base','Resource.DisplayWindow(1).Position(4) = ceil(PData(1).Size(1)*PData(1).PDelta(3)/Resource.DisplayWindow(1).pdelta);');
+Receive = evalin('base', 'Receive');
+maxAcqLength = ceil(sqrt(P.endDepth^))
