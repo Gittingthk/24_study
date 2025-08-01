@@ -135,6 +135,8 @@ SeqControl(3).argument = 9800;
 SeqControl(4).command = 'returnToMatlab;
 nsc = 5;
 
+n=1; %이벤트 인덱스 시작
 
+for i =1 
 
 
