@@ -192,5 +192,5 @@ if isfield(Resoure.DisplayWindow(1), 'AxesUnits')&&~isempty(Resource.DisplayWind
 	end
 end
 
-UI(2).Control = 
+UI(2).Control = {'UserA1, 'Style', 'VsSldier', 'Label', ['Range (',AxesUnit, ')'],...}
 
