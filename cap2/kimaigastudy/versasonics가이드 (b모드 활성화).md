@@ -230,4 +230,5 @@ if isfield(Resource.DisplayWindow(1), 'AxesUints')&&~isempty(Resource.DisplayWin
 end
 assignin('base', 'P', P);
 
-evalin('base','PData(1).Size(1) = ceil((P.endDepth-P.startDepth)/PData))
+evalin('base','PData(1).Size(1) = ceil((P.endDepth-P.startDepth)/PData(1).PDelta(3));');
+evalin('base','PData(1).Region = computeRe)
