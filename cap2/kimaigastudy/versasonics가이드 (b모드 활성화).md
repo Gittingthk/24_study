@@ -145,6 +145,9 @@ for i =1 : Resource.RcvBuffer(1).numFrames
 	Event(n).recon = 0; % 재구성 안함
 	Event(n).process = 0; % 처리도 안함
 	Event(n).seqControl = [3,nsc]; %SeqControl(3)과 SeqContorl(nsc)를 수행하라는거잖아
-	 ㄴㄷ
+	 SeqControl(nsc).command = 'transferToHost';
+	  nsc = nsc + 1;
+	n = n+1;
+	
 
 
