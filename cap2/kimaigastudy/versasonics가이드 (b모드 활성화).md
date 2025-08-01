@@ -160,6 +160,15 @@ for i =1 : Resource.RcvBuffer(1).numFrames
 	else
 		Event(n).seqControl = 0;
 	end 
-	n
+	n = n +1;
+end 
+
+
+Event(n).info = 'Jump back to first event';
+Event(n).tx = 0;
+Event(n).rcv = 0;
+Event(n).recon = 0;
+Event(n).process = 0;
+
 
 
