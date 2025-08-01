@@ -140,8 +140,10 @@ n=1; %이벤트 인덱스 시작
 for i =1 : Resource.RcvBuffer(1).numFrames
 
 	Event(n).info = 'aprerture 2nd half';
-	Event(n).tx = 1; %1번 송신(TX)
-	Event(n).rcv = i; $ i번 Receive 사용
-	Event(n).recon = 0;
+	Event(n).tx = 1; % 1번 송신(TX)
+	Event(n).rcv = i; % i번 Receive 사용
+	Event(n).recon = 0; % 재구성 안함
+	Event(n).process = 0; % 처리도 안함
+	Event(n).seqControl = [3,nsc];
 
 
