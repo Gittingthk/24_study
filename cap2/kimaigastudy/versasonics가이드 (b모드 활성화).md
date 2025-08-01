@@ -194,5 +194,7 @@ end
 
 UI(2).Control = {'UserA1, 'Style', 'VsSldier', 'Label', ['Range (',AxesUnit, ')'],...
 				'SliderMinMaxVal',MinMaxVal, 'SliderStep',[0.1,0.2],'ValueFormat', '%3.0f'};
-	
+UI(2).Callback = text2cell('%RangeChangeCallback');
+
+
 
