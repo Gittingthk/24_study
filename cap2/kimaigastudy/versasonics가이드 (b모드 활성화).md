@@ -174,5 +174,7 @@ Event(n).seqControl = 1;
 UI(1).Control = {
 			'UserB7', % 위치 : 사용자 패널에서 b열 7행
 			'Style', 'VsSlider', % 수직 슬라이더 스타일
-			'Label'
+			'Label', 'Sens. Cutoff', % 슬라이더에 표시될 라벨
+			'SliderMinMaxVal', [0, 1.0, Recon(1).senscutoff], % 최소, 최대, 초기값
+			'SliderStep, [0.025, ]'
 
