@@ -176,5 +176,7 @@ UI(1).Control = {
 			'Style', 'VsSlider', % 수직 슬라이더 스타일
 			'Label', 'Sens. Cutoff', % 슬라이더에 표시될 라벨
 			'SliderMinMaxVal', [0, 1.0, Recon(1).senscutoff], % 최소, 최대, 초기값
-			'SliderStep, [0.025, ]'
+			'SliderStep', [0.025, 0.1], % 마우스로 조작할 때 이동 간격
+			'ValueFormat', '%1.3f'
+			
 
