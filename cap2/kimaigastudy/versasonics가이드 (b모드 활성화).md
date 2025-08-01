@@ -171,4 +171,5 @@ Event(n).recon = 0;
 Event(n).process = 0;
 Event(n).seqControl = 1;
 
+UI(1).Control = {'UserB7',
 
