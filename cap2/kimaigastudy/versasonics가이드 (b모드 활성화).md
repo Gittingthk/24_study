@@ -137,6 +137,9 @@ nsc = 5;
 
 n=1; %이벤트 인덱스 시작
 
-for i =1 
+for i =1 : Resource.RcvBuffer(1).numFrames
+
+	Event(n).info = 'aprerture 2nd half';
+	E
 
 
