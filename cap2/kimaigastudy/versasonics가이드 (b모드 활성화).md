@@ -169,6 +169,6 @@ Event(n).tx = 0;
 Event(n).rcv = 0;
 Event(n).recon = 0;
 Event(n).process = 0;
-
+Event(n).seqControl = 1;
 
 
