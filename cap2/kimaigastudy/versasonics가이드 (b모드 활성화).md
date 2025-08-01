@@ -201,6 +201,10 @@ frameRateFactor = 5;
 save('MatFiles/L7-4Flash_LE_right');
 return
 
-
+ReconL = evalin('base', 'Recon');
+for i = 1:size(ReconL,2)
+	ReconL(i).senscutoff = UIValue;
+end
+assginin('base', 'Recon', ReoncL);
 
 
