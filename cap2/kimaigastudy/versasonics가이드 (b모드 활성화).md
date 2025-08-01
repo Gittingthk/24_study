@@ -155,6 +155,9 @@ for i =1 : Resource.RcvBuffer(1).numFrames
 	Event(n).rcv = 0;
 	Event(n).recon = 1;
 	Event(n).process =1;
-	if floor(i)
+	if floor(i/5) == i/5
+		Event(n).seqCotrol = 4;
+	else
+		Event(n).seqControl = 0;
 
 
