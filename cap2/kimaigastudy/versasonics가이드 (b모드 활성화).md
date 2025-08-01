@@ -148,6 +148,8 @@ for i =1 : Resource.RcvBuffer(1).numFrames
 	 SeqControl(nsc).command = 'transferToHost';
 	  nsc = nsc + 1;
 	n = n+1;
-	
+
+
+	Event(n).info = 'Reconstruct';
 
 
