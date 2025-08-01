@@ -180,7 +180,7 @@ UI(1).Control = {
 			'ValueFormat', '%1.3f' % 값 표시 형식: 소수점 3자리
 			
 };
-UI(1).Callback = text2cell( '%SenscutoffCallback');
+UI(1).Callback = text2cell( '%SenCutoffCallback');
 
 MinMaxVal = [64, 300, P.endDepth];
 
