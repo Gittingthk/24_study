@@ -219,4 +219,5 @@ if simMode == 2
 end
 Trans = evalin('base', 'Trans');
 Resource = evalin('base', 'Resource');
+scaleToWvl = Trans.frequency/(Resource.Parameters.speedOfSound/1000_)
 
