@@ -198,6 +198,7 @@ UI(2).Callback = text2cell('%RangeChangeCallback');
 
 frameRateFactor = 5;
 
-save('MatFiles/L)
+save('MatFiles/L7-4Flash_LE_right');
+return
 
 
