@@ -151,5 +151,10 @@ for i =1 : Resource.RcvBuffer(1).numFrames
 
 
 	Event(n).info = 'Reconstruct';
+	Event(n).tx =0;
+	Event(n).rcv = 0;
+	Event(n).recon = 1;
+	Event(n).process =1;
+	if floor(i)
 
 
