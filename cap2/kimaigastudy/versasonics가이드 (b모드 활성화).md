@@ -219,5 +219,9 @@ if simMode == 2
 end
 Trans = evalin('base', 'Trans');
 Resource = evalin('base', 'Resource');
-scaleToWvl = Trans.frequency/(Resource.Parameters.speedOfSound/1000_)
+scaleToWvl = Trans.frequency/(Resource.Parameters.speedOfSound/1000);
+
+P = evalin('base', 'P');
+P.endDepth = UIValue;
+if isfiled(Resource.DisplayWindow(1), 'AxesUints')&&~
 
