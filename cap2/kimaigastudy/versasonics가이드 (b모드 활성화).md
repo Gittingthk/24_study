@@ -225,4 +225,7 @@ P = evalin('base', 'P');
 P.endDepth = UIValue;
 if isfield(Resource.DisplayWindow(1), 'AxesUints')&&~isempty(Resource.DisplayWindow(1).AxesUnits)
 	if strcmp(Resource.DisplayWindow(1).AxesUnits, 'mm');
-		P.endDepth = 
+		P.endDepth = UIValue*scaleToWvl;
+	end
+end
+assign
