@@ -125,7 +125,7 @@ Process(1).Parameters = {'imgbufnum' ,1, ... % 1번 ImageBuffer 사용
 						'display', 1 실제화면 띄움
 						
 						};
-% SeqControl struc
+% SeqControl structure arrays
 SeqControl(1).command = 'jump';
 SeqControl(1).argument = 1;
 SeqControl(2).command = 'timeToNextAcq';
