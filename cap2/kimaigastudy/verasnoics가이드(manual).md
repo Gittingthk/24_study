@@ -10,4 +10,7 @@ Host Controller
 Host Controller Operating System
 Matlab
 
-#
+## Power on Procedure
+1. Vantage system on
+2. computer on
+3. 
