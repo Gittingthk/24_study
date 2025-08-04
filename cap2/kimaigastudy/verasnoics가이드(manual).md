@@ -72,5 +72,6 @@ ProbeConnectorStatus -> 커넥터 유형, 프로브가 연결되어 있는지 �
 VerasnoicsVerificationTest->전체 시스템에 대한 자기 테스트로 
 
 SystemInfo -> SW설치 및 라이선스 상태, 열결된후 Vatage HW 시스템 보고서를 제공
-SwitchesInfo
+
+SwitchesInfo ->PCIe 장치 엔드포인트 간의 링크 보고서를 생성
 
