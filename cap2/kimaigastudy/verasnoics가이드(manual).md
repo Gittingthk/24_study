@@ -75,3 +75,10 @@ SystemInfo -> SW설치 및 라이선스 상태, 열결된후 Vatage HW 시스템
 
 SwitchesInfo ->PCIe 장치 엔드포인트 간의 링크 보고서를 생성
 
+
+time tag for RF Data
+- 트랜스듀서가 한번 쏨 (Tx)
+    
+- RF 수신: 128채널, 채널당 2048 샘플 수집
+    
+- 이 때, **전체 Receive 데이터의 맨 앞 2 샘플에 time tag가 박힘**
