@@ -4,4 +4,8 @@ tags: ""
 is_public: true
 last_synced: ""
 ---
-##Ve
+## Verasonics with Vantage configuration
+
+Host Controller
+Host Controller Operating System
+Matlab
