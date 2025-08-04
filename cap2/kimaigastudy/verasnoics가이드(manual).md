@@ -107,4 +107,4 @@ result = setTimeTaggingAttributes(wrap24, reset); %  24시간을 최대로 설�
 3. 스크립트에 우클릭누른후 run ->.mat output file
 4. VSX가 .mat파일이름을 정해라고 요구
 5. .mat확장자 없이 이름 쓰고 gui가 나타난다. 그러면 소프트웨어와 하드웨어가 연결되고 전원이 들어오고 프로브까지 연결되었다면 live 이미지가 나올것이다. 
-6. 만약에 verasonics hardware가 hal에 의해 찾았다면 시뮬레이션 모드가 작동해
+6. 만약에 verasonics hardware가 hal에 의해 찾았다면 시뮬레이션 모드가 작동해서 real time이 나올것이다.
