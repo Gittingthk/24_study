@@ -56,3 +56,6 @@ self test
 2. Matlab 명령 창 프롬프트에서 Vantage 프로젝트 폴더로 이동하여 필요 시 activate를 실행한다.
 3. 명령창에 VerasonicsVerificationTest를 입력하고 enter를 누른다. 
 4. 나타나는 GUIㅍ창에서 '시스템검증 테스트' 버튼을 클릭한 다음 Matlab 명령 창에 나타나는 프롬프트에 응답한다. 테스트는 몇 분 정도 소요되며 최종 결과는 명령 창에 '모든 테스트 통과'라고 표시되어야 한다. 트스트 중 하나라도 실패하면 '테스트 실패' 메시지가 나타난다. VerasonicsVerificationTest는 로그 파일을 하위 폴더 HardwareTest/TestResultLogs에 저장합니다.
+
+Vantage Sequence Programming Tutorial pdf 읽어보기
+Vantage Sequence Programming Manual
