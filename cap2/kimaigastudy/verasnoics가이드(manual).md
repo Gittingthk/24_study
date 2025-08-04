@@ -89,4 +89,15 @@ boolean result = Hardware.enableAcquisitionTimeTagging(enable); %타임태그 �
 
 time tag 활성화시 주의점은 recon(영상생성) 함수가 이 time tag값도 샘플 값으로 인식해서 처리해 버리기 떄문에 주의 해야한다
 
-result = setTimeTaggingAttributes(wrap24, reset); %  24시간을 최대로 설정후 0
+result = setTimeTaggingAttributes(wrap24, reset); %  24시간을 최대로 설정후 0으로 리셋
+
+시스템 계층
+
+| 계층        | 대표 요소           | 역할         | 네가 다루는가?   |
+| --------- | --------------- | ---------- | ---------- |
+| 1. 사용자 계층 | `.m`, `VSX`     | 시퀀스 정의, 제어 | ✅ 직접 작성    |
+| 2. 제어 계층  | `VSX.m`, `.mat` | 설정 전달      | ⚙️ 간접적으로   |
+| 3. 실행 계층  | `runAcq.mex`    | 실행 트리거     | ❌ 직접 수정 안함 |
+| 4. HAL    | HAL API         | 하드웨어 추상화   | ❌ 내부 구조    |
+| 5. 하드웨어   | FPGA, 송수신기      | 실제 초음파 송수신 | ❌ 물리 장치    |
+|           |                 |            |            |
