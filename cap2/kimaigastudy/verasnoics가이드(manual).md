@@ -50,3 +50,6 @@ FPGA코드를 업데이트해야하는 경우가 발생한다
 5. 이 명령은 현재 디렉토리에 systemInfo.txt라는 텍스트 파일을 생성합니다.
 6. systemInfo.txt 파일을 Verasonics 라이센싱(licensing-request@verasonics.com)으로 메시지에 첨부하십시오.
 
+self test
+
+1
