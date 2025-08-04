@@ -87,4 +87,5 @@ TX → delay → RX 시작 → 그 순간을 찍은 시간 값
 
 boolean result = Hardware.enableAcquisitionTimeTagging(enable); %타임태그 활성화 함수 enable은 boolean value이고 restult가 반환 값이고 
 
-time tag 활성화시 주의점은 re
+time tag 활성화시 주의점은 recon(영상생성) 함수가 이 time tag값도 샘플 값으로 인식해서 처리해 버리기 떄문에 주의 해야한다
+
