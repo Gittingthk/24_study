@@ -12,5 +12,6 @@ Matlab
 
 ## Power on Procedure
 1. Vantage system on
-2. computer on
+2. computer on -> fully power up the hardware
 3. 
+4. 
