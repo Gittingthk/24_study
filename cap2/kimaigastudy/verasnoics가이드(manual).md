@@ -63,4 +63,4 @@ AppNote Tools Summary
 
 명령어 
 
-Version ->
+Version -> 'Version x' 모든 주요 하드
