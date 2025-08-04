@@ -59,3 +59,4 @@ self test
 
 Vantage Sequence Programming Tutorial pdf 읽어보기
 Vantage Sequence Programming Manual
+AppNote Tools Summary
