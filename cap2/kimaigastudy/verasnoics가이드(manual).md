@@ -106,4 +106,4 @@ result = setTimeTaggingAttributes(wrap24, reset); %  24시간을 최대로 설�
 2. 활성화 명령을 발행하여 vantage 프로젝트 폴더를 활성화한다. 명령어 activate
 3. 스크립트에 우클릭누른후 run ->.mat output file
 4. VSX가 .mat파일이름을 정해라고 요구
-5. 
+5. .mat확장자 없이 이름 쓰고 gui가 나타난다. 그러면 소프트웨어와 하드웨어가 연결되고 전우
