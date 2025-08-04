@@ -82,3 +82,4 @@ time tag for RF Data
 - RF 수신: 128채널, 채널당 2048 샘플 수집
     
 - 이 때, **전체 Receive 데이터의 맨 앞 2 샘플에 time tag가 박힘**
+
