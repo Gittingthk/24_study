@@ -109,3 +109,15 @@ result = setTimeTaggingAttributes(wrap24, reset); %  24시간을 최대로 설�
 5. .mat확장자 없이 이름 쓰고 gui가 나타난다. 그러면 소프트웨어와 하드웨어가 연결되고 전원이 들어오고 프로브까지 연결되었다면 live 이미지가 나올것이다. 
 6. 만약에 verasonics hardware가 hal에 의해 찾았다면 시뮬레이션 모드가 작동해서 real time이 나올것이다.
 7. SequenceProgramming pdf를 참고해라
+
+## VSX 실행 프로세스
+
+SetUpMyScript.m (너가 짠 설정 코드)
+        ↓
+[ VSX 실행 ]
+        ↓
+모든 설정 변수들을 `.mat` 파일로 저장
+        ↓
+VSX → runAcq.mex 호출하면서 이 .mat 파일을 "실행 설정"으로 전달
+        ↓
+runAcq가 .mat 파일을 로드 → 하드웨어 세팅 → 시퀀스 실행
