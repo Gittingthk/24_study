@@ -41,5 +41,12 @@ FPGA코드를 업데이트해야하는 경우가 발생한다
 5. 호스트 컨트롤러에 로그인하고 Matlab 애플리케이션을 실행하세요.
 6. 새로 설치된 Vantage 프로젝트 폴더를 Matlab 작업 디렉터리로 선택하고, activate를 실행한 후, Matlab 명령 프롬프트에서 Version 명령을 입력하세요.
 
-라이센ㅅ
+라이센스 관련
+
+1. Matlab 환경을 실행하십시오.
+2. Matlab을 열고 Vantage SW가 설치된 디렉토리로 이동하십시오. 
+3. 명령 창에 activate를 입력하고 Enter를 누르십시오.
+4. Matlab 콘솔 프롬프트에서 systemInfo를 입력하고 Enter를 누르십시오.
+5. 이 명령은 현재 디렉토리에 systemInfo.txt라는 텍스트 파일을 생성합니다.
+6. systemInfo.txt 파일을 Verasonics 라이센싱(licensing-request@verasonics.com)으로 메시지에 첨부하십시오.
 
