@@ -21,4 +21,4 @@ our software version 4.8.7 version
 
 ### .mat파일은 동일 소프트웨어에서 릴리즈 가능한데 .m파일은 재사용불가(다시 생성 권장)
 
-"Vantage 프로젝트 폴더"라는 용어는 Vantage 시스템 문서 전반에 걸쳐 Vantage 소프트웨어의 설치를 포함하는 주요 디렉토리를 지칭하는 데 사용되며, 기본 이름은 "Vantage 4.4.0-2012091800"과 같습니다. Vantage 소프트웨어를 사용할 때 Vantage 프로젝트 폴더는 현재 Matlab 작업 디렉토리로 선택해야 합니다.
+### The term "Vantage project folder" is used throughout the Vantage system documentation to refer to the main direc tory containing an installation of the Vantage software, with a default name such as "Vantage 4.4.0-2012091800". When using the Vantage software, the Vantage project folder must be selected as the current Matlab working directory.
