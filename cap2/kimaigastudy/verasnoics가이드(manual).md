@@ -63,4 +63,4 @@ AppNote Tools Summary
 
 명령어 
 
-Version -> 'Version x' 모든 주요 하드
+Version -> 'Version x' 모든 주요 하드웨어 모듈의 부품 번호 및 일련 번호, FPGA 코드 수정 수준 등이 포함 된다.
