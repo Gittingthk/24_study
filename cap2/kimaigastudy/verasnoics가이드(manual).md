@@ -69,4 +69,4 @@ Version -> 'Version x' 모든 주요 하드웨어 모듈의 부품 번호 및 �
 
 ProbeConnectorStatus -> 커넥터 유형, 프로브가 연결되어 있는지 여부, 연결되어 있다면 트랜스듀서의 ID와 이름
 
-VerasnoicsVerificationTest
+VerasnoicsVerificationTest->전체 시스템에 대한 자기 테스트로 
