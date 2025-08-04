@@ -121,3 +121,9 @@ SetUpMyScript.m (너가 짠 설정 코드)
 VSX → runAcq.mex 호출하면서 이 .mat 파일을 "실행 설정"으로 전달
         ↓
 runAcq가 .mat 파일을 로드 → 하드웨어 세팅 → 시퀀스 실행
+
+
+1~4번째까지 의 수고를 덜어주는 방법은 
+
+save('MatFiles/myScript');
+file
