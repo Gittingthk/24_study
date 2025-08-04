@@ -85,5 +85,5 @@ time tag for RF Data
 
 TX → delay → RX 시작 → 그 순간을 찍은 시간 값
 
-boolean result = Hardware.enableAcquisitionTimeTagging(enable); %타임태그 활성화 함수
+boolean result = Hardware.enableAcquisitionTimeTagging(enable); %타임태그 활성화 함수 enable은 boolean value이고 restult가 반환 값이고 
 
