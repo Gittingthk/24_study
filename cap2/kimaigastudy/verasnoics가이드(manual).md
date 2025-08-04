@@ -103,4 +103,4 @@ result = setTimeTaggingAttributes(wrap24, reset); %  24시간을 최대로 설�
 사용법
 
 1. 매트랩을 킨다. 그리고 vantage프로젝트 폴더로 이동한다.
-2. 활성화 명령을 발행하여 vantage 프로젝트 폴더를 활성화한다.
+2. 활성화 명령을 발행하여 vantage 프로젝트 폴더를 활성화한다. 명령어 activate
