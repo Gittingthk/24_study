@@ -84,3 +84,6 @@ time tag for RF Data
 - 이 때, **전체 Receive 데이터의 맨 앞 2 샘플에 time tag가 박힘**
 
 TX → delay → RX 시작 → 그 순간을 찍은 시간 값
+
+boolean result = Hardware.enableAcquisitionTimeTagging(enable); %타임태그 활성화 함수
+
