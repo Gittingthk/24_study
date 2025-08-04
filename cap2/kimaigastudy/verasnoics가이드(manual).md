@@ -18,3 +18,5 @@ Matlab
 1. Shutdown computer.
 
 ### 소프트 웨어는 3.2.0이후 면 뭐든 상관이 없으니 support@verasonics.com에 문의
+
+### .mat파일은 동일 소프트웨어에서 릴리즈 가능한데 .m파일은 재사용불가(다시 생성 권장)
