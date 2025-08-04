@@ -15,4 +15,5 @@ Matlab
 2. computer on -> fully power up the hardware
 3. front panel probe connecstor led turn on
 ## Power Off Procedure
-1. Shutdown y
+1. Shutdown computer.
+2. 
