@@ -126,4 +126,9 @@ runAcq가 .mat 파일을 로드 → 하드웨어 세팅 → 시퀀스 실행
 1~4번째까지 의 수고를 덜어주는 방법은 
 
 save('MatFiles/myScript');
-file
+filename = 'myScript';
+VSX
+
+하면 된다. VSX 실행 프로세스는 위 3줄로 간단하게 자동화 가능하다.
+
+
