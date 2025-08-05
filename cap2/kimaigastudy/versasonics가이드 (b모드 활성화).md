@@ -1,9 +1,8 @@
 ---
-id: -1
-tags:
-  - 공부
+id: 4798
+tags: 공부
 is_public: true
-last_synced:
+last_synced: 2025-08-05T06:14:30.528Z
 ---
 ## 1단계
 Verasnoics 시스템 활성화:

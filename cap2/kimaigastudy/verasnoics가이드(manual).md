@@ -1,8 +1,8 @@
 ---
-id: -1
-tags: ""
+id: 4797
+tags: 
 is_public: true
-last_synced: ""
+last_synced: 2025-08-05T06:14:28.821Z
 ---
 ## Verasonics with Vantage configuration
 
