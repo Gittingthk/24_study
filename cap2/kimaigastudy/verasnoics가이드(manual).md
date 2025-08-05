@@ -136,7 +136,9 @@ VSX
 
 Utilies폴더 : SetUp script가 있다 예를 들어 computeTXDelays, computeTrans. computeTGCWaveform등이 있다 -> 필요하면 수정가능
 
-System폴더 :  .p파일과
+System폴더 :  볼필요가 없다 우리가 건드릴 수 없는 영역
+
+Exampe Scripts
 
 
 
