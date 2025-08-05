@@ -18,3 +18,4 @@ last_synced: 2025-08-05T06:14:41.431Z
 |**PCI Express Cable**|메인 제어 PC와의 고속 통신 연결선|RF 데이터와 명령어를 빠르게 주고받기 위해|
 |**Main Power Supply**|시스템 전체 전원 공급|고전력 송수신 및 연산을 위한 안정적 전원 제공|
 ![[Pasted image 20250805154044.png]]
+![[Pasted image 20250805165840.png]]
