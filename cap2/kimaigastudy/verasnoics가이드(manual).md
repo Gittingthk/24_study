@@ -150,4 +150,10 @@ UTA 모듈이 부분적으로 연결된 상태에서 시스템 전원이 켜져 
 
 showEL함수
 
-ShowCH and showAPOD 함수를 사용한다.
+ShowCH and showAPOD를 사용한다.
+
+|명령어|기준|설명|
+|---|---|---|
+|`showEL`|트랜스듀서 요소 번호|가장 일반적으로 사용, 특정 요소 기준으로 전체 정보 확인|
+|`showCH`|I/O 채널 번호|하드웨어 채널 중심 정렬|
+|`showAPOD`|Apod 배열 순서|송수신 강도 제어(apodization) 순서 확인용|
