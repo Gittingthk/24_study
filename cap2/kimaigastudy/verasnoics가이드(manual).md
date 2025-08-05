@@ -146,4 +146,8 @@ Exampe Scripts
 UTA 모듈이 부분적으로 연결된 상태에서 시스템 전원이 켜져 있으면 HW 시스템이 손상될 수 있다.
 
 
-연결되었
+연결되었을 경우:
+
+showEL함수
+
+ShowCH and showAPOD 함수를 사용한다.
