@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계획/2025-8/08월 일정.md",
+                "file": "계획/연구동향 포스터 대회.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08월 일정"
-            }
-          },
-          {
-            "id": "062aff4f8dbed6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "콜아웃 함수.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "콜아웃 함수"
+              "title": "연구동향 포스터 대회"
             }
           }
         ]
@@ -214,18 +200,19 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "계획/창업아이디어.md",
     "계획/연구동향 포스터 대회.md",
+    "계획/2025-8/08월 일정.md",
+    "콜아웃 함수.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
     "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
     "kimaigastudy/verasonics가이드.md",
     "kimaigastudy/verasnoics가이드(manual).md",
-    "계획/2025-8/08월 일정.md",
     "Pasted image 20250805165840.png",
     "Pasted image 20250805154044.png",
     "계획/2025-7/0701.md",
     "계획/2025-8",
     "계획/2025-7",
-    "콜아웃 함수.md",
     "계획/2025-7/0728.md",
     "계획/2025-6/0731.md",
     "kimaigastudy/옵시디언 실험.md",
@@ -256,7 +243,6 @@
     "2025-07-10.md",
     "kimaigastudy/blog_metadata.md",
     "계획/2025-7/0710.md",
-    "계획/창업아이디어.md",
     "계획/2025-7/0709.md",
     "계획/2025-7/0708.md",
     "계획/2025-6/0604.md",
