@@ -11,14 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "계획/2025-8/08월 일정.md",
-                "mode": "source",
-                "source": false
+                "file": "annurev-bioeng-112823-103134.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 661,
+                "zoom": 2.2937853107344632
               },
-              "icon": "lucide-file",
-              "title": "08월 일정"
+              "icon": "lucide-file-text",
+              "title": "annurev-bioeng-112823-103134"
             }
           }
         ]
@@ -200,12 +202,12 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "계획/2025-8/08월 일정.md",
     "kimaigastudy/논문 리뷰.md",
     "annurev-bioeng-112823-103134.pdf",
     "초음파 공부.md",
     "계획/연구동향 포스터 대회.md",
     "계획/창업아이디어.md",
-    "계획/2025-8/08월 일정.md",
     "콜아웃 함수.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
     "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
