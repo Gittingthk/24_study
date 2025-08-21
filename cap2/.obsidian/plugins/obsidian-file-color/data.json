@@ -1,6 +1,22 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "AoKqdebfMXLRYpYUqCWf1",
+      "name": "중요",
+      "value": "#d23232"
+    },
+    {
+      "id": "iVpWhqwaEYurdp2h-9fm0",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "논문 공부/annurev-bioeng-112823-103134.pdf",
+      "color": "AoKqdebfMXLRYpYUqCWf1"
+    }
+  ]
 }
