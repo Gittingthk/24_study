@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/s10439-010-0176-2.pdf",
-                "page": 1,
+                "file": "논문 공부/annurev-bioeng-112823-103134.pdf",
+                "page": 17,
                 "left": -7,
-                "top": 796,
-                "zoom": 2.0506017118652062
+                "top": 463,
+                "zoom": 2.2937853107344632
               },
               "icon": "lucide-file-text",
-              "title": "s10439-010-0176-2"
+              "title": "annurev-bioeng-112823-103134"
             }
           }
         ]
@@ -200,10 +200,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/annurev-bioeng-112823-103134.pdf",
     "논문 공부/s10439-010-0176-2.pdf",
+    "논문 공부/annurev-bioeng-112823-103134.pdf",
     "논문 공부/bioreactor.pdf",
     "계획/창업아이디어.md",
     "초음파 공부.md",
