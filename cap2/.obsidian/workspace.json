@@ -11,17 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": 2190.7676108180012,
-                  "y": 4360.430177026867,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "논문 공부/WJG-25-6053.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 121,
+                "zoom": 2.047058823529412
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "icon": "lucide-file-text",
+              "title": "WJG-25-6053"
             }
           }
         ]
@@ -203,18 +202,17 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/도식화.canvas",
     "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/QUS 분류 nature.pdf",
-    "논문 공부/도식화.canvas",
     "논문 공부/WJG-25-6053.pdf",
     "논문 공부/B-mode-Artifact-Presentation_updated-121823.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/annurev-bioeng-112823-103134.pdf",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/9780521757102_excerpt.pdf",
-    "논문 공부/bioreactor.pdf",
     "계획/창업아이디어.md",
     "초음파 공부.md",
     "논문 공부/Untitled.md",
