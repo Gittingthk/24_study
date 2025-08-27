@@ -29,7 +29,10 @@
 		{"id":"6d0e1af57924acdd","type":"file","file":"논문 공부/9780521757102_excerpt.pdf","x":-78,"y":4640,"width":400,"height":400},
 		{"id":"9063e783f701b8f2","type":"text","text":"b-mode image & elastography","x":-78,"y":3960,"width":400,"height":60},
 		{"id":"089eb37dfa697c3f","type":"text","text":"method","x":-78,"y":4520,"width":250,"height":60},
-		{"id":"133cfab742aec06b","x":405,"y":4640,"width":400,"height":400,"type":"file","file":"논문 공부/B-mode-Artifact-Presentation_updated-121823.pdf"}
+		{"id":"133cfab742aec06b","type":"file","file":"논문 공부/B-mode-Artifact-Presentation_updated-121823.pdf","x":405,"y":4640,"width":400,"height":400},
+		{"id":"396a00eac1b270cf","type":"text","text":"attenuation & scattering","x":1480,"y":3960,"width":250,"height":60},
+		{"id":"87fcc5b6abdb78fd","type":"file","file":"논문 공부/WJG-25-6053.pdf","x":1480,"y":4080,"width":400,"height":400},
+		{"id":"87a270027788a0c8","x":2040,"y":4080,"width":400,"height":400,"type":"file","file":"논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf"}
 	],
 	"edges":[
 		{"id":"1be98b3ea1d7beeb","fromNode":"2a7affc945540b5c","fromSide":"right","toNode":"12dbad2bb4fdf29e","toSide":"left"},
