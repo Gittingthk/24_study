@@ -24,7 +24,9 @@
 		{"id":"9664d73348393d40","type":"file","file":"논문 공부/ECM scaffold assessment for lvier organoid.pdf","x":1640,"y":1880,"width":400,"height":400},
 		{"id":"e17f7640ffe0e62c","type":"file","file":"논문 공부/QUS 분류 nature.pdf","x":1640,"y":2360,"width":400,"height":400},
 		{"id":"45aec421c1fbdbd5","type":"file","file":"논문 공부/real-time-hydrogel 3d printing.pdf","x":1640,"y":1100,"width":400,"height":400},
-		{"id":"6066720783ec4ec8","type":"file","file":"논문 공부/bioreactor.pdf","x":-1290,"y":1760,"width":400,"height":400}
+		{"id":"6066720783ec4ec8","type":"file","file":"논문 공부/bioreactor.pdf","x":-1290,"y":1760,"width":400,"height":400},
+		{"id":"8d0824c363108dd8","type":"file","file":"논문 공부/annurev-bioeng-112823-103134.pdf","x":-78,"y":4080,"width":400,"height":400},
+		{"id":"6d0e1af57924acdd","x":-78,"y":4640,"width":400,"height":400,"type":"file","file":"논문 공부/9780521757102_excerpt.pdf"}
 	],
 	"edges":[
 		{"id":"1be98b3ea1d7beeb","fromNode":"2a7affc945540b5c","fromSide":"right","toNode":"12dbad2bb4fdf29e","toSide":"left"},
