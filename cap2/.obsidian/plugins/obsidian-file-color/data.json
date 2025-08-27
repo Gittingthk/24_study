@@ -9,6 +9,11 @@
     },
     {
       "id": "iVpWhqwaEYurdp2h-9fm0",
+      "name": "도식화",
+      "value": "#0574eb"
+    },
+    {
+      "id": "MPFVUrX-9fREE9Ozf-1nU",
       "name": "",
       "value": "#ffffff"
     }
@@ -25,6 +30,10 @@
     {
       "path": "논문 공부/9780521757102_excerpt.pdf",
       "color": "AoKqdebfMXLRYpYUqCWf1"
+    },
+    {
+      "path": "논문 공부/도식화.canvas",
+      "color": "iVpWhqwaEYurdp2h-9fm0"
     }
   ]
 }
