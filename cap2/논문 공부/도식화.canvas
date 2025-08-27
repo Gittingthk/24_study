@@ -34,6 +34,9 @@
 	"edges":[
 		{"id":"1be98b3ea1d7beeb","fromNode":"2a7affc945540b5c","fromSide":"right","toNode":"12dbad2bb4fdf29e","toSide":"left"},
 		{"id":"407c3b7cf8805262","fromNode":"12dbad2bb4fdf29e","fromSide":"right","toNode":"5dfb657e7b257993","toSide":"left"},
-		{"id":"708ce7d7b4a789aa","fromNode":"12dbad2bb4fdf29e","fromSide":"right","toNode":"1c1a4776a8a92e3b","toSide":"left"}
+		{"id":"708ce7d7b4a789aa","fromNode":"12dbad2bb4fdf29e","fromSide":"right","toNode":"1c1a4776a8a92e3b","toSide":"left"},
+		{"id":"9f5991ca3cf22f1c","fromNode":"8d0824c363108dd8","fromSide":"bottom","toNode":"089eb37dfa697c3f","toSide":"top"},
+		{"id":"f500fe1429d21161","fromNode":"089eb37dfa697c3f","fromSide":"bottom","toNode":"6d0e1af57924acdd","toSide":"top"},
+		{"id":"5a917d1b36c04b86","fromNode":"6d0e1af57924acdd","fromSide":"right","toNode":"133cfab742aec06b","toSide":"left"}
 	]
 }
