@@ -11,16 +11,14 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/WJG-25-6053.pdf",
-                "page": 5,
-                "left": -7,
-                "top": 477,
-                "zoom": 2.047058823529412
+                "file": "kimaigastudy/Processing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "WJG-25-6053"
+              "icon": "lucide-file",
+              "title": "Processing"
             }
           }
         ]
@@ -202,8 +200,10 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
+    "초음파 공부.md",
+    "kimaigastudy/Processing.md",
     "논문 공부/WJG-25-6053.pdf",
+    "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
@@ -214,7 +214,6 @@
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/9780521757102_excerpt.pdf",
     "계획/창업아이디어.md",
-    "초음파 공부.md",
     "논문 공부/Untitled.md",
     "계획/2025-8/08월 일정.md",
     "kimaigastudy/논문 리뷰.md",
