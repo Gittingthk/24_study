@@ -11,14 +11,17 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "kimaigastudy/Processing.md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/도식화.canvas",
+                "viewState": {
+                  "x": 1941.5483023767279,
+                  "y": 4317.0648785315925,
+                  "zoom": 0.7493793576730927
+                }
               },
-              "icon": "lucide-file",
-              "title": "Processing"
+              "icon": "lucide-layout-dashboard",
+              "title": "도식화"
             }
           }
         ]
@@ -200,8 +203,8 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "초음파 공부.md",
     "kimaigastudy/Processing.md",
+    "초음파 공부.md",
     "논문 공부/WJG-25-6053.pdf",
     "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/도식화.canvas",
