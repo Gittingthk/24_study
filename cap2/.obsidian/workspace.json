@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/WJG-25-6053.pdf",
-                "page": 6,
+                "file": "논문 공부/13244_2021_Article_1071.pdf",
+                "page": 1,
                 "left": -7,
-                "top": 712,
-                "zoom": 2.047058823529412
+                "top": 139,
+                "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
-              "title": "WJG-25-6053"
+              "title": "13244_2021_Article_1071"
             }
           }
         ],
@@ -220,11 +220,11 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/13244_2021_Article_1071.pdf",
-    "논문 공부/9780521757102_excerpt.pdf",
     "논문 공부/WJG-25-6053.pdf",
+    "논문 공부/diagnostics-14-01237-v2.pdf",
+    "논문 공부/9780521757102_excerpt.pdf",
     "논문 공부/도식화.canvas",
     "kimaigastudy/Processing.md",
     "초음파 공부.md",
