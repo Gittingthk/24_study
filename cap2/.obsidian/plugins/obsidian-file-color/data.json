@@ -19,8 +19,8 @@
     },
     {
       "id": "MPEQ5iFY6IMwpIwwB_ne7",
-      "name": "",
-      "value": "#ffffff"
+      "name": "QUS",
+      "value": "#bb00ff"
     }
   ],
   "fileColors": [
@@ -42,10 +42,14 @@
     },
     {
       "path": "논문 공부/WJG-25-6053.pdf",
-      "color": "MPFVUrX-9fREE9Ozf-1nU"
+      "color": "MPEQ5iFY6IMwpIwwB_ne7"
     },
     {
       "path": "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
+      "color": "MPEQ5iFY6IMwpIwwB_ne7"
+    },
+    {
+      "path": "논문 공부/diagnostics-14-01237-v2.pdf",
       "color": "MPFVUrX-9fREE9Ozf-1nU"
     }
   ]

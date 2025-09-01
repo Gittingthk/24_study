@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 795,
-                "zoom": 1.9901960784313726
+                "page": 4,
+                "left": -7,
+                "top": 9,
+                "zoom": 2.0505050505050506
               },
               "icon": "lucide-file-text",
               "title": "Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound"
@@ -220,11 +220,12 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
+    "논문 공부/diagnostics-14-01237-v2.pdf",
+    "논문 공부/WJG-25-6053.pdf",
+    "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/도식화.canvas",
     "kimaigastudy/Processing.md",
     "초음파 공부.md",
-    "논문 공부/WJG-25-6053.pdf",
-    "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/real-time-hydrogel 3d printing.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/QUS 분류 nature.pdf",
