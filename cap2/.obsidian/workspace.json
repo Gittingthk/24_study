@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
-                "page": 4,
+                "file": "논문 공부/13244_2021_Article_1071.pdf",
+                "page": 1,
                 "left": -7,
-                "top": 9,
-                "zoom": 2.0505050505050506
+                "top": 795,
+                "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
-              "title": "Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound"
+              "title": "13244_2021_Article_1071"
             }
           }
         ],
@@ -220,9 +220,10 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
+    "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
+    "논문 공부/13244_2021_Article_1071.pdf",
     "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/WJG-25-6053.pdf",
-    "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/도식화.canvas",
     "kimaigastudy/Processing.md",
     "초음파 공부.md",
@@ -233,7 +234,6 @@
     "논문 공부/메인리뷰 논문.pdf",
     "논문 공부/annurev-bioeng-112823-103134.pdf",
     "논문 공부/simmons's organonachip.pdf",
-    "논문 공부/9780521757102_excerpt.pdf",
     "계획/창업아이디어.md",
     "논문 공부/Untitled.md",
     "계획/2025-8/08월 일정.md",
