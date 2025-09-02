@@ -31,17 +31,27 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/13244_2021_Article_1071.pdf",
-                "page": 17,
-                "left": -7,
-                "top": 77,
-                "zoom": 2.0461097037340665
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "13244_2021_Article_1071"
             }
+          },
+          {
+            "id": "fbf2c35b8032f62c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,7 +229,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "active": "fbf2c35b8032f62c",
   "lastOpenFiles": [
     "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/13244_2021_Article_1071.pdf",
