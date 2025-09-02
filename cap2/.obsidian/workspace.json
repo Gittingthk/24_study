@@ -42,12 +42,16 @@
             "id": "fbf2c35b8032f62c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "논문 공부/13244_2021_Article_1071.pdf",
+                "page": 3,
+                "left": -7,
+                "top": 499,
+                "zoom": 2.0461097037340665
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file-text",
+              "title": "13244_2021_Article_1071"
             }
           }
         ],
