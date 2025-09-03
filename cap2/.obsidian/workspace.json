@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/13244_2021_Article_1071.pdf",
-                "page": 19,
+                "page": 15,
                 "left": -7,
-                "top": 763,
+                "top": 247,
                 "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
@@ -63,7 +63,7 @@
                 "file": "논문 공부/13244_2021_Article_1071.pdf",
                 "page": 10,
                 "left": -15,
-                "top": 416,
+                "top": 191,
                 "zoom": 2
               },
               "icon": "lucide-file-text",
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,7 +249,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "active": "fbf2c35b8032f62c",
   "lastOpenFiles": [
     "논문 공부/논문리뷰.md",
     "논문 공부/13244_2021_Article_1071.pdf",
