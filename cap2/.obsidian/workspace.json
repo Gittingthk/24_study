@@ -28,16 +28,14 @@
             "id": "e9549c843800f588",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/diagnostics-14-01237-v2.pdf",
-                "page": 3,
-                "left": -148,
-                "top": 803,
-                "zoom": 1.4
+                "file": "계획/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "diagnostics-14-01237-v2"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -267,8 +265,12 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "논문 공부/13244_2021_Article_1071.pdf",
+    "계획/창업아이디어.md",
+    "계획/Untitled.md",
+    "계획/2025-8/연구동향 포스터 대회.md",
+    "계획/2025-8/08월 일정.md",
     "논문 공부/diagnostics-14-01237-v2.pdf",
+    "논문 공부/13244_2021_Article_1071.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/논문리뷰.md",
     "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
@@ -281,10 +283,7 @@
     "논문 공부/QUS 분류 nature.pdf",
     "논문 공부/B-mode-Artifact-Presentation_updated-121823.pdf",
     "논문 공부/메인리뷰 논문.pdf",
-    "계획/창업아이디어.md",
-    "계획/2025-8/08월 일정.md",
     "kimaigastudy/논문 리뷰.md",
-    "계획/연구동향 포스터 대회.md",
     "콜아웃 함수.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
     "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
