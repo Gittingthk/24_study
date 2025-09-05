@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/13244_2021_Article_1071.pdf",
-                "page": 16,
+                "file": "논문 공부/diagnostics-14-01237-v2.pdf",
+                "page": 1,
                 "left": -7,
-                "top": 731,
+                "top": 224,
                 "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
-              "title": "13244_2021_Article_1071"
+              "title": "diagnostics-14-01237-v2"
             }
           },
           {
@@ -251,8 +251,8 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/13244_2021_Article_1071.pdf",
+    "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/논문리뷰.md",
     "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
