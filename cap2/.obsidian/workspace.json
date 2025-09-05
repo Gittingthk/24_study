@@ -31,9 +31,25 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/diagnostics-14-01237-v2.pdf",
-                "page": 1,
+                "page": 2,
+                "left": -148,
+                "top": 784,
+                "zoom": 1.4
+              },
+              "icon": "lucide-file-text",
+              "title": "diagnostics-14-01237-v2"
+            }
+          },
+          {
+            "id": "7aa0c43e32678d50",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "논문 공부/diagnostics-14-01237-v2.pdf",
+                "page": 2,
                 "left": -7,
-                "top": 224,
+                "top": 788,
                 "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
@@ -71,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +265,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "active": "7aa0c43e32678d50",
   "lastOpenFiles": [
     "논문 공부/13244_2021_Article_1071.pdf",
     "논문 공부/diagnostics-14-01237-v2.pdf",
