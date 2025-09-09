@@ -21,6 +21,11 @@
       "id": "MPEQ5iFY6IMwpIwwB_ne7",
       "name": "QUS",
       "value": "#bb00ff"
+    },
+    {
+      "id": "Xx8SWB6T8uaJK_sNJ5kci",
+      "name": "PVA",
+      "value": "#4bf104"
     }
   ],
   "fileColors": [
@@ -55,6 +60,10 @@
     {
       "path": "논문 공부/13244_2021_Article_1071.pdf",
       "color": "MPEQ5iFY6IMwpIwwB_ne7"
+    },
+    {
+      "path": "논문 공부/fchem-12-1376799.pdf",
+      "color": "Xx8SWB6T8uaJK_sNJ5kci"
     }
   ]
 }
