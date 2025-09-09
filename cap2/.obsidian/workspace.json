@@ -28,14 +28,16 @@
             "id": "e9549c843800f588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "계획/프로젝트 운영 (논문작성).md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/AI_enabled organoid_bioreactor.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 695,
+                "zoom": 2.0461097002968214
               },
-              "icon": "lucide-file",
-              "title": "프로젝트 운영 (논문작성)"
+              "icon": "lucide-file-text",
+              "title": "AI_enabled organoid_bioreactor"
             }
           },
           {
@@ -265,8 +267,9 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "계획/창업아이디어.md",
+    "논문 공부/메인리뷰 논문.pdf",
     "계획/프로젝트 운영 (논문작성).md",
+    "계획/창업아이디어.md",
     "계획/2025-8/연구동향 포스터 대회.md",
     "계획/2025-8/08월 일정.md",
     "논문 공부/diagnostics-14-01237-v2.pdf",
@@ -282,7 +285,6 @@
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/QUS 분류 nature.pdf",
     "논문 공부/B-mode-Artifact-Presentation_updated-121823.pdf",
-    "논문 공부/메인리뷰 논문.pdf",
     "kimaigastudy/논문 리뷰.md",
     "콜아웃 함수.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
@@ -310,7 +312,6 @@
     "kimaigastudy/we 한글.md",
     "ultrasound 논문/Untitled.md",
     "2025-07-10.md",
-    "kimaigastudy/blog_metadata.md",
     "Source/캡쳐사진 모음/Pasted image 20250416230411.png",
     "Source/캡쳐사진 모음/Pasted image 20250423154622.png",
     "Untitled 1/Untitled.canvas",
