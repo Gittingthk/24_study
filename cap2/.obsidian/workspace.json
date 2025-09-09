@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/AI_enabled organoid_bioreactor.pdf",
+                "file": "논문 공부/fchem-12-1376799.pdf",
                 "page": 1,
                 "left": -7,
-                "top": 695,
-                "zoom": 2.0461097002968214
+                "top": 846,
+                "zoom": 2.0461097003772526
               },
               "icon": "lucide-file-text",
-              "title": "AI_enabled organoid_bioreactor"
+              "title": "fchem-12-1376799"
             }
           },
           {
@@ -265,8 +265,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
+    "논문 공부/AI_enabled organoid_bioreactor.pdf",
+    "논문 공부/fchem-12-1376799.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "계획/프로젝트 운영 (논문작성).md",
     "계획/창업아이디어.md",
@@ -284,7 +286,6 @@
     "논문 공부/real-time-hydrogel 3d printing.pdf",
     "논문 공부/Medical Physics - 2022 - Li - Deep learning in ultrasound elastography imaging  A review.pdf",
     "논문 공부/QUS 분류 nature.pdf",
-    "논문 공부/B-mode-Artifact-Presentation_updated-121823.pdf",
     "kimaigastudy/논문 리뷰.md",
     "콜아웃 함수.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
