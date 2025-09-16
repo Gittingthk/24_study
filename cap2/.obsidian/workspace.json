@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/fchem-12-1376799.pdf",
-                "page": 12,
-                "left": -7,
-                "top": 564,
-                "zoom": 2.0461097003772526
+                "file": "논문 공부/Gu2023Mamba.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.9901960784313726
               },
               "icon": "lucide-file-text",
-              "title": "fchem-12-1376799"
+              "title": "Gu2023Mamba"
             }
           },
           {
@@ -267,11 +267,11 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
+    "논문 공부/fchem-12-1376799.pdf",
     "논문 공부/Gu2023Mamba.pdf",
     "논문 공부/미확인 354864.crdownload",
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
-    "논문 공부/fchem-12-1376799.pdf",
     "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/메인리뷰 논문.pdf",
     "계획/프로젝트 운영 (논문작성).md",
