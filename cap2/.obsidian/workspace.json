@@ -28,16 +28,14 @@
             "id": "e9549c843800f588",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/mamba/2410.20997v1.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 686,
-                "zoom": 1.9901960784313726
+                "file": "계획/2025-9/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2410.20997v1"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -265,19 +263,19 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "e9549c843800f588",
   "lastOpenFiles": [
+    "논문 공부/mamba/2410.20997v1.pdf",
+    "계획/2025-9/Untitled.md",
     "계획/2025-9",
     "논문 공부/mamba/2503.18970v2.pdf",
     "논문 공부/mamba/ad1fdf78-e123-40b8-b456-da3bf98c87f6.pdf",
     "논문 공부/mamba/Gu2023Mamba.pdf",
     "논문 공부/boe-12-2-1050.pdf",
-    "논문 공부/mamba/2410.20997v1.pdf",
     "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/mamba",
     "논문 공부/fchem-12-1376799.pdf",
-    "논문 공부/미확인 354864.crdownload",
     "계획/프로젝트 운영 (논문작성).md",
     "계획/창업아이디어.md",
     "계획/2025-8/연구동향 포스터 대회.md",
@@ -312,7 +310,6 @@
     "계획/2025-7/0704.md",
     "kimaigastudy/we 한글.md",
     "ultrasound 논문/Untitled.md",
-    "2025-07-10.md",
     "Source/캡쳐사진 모음/Pasted image 20250416230411.png",
     "Source/캡쳐사진 모음/Pasted image 20250423154622.png",
     "Untitled 1/Untitled.canvas",
