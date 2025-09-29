@@ -28,17 +28,16 @@
             "id": "e9549c843800f588",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/PVA/PVA_canvaus.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
+                "page": 2,
+                "left": -13,
+                "top": 704,
+                "zoom": 1.2438725490196079
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "PVA_canvaus"
+              "icon": "lucide-file-text",
+              "title": "Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1)"
             }
           }
         ],
@@ -222,13 +221,13 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "Untitled.base",
-    "논문 공부/PVA/PVA_canvaus.canvas",
-    "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
     "논문 공부/PVA/10063822.pdf",
+    "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
     "논문 공부/PVA/Phantom_review.pdf",
-    "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
     "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
+    "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
+    "논문 공부/PVA/PVA_canvaus.canvas",
+    "Untitled.base",
     "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/mamba/ad1fdf78-e123-40b8-b456-da3bf98c87f6.pdf",
     "논문 공부/PVA",
