@@ -32,16 +32,26 @@
               "state": {
                 "file": "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
                 "page": 1,
-                "left": -13,
-                "top": 796,
-                "zoom": 1.2438725490196079
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1)"
             }
+          },
+          {
+            "id": "4d3889589e073cb6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +229,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "active": "4d3889589e073cb6",
   "lastOpenFiles": [
     "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
     "논문 공부/PVA/10063822.pdf",
