@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/PVA/jain2017.pdf",
+                "file": "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
                 "page": 1,
-                "left": -7,
+                "left": -8,
                 "top": 797,
-                "zoom": 2.0461097037340665
+                "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
-              "title": "jain2017"
+              "title": "1-s2.0-S0266353816300720-main"
             }
           }
         ],
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "right": {
     "id": "620704063541882d",
@@ -221,8 +221,9 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
     "논문 공부/PVA/jain2017.pdf",
+    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
+    "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
     "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc (1).pdf",
     "논문 공부/PVA/10063822.pdf",
     "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
@@ -232,7 +233,6 @@
     "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "Untitled.base",
-    "논문 공부/diagnostics-14-01237-v2.pdf",
     "계획/2025-9/Untitled.md",
     "계획/프로젝트 운영 (논문작성).md",
     "계획/창업아이디어.md",
