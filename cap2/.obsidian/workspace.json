@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/s10439-010-0176-2.pdf",
+                "file": "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
                 "page": 1,
                 "left": -12,
-                "top": 796,
-                "zoom": 1.2121783518415012
+                "top": 797,
+                "zoom": 1.2095229775767882
               },
               "icon": "lucide-file-text",
-              "title": "s10439-010-0176-2"
+              "title": "1-s2.0-S175161612500164X-main"
             }
           }
         ],
@@ -219,9 +219,11 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "논문 공부/Untitled",
+    "논문 공부/s10439-010-0176-2.pdf",
+    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
+    "논문 공부/robotic_arm",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/simmons's review.pdf",
     "논문 공부/WJG-25-6053.pdf",
@@ -230,8 +232,6 @@
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
     "논문 공부/fchem-12-1376799.pdf",
-    "논문 공부/diagnostics-14-01237-v2.pdf",
-    "논문 공부/boe-12-2-1050.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "계획/2025-9/Untitled.md",
     "계획/프로젝트 운영 (논문작성).md",
