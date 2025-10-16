@@ -42,12 +42,13 @@
             "id": "4d3889589e073cb6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Untitled 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
         ],
@@ -231,6 +232,7 @@
   },
   "active": "4d3889589e073cb6",
   "lastOpenFiles": [
+    "Untitled 1.base",
     "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
     "논문 공부/PVA/10063822.pdf",
     "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
@@ -242,7 +244,6 @@
     "논문 공부/diagnostics-14-01237-v2.pdf",
     "논문 공부/mamba/ad1fdf78-e123-40b8-b456-da3bf98c87f6.pdf",
     "논문 공부/PVA",
-    "Untitled 1",
     "계획/2025-9/Untitled.md",
     "계획/프로젝트 운영 (논문작성).md",
     "계획/창업아이디어.md",
