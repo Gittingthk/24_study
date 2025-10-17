@@ -32,9 +32,9 @@
               "state": {
                 "file": "논문 공부/PVA/Untitled.canvas",
                 "viewState": {
-                  "x": 1106.3233030583267,
-                  "y": 321.28514873682997,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 1069.9405630315377,
+                  "y": 93.67183716199821,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -225,27 +225,27 @@
     "type": "floating",
     "children": [
       {
-        "id": "af5b3f9da9b2be5a",
+        "id": "1a3c7ea2130db6e1",
         "type": "window",
         "children": [
           {
-            "id": "6be538f3243c0e44",
+            "id": "c2c455ad181da122",
             "type": "tabs",
             "children": [
               {
-                "id": "c3e57ff31ff7c348",
+                "id": "53ae0dea464b6663",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "stammen2001.pdf",
-                    "page": 4,
-                    "left": -92,
-                    "top": 537,
-                    "zoom": 1.7
+                    "file": "OJOPM_2013103015003372.pdf",
+                    "page": 1,
+                    "left": -12,
+                    "top": 812,
+                    "zoom": 1.2252100840336135
                   },
                   "icon": "lucide-file-text",
-                  "title": "stammen2001"
+                  "title": "OJOPM_2013103015003372"
                 }
               }
             ]
@@ -261,22 +261,21 @@
       }
     ]
   },
-  "active": "e9549c843800f588",
+  "active": "53ae0dea464b6663",
   "lastOpenFiles": [
+    "논문 공부/PVA/Untitled.canvas",
+    "OJOPM_2013103015003372.pdf",
     "c6ra02166b.pdf",
     "1-s2.0-S1742706109000762-main.pdf",
     "stammen2001.pdf",
-    "논문 공부/PVA/Untitled.canvas",
     "Pasted image 20251017174655.png",
     "pazos2009.pdf",
     "nihms-1774415.pdf",
-    "OJOPM_2013103015003372.pdf",
     "1-s2.0-S1751616111000786-main.pdf",
     "US5981826.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/s10439-010-0176-2.pdf",
-    "논문 공부/robotic_arm",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "계획/2025-9/Untitled.md",
     "계획/프로젝트 운영 (논문작성).md",
