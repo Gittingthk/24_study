@@ -23,6 +23,11 @@
 		{"id":"71f4f6821472693a","type":"file","file":"c6ra02166b.pdf","x":-1280,"y":-440,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"9a7950323bec3e53","fromNode":"6f8665d790df44d8","fromSide":"right","toNode":"22648e36c7dcb0c9","toSide":"left"}
+		{"id":"9a7950323bec3e53","fromNode":"6f8665d790df44d8","fromSide":"right","toNode":"22648e36c7dcb0c9","toSide":"left"},
+		{"id":"f18acbd5e4d347c7","fromNode":"71f4f6821472693a","fromSide":"right","toNode":"567ccfd39d550cf7","toSide":"left"},
+		{"id":"507e38de07ad6b07","fromNode":"42ddccea49b8438b","fromSide":"right","toNode":"79a8da928bce6499","toSide":"left"},
+		{"id":"dac735f57bc394ee","fromNode":"4e5f01fd84ca6fe9","fromSide":"right","toNode":"9019b1bbbf752280","toSide":"left"},
+		{"id":"e2828ce4ae0fc29c","fromNode":"3ad9d98a785cba8f","fromSide":"right","toNode":"f8dcb0611264c603","toSide":"left"},
+		{"id":"3d6c7c6a27247128","fromNode":"86b832a662490465","fromSide":"right","toNode":"7312e2c180fbccd2","toSide":"left"}
 	]
 }
