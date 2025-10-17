@@ -10,7 +10,8 @@
 		{"id":"966c1759b2616d68","type":"text","text":"### Mechaicnal Test setting : compresssive/tensile\n\n-Loadcell :\n\n-speed :\n\n-strain/Load limitation :\n\n### Sample parameter : shape\n\n-PVA concentration :\n\n-PVA FT condition(Cycles):\n\n-composite :\n\n-Area :\n\n-Thickness :\n\n### Result:\n\nex) the PVA-FT gel exhibited lower σb, E, εb, and toughness, which were 0.50 MPa, 59.1 kPa, 399%, and 0.77 MJ/m3","x":-740,"y":-1040,"width":660,"height":400},
 		{"id":"6f8665d790df44d8","type":"link","url":"https://www.mdpi.com/2073-4360/15/18/3782","x":-1280,"y":-440,"width":400,"height":400},
 		{"id":"be5903bc91936ac5","type":"text","text":"### Mechaicnal Test setting : compresssive/tensile\n\n-Loadcell : 5N for soft tissue\n\n-speed : 10mm /min\n\n-strain/Load limitation : until failure\n\n### Sample parameter : shape\n\n-PVA concentration : 3%\n\n-PVA FT condition(Cycles): 1/3/5\n\n-composite :x\n\n-Area : 10파이\n\n-Thickness : 10-12mm\n\n### Result:\n\nσb / E range : 3.6 → 11.4 kPa (↑ with cycle count)","x":640,"y":-440,"width":600,"height":400},
-		{"id":"86b832a662490465","type":"file","file":"OJOPM_2013103015003372.pdf","x":120,"y":100,"width":400,"height":400}
+		{"id":"86b832a662490465","type":"file","file":"OJOPM_2013103015003372.pdf","x":120,"y":100,"width":400,"height":400},
+		{"id":"0631854e82acf261","x":120,"y":600,"width":400,"height":400,"type":"file","file":"nihms-1774415.pdf"}
 	],
 	"edges":[
 		{"id":"9a7950323bec3e53","fromNode":"6f8665d790df44d8","fromSide":"right","toNode":"22648e36c7dcb0c9","toSide":"left"}
