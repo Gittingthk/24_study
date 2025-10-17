@@ -33,7 +33,7 @@
                 "file": "논문 공부/PVA/Untitled.canvas",
                 "viewState": {
                   "x": -791.4031521835145,
-                  "y": -220.91796517127065,
+                  "y": -279.50429399138227,
                   "zoom": 0.6666666666666665
                 }
               },
@@ -225,24 +225,24 @@
     "type": "floating",
     "children": [
       {
-        "id": "ebb7b7dd42fde18a",
+        "id": "a4a9680e1be5b901",
         "type": "window",
         "children": [
           {
-            "id": "1c651468469fac96",
+            "id": "0fd793b09619548b",
             "type": "tabs",
             "children": [
               {
-                "id": "98f5b12dbf50a401",
+                "id": "ca4a34f26466fc53",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
                     "file": "c6ra02166b.pdf",
                     "page": 1,
-                    "left": -287,
-                    "top": 416,
-                    "zoom": 1.224642014796498
+                    "left": 27,
+                    "top": 300,
+                    "zoom": 2.5
                   },
                   "icon": "lucide-file-text",
                   "title": "c6ra02166b"
@@ -261,12 +261,12 @@
       }
     ]
   },
-  "active": "98f5b12dbf50a401",
+  "active": "ca4a34f26466fc53",
   "lastOpenFiles": [
     "논문 공부/PVA/Untitled.canvas",
+    "c6ra02166b.pdf",
     "1-s2.0-S1751616111000786-main.pdf",
     "OJOPM_2013103015003372.pdf",
-    "c6ra02166b.pdf",
     "1-s2.0-S1742706109000762-main.pdf",
     "stammen2001.pdf",
     "Pasted image 20251017174655.png",
