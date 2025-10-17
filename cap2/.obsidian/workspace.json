@@ -28,16 +28,17 @@
             "id": "e9549c843800f588",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 797,
-                "zoom": 1.2095229775767882
+                "file": "논문 공부/PVA/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S175161612500164X-main"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -221,8 +222,10 @@
   },
   "active": "e9549c843800f588",
   "lastOpenFiles": [
-    "논문 공부/s10439-010-0176-2.pdf",
+    "논문 공부/도식화.canvas",
+    "논문 공부/PVA/Untitled.canvas",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
+    "논문 공부/s10439-010-0176-2.pdf",
     "논문 공부/robotic_arm",
     "논문 공부/simmons's organonachip.pdf",
     "논문 공부/simmons's review.pdf",
@@ -231,14 +234,12 @@
     "논문 공부/13244_2021_Article_1071.pdf",
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
-    "논문 공부/fchem-12-1376799.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "계획/2025-9/Untitled.md",
     "계획/프로젝트 운영 (논문작성).md",
     "계획/창업아이디어.md",
     "계획/2025-8/연구동향 포스터 대회.md",
     "계획/2025-8/08월 일정.md",
-    "논문 공부/도식화.canvas",
     "논문 공부/논문리뷰.md",
     "kimaigastudy/Processing.md",
     "초음파 공부.md",
