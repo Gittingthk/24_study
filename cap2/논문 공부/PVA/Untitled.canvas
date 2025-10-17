@@ -20,7 +20,8 @@
 		{"id":"71f4f6821472693a","type":"file","file":"c6ra02166b.pdf","x":-1320,"y":-1000,"width":400,"height":400},
 		{"id":"567ccfd39d550cf7","type":"text","text":"### Mechaicnal Test setting : compresssive\n\n-Loadcell : about 500N (Instron 5500R)\n \n-speed : 2mm/min\n\n-strain/Load limitation : 70% not destroyed\n\n### Sample parameter : shape\n\n-PVA concentration : 2%/ 6%\n\n-PVA FT condition(Cycles): 3cycles\n\n-composite : HA\n\n-Area : 27 mm\n\n-Thickness : 6 +1mm -1mm\n\n### Result:\n 비선형 탄성으로 측정된다.\ncompressive strength : 0.17–0.43 MPa\nCompressive modulus trend : Exponential (0.07 → 2.86 MPa)\n","x":-760,"y":-1080,"width":660,"height":640},
 		{"id":"42ddccea49b8438b","type":"file","file":"stammen2001.pdf","x":-1320,"y":-80,"width":400,"height":400},
-		{"id":"4e5f01fd84ca6fe9","type":"file","file":"1-s2.0-S1742706109000762-main.pdf","x":-1320,"y":720,"width":400,"height":400}
+		{"id":"4e5f01fd84ca6fe9","type":"file","file":"1-s2.0-S1742706109000762-main.pdf","x":-1320,"y":720,"width":400,"height":400},
+		{"id":"825bdadce2be2c72","x":-1320,"y":1520,"width":400,"height":400,"type":"file","file":"논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf"}
 	],
 	"edges":[
 		{"id":"9a7950323bec3e53","fromNode":"6f8665d790df44d8","fromSide":"right","toNode":"22648e36c7dcb0c9","toSide":"left"},

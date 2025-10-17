@@ -15,29 +15,13 @@
               "state": {
                 "file": "논문 공부/PVA/Untitled.canvas",
                 "viewState": {
-                  "x": -1180.7416350708522,
-                  "y": -462.8283389888525,
-                  "zoom": -0.18537901195427925
+                  "x": 20,
+                  "y": 1312.2227020357807,
+                  "zoom": -1.8520456786209456
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
-            }
-          },
-          {
-            "id": "e9549c843800f588",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
-                "page": 2,
-                "left": -8,
-                "top": 737,
-                "zoom": 1.9227941176470589
-              },
-              "icon": "lucide-file-text",
-              "title": "Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1)"
             }
           }
         ]
@@ -220,11 +204,11 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/도식화.canvas",
     "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
-    "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
-    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/PVA/Untitled.canvas",
+    "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
+    "논문 공부/도식화.canvas",
+    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
     "c6ra02166b.pdf",
     "1-s2.0-S1751616111000786-main.pdf",
