@@ -4,7 +4,7 @@
 		{"id":"22648e36c7dcb0c9","x":-740,"y":-430,"width":660,"height":380,"color":"6","type":"text","text":"### Mechaicnal Test setting : Tensile (ISO 527-1: 1993)\n-Loadcell : 100N`\n-speed : 50mm/min\n-strain/Load limitation : \n### Sample parameter :Dumbbell-shaped\n-PVA concentration : 10%\n-PVA FT condition: 3cycles\n-composite : x\n-Area : x\n-Thickness : 구체적 x\n### Result:\nthe PVA-FT gel exhibited lower σb, E, εb, and toughness, which were 0.50 MPa, 59.1 kPa, 399%, and 0.77 MJ/m3\n"},
 		{"id":"966c1759b2616d68","x":-1065,"y":-743,"width":250,"height":60,"type":"text","text":"### Mechaicnal Test setting : compresssive/tensile\n\n-Loadcell :\n\n-speed :\n\n-strain/Load limitation :\n\n### Sample parameter : shape\n\n-PVA concentration :\n\n-PVA FT condition(Cycles):\n\n-composite :\n\n-Area :\n\n-Thickness :\n\n### Result:\n\nex) the PVA-FT gel exhibited lower σb, E, εb, and toughness, which were 0.50 MPa, 59.1 kPa, 399%, and 0.77 MJ/m3"},
 		{"id":"63399a128664d88d","x":-1280,"y":100,"width":400,"height":400,"type":"file","file":"US5981826.pdf"},
-		{"id":"ca252666d22de82f","x":-740,"y":100,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ca252666d22de82f","x":-740,"y":100,"width":660,"height":360,"type":"text","text":"### Mechaicnal Test setting : compresssive/tensile\n\n-Loadcell :\n\n-speed :\n\n-strain/Load limitation :\n\n### Sample parameter : shape\n\n-PVA concentration :\n\n-PVA FT condition(Cycles):\n\n-composite :\n\n-Area :\n\n-Thickness :\n\n### Result:\n\nex) the PVA-FT gel exhibited lower σb, E, εb, and toughness, which were 0.50 MPa, 59.1 kPa, 399%, and 0.77 MJ/m3"}
 	],
 	"edges":[
 		{"id":"9a7950323bec3e53","fromNode":"6f8665d790df44d8","fromSide":"right","toNode":"22648e36c7dcb0c9","toSide":"left"}
