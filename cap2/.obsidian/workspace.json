@@ -220,8 +220,50 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "floating": {
+    "id": "fe1f293e5455d5f4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "af5b3f9da9b2be5a",
+        "type": "window",
+        "children": [
+          {
+            "id": "6be538f3243c0e44",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3e57ff31ff7c348",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "stammen2001.pdf",
+                    "page": 1,
+                    "left": -92,
+                    "top": 69,
+                    "zoom": 1.7
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "stammen2001"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c3e57ff31ff7c348",
   "lastOpenFiles": [
+    "논문 공부/PVA/Untitled.canvas",
     "Pasted image 20251017174655.png",
     "pazos2009.pdf",
     "nihms-1774415.pdf",
@@ -230,7 +272,6 @@
     "stammen2001.pdf",
     "US5981826.pdf",
     "논문 공부/도식화.canvas",
-    "논문 공부/PVA/Untitled.canvas",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/s10439-010-0176-2.pdf",
     "논문 공부/robotic_arm",
@@ -271,7 +312,6 @@
     "kimaigastudy/we 한글.md",
     "ultrasound 논문/Untitled.md",
     "Source/캡쳐사진 모음/Pasted image 20250416230411.png",
-    "Source/캡쳐사진 모음/Pasted image 20250423154622.png",
     "Untitled 1/Untitled.canvas",
     "ros2/Untitled.canvas",
     "잽 게임/Untitled.canvas",
