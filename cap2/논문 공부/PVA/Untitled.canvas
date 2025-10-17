@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"22648e36c7dcb0c9","x":-740,"y":-440,"width":520,"height":380,"type":"text","text":"Mechaicnal Test setting :\nLoadcell\nspeed\nstrain/Load limitation\nsample parameter"}
+		{"id":"22648e36c7dcb0c9","x":-740,"y":-440,"width":520,"height":380,"type":"text","text":"Mechaicnal Test setting : Tensile \nLoadcell : 100N\nspeed : \nstrain/Load limitation : \nsample parameter "}
 	],
 	"edges":[]
 }
