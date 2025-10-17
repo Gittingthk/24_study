@@ -13,36 +13,34 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "논문 공부/도식화.canvas",
+                "file": "논문 공부/PVA/Untitled.canvas",
                 "viewState": {
-                  "x": 1941.5483023767279,
-                  "y": 4317.0648785315925,
-                  "zoom": 0.7493793576730927
+                  "x": -1180.7416350708522,
+                  "y": -462.8283389888525,
+                  "zoom": -0.18537901195427925
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "title": "Untitled"
             }
           },
           {
             "id": "e9549c843800f588",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/PVA/Untitled.canvas",
-                "viewState": {
-                  "x": 595.5053337546184,
-                  "y": 846.7726282937117,
-                  "zoom": -0.9658454409506301
-                }
+                "file": "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
+                "page": 2,
+                "left": -8,
+                "top": 737,
+                "zoom": 1.9227941176470589
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +218,14 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
+    "논문 공부/도식화.canvas",
+    "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
+    "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
+    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/PVA/Untitled.canvas",
+    "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
     "c6ra02166b.pdf",
     "1-s2.0-S1751616111000786-main.pdf",
     "OJOPM_2013103015003372.pdf",
@@ -231,10 +233,6 @@
     "stammen2001.pdf",
     "Pasted image 20251017174655.png",
     "pazos2009.pdf",
-    "nihms-1774415.pdf",
-    "US5981826.pdf",
-    "논문 공부/도식화.canvas",
-    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "계획/2025-9/Untitled.md",
     "계획/프로젝트 운영 (논문작성).md",
