@@ -239,9 +239,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "stammen2001.pdf",
-                    "page": 1,
+                    "page": 4,
                     "left": -92,
-                    "top": 69,
+                    "top": 537,
                     "zoom": 1.7
                   },
                   "icon": "lucide-file-text",
@@ -256,20 +256,20 @@
         "y": 116,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c3e57ff31ff7c348",
+  "active": "e9549c843800f588",
   "lastOpenFiles": [
+    "stammen2001.pdf",
     "논문 공부/PVA/Untitled.canvas",
     "Pasted image 20251017174655.png",
     "pazos2009.pdf",
     "nihms-1774415.pdf",
     "OJOPM_2013103015003372.pdf",
     "1-s2.0-S1751616111000786-main.pdf",
-    "stammen2001.pdf",
     "US5981826.pdf",
     "논문 공부/도식화.canvas",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
