@@ -220,10 +220,51 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "e9549c843800f588",
+  "floating": {
+    "id": "fe1f293e5455d5f4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ebb7b7dd42fde18a",
+        "type": "window",
+        "children": [
+          {
+            "id": "1c651468469fac96",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98f5b12dbf50a401",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "c6ra02166b.pdf",
+                    "page": 1,
+                    "left": -287,
+                    "top": 416,
+                    "zoom": 1.224642014796498
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "c6ra02166b"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "98f5b12dbf50a401",
   "lastOpenFiles": [
-    "1-s2.0-S1751616111000786-main.pdf",
     "논문 공부/PVA/Untitled.canvas",
+    "1-s2.0-S1751616111000786-main.pdf",
     "OJOPM_2013103015003372.pdf",
     "c6ra02166b.pdf",
     "1-s2.0-S1742706109000762-main.pdf",
