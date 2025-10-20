@@ -11,16 +11,17 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/3.3관련 논문.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 798,
-                "zoom": 1.976917067762014
+                "file": "논문 공부/PVA/Untitled.canvas",
+                "viewState": {
+                  "x": 329.19782191260526,
+                  "y": 1494.975346700788,
+                  "zoom": -1.370652926931517
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "3.3관련 논문"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -203,6 +204,7 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/13244_2021_Article_1071.pdf",
@@ -215,7 +217,6 @@
     "논문 공부/annurev-bioeng-112823-103134.pdf",
     "논문 공부/PVA/Untitled.canvas",
     "viscoelastic-characterization-of-phantoms-for-ultrasound-elastography-created-using-low-and-high-viscosity-poly%28vinyl.pdf",
-    "main.pdf",
     "Pasted image 20251017174655.png",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "계획/2025-9/Untitled.md",
