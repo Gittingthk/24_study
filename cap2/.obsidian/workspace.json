@@ -11,17 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/도식화.canvas",
-                "viewState": {
-                  "x": 526.5,
-                  "y": 3555.2201257861634,
-                  "zoom": -2.5839539756602403
-                }
+                "file": "논문 공부/3.3관련 논문.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 798,
+                "zoom": 1.976917067762014
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "도식화"
+              "icon": "lucide-file-text",
+              "title": "3.3관련 논문"
             }
           }
         ]
@@ -204,19 +203,19 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문_1.pdf",
+    "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
+    "논문 공부/13244_2021_Article_1071.pdf",
+    "논문 공부/9780521757102_excerpt.pdf",
+    "논문 공부/도식화.canvas",
     "논문 공부/WJG-25-6053.pdf",
     "논문 공부/Review_of_Quantitative_Ultrasound_Envelope_Statistics_and_Backscatter_Coefficient_Imaging_and_Contributions_to_Diagnostic_Ultrasound.pdf",
     "논문 공부/fchem-12-1376799.pdf",
     "논문 공부/boe-12-2-1050.pdf",
     "논문 공부/annurev-bioeng-112823-103134.pdf",
-    "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
-    "논문 공부/13244_2021_Article_1071.pdf",
-    "논문 공부/9780521757102_excerpt.pdf",
     "논문 공부/PVA/Untitled.canvas",
     "viscoelastic-characterization-of-phantoms-for-ultrasound-elastography-created-using-low-and-high-viscosity-poly%28vinyl.pdf",
     "main.pdf",
-    "ao3c09224.pdf",
-    "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "계획/2025-9/Untitled.md",
