@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
-                "page": 1,
+                "file": "논문 공부/similar_paper/bioengineering-11-00620.pdf",
+                "page": 12,
                 "left": -8,
-                "top": 796,
-                "zoom": 1.9227941176470589
+                "top": 80,
+                "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
-              "title": "boe-12-2-1050 (1)"
+              "title": "bioengineering-11-00620"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
+    "논문 공부/verasnoics/nihms677819.pdf",
+    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/verasnoics",
     "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
@@ -213,7 +214,6 @@
     "논문 공부/similar_paper/Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions.pdf",
     "논문 공부/similar_paper/bioengineering-11-00620.pdf",
     "논문 공부/similar_paper/Machine-to-Machine_Transfer_Function_in_Deep_Learning-Based_Quantitative_Ultrasound.pdf",
-    "논문 공부/similar_paper",
     "논문 공부/PVA/reference_roadmap.canvas",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
