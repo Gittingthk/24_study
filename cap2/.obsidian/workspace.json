@@ -16,7 +16,7 @@
                 "file": "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 422,
+                "top": 608,
                 "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
@@ -201,8 +201,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
+    "논문 공부/similar_paper/Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions.pdf",
+    "논문 공부/similar_paper",
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/시편 고정틀",
@@ -214,8 +216,6 @@
     "논문 공부/PVA/jain2017.pdf",
     "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
     "논문 공부/PVA/10063822.pdf",
-    "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
-    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
     "계획/2025-9/Untitled.md",
