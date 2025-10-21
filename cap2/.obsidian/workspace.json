@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/similar_paper/Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions.pdf",
+                "file": "논문 공부/similar_paper/Machine-to-Machine_Transfer_Function_in_Deep_Learning-Based_Quantitative_Ultrasound.pdf",
                 "page": 1,
                 "left": -13,
                 "top": 796,
                 "zoom": 1.1764705882352942
               },
               "icon": "lucide-file-text",
-              "title": "Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions"
+              "title": "Machine-to-Machine_Transfer_Function_in_Deep_Learning-Based_Quantitative_Ultrasound"
             }
           }
         ]
@@ -201,10 +201,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
-    "논문 공부/similar_paper/bioengineering-11-00620.pdf",
     "논문 공부/similar_paper/Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions.pdf",
+    "논문 공부/similar_paper/bioengineering-11-00620.pdf",
     "논문 공부/similar_paper/Machine-to-Machine_Transfer_Function_in_Deep_Learning-Based_Quantitative_Ultrasound.pdf",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/similar_paper",
