@@ -15,9 +15,9 @@
               "state": {
                 "file": "논문 공부/similar_paper/Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions.pdf",
                 "page": 1,
-                "left": -8,
+                "left": -13,
                 "top": 796,
-                "zoom": 1.9227941176470589
+                "zoom": 1.1764705882352942
               },
               "icon": "lucide-file-text",
               "title": "Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions"
@@ -203,10 +203,10 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/similar_paper/Machine-to-Machine_Transfer_Function_in_Deep_Learning-Based_Quantitative_Ultrasound.pdf",
     "논문 공부/similar_paper/bioengineering-11-00620.pdf",
-    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/similar_paper/Calibrating_Data_Mismatches_in_Deep_Learning-Based_Quantitative_Ultrasound_Using_Setting_Transfer_Functions.pdf",
+    "논문 공부/similar_paper/Machine-to-Machine_Transfer_Function_in_Deep_Learning-Based_Quantitative_Ultrasound.pdf",
+    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/similar_paper",
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
     "논문 공부/시편 고정틀",
