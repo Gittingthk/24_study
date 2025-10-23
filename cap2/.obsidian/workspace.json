@@ -11,17 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/PVA/reference_roadmap.canvas",
-                "viewState": {
-                  "x": -559.0546622437155,
-                  "y": 2358.086485010251,
-                  "zoom": 0.6293470730684827
-                }
+                "file": "논문 공부/PVA/s10853-024-09610-8.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 795,
+                "zoom": 1.9768141164770632
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "reference_roadmap"
+              "icon": "lucide-file-text",
+              "title": "s10853-024-09610-8"
             }
           }
         ]
@@ -204,8 +203,9 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
     "논문 공부/PVA/reference_roadmap.canvas",
+    "논문 공부/PVA/s10853-024-09610-8.pdf",
+    "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
     "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
     "논문 공부/PVA/10063822.pdf",
     "논문 공부/similar_paper/bioengineering-11-00620.pdf",
@@ -214,7 +214,6 @@
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/verasnoics",
     "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
-    "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
