@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"6cca219f23bce5f6","x":-340,"y":-300,"width":620,"height":340,"type":"text","text":"| 재질        | 음속 (m/s) | Z (MRayl) | 반사율   | 근거 출처                                                             |\n| --------- | -------- | --------- | ----- | ----------------------------------------------------------------- |\n| **TPX**   | 2093     | 1.74      | 0.8 % | Madsen EL et al., *Ultrasound Med Biol.*, 2011 [PMCID PMC3136917] |\n| **FEP**   | 1400     | 1.8       | 1 %   | NPL Ultrasound Database; Dupont FEP Datasheet; Hasegawa 2013      |\n| **PET**   | 2450     | 3.0       | 9 %   | NPL Database; Melinex Datasheet; NDT.net 2003                     |\n| **Mylar** | 2200     | 3.1       | 10 %  | NPL Database; Wells 1977 *Biomedical Ultrasonics*                 |\n"},
-		{"id":"e1504dbf3d4ad7ad","x":-360,"y":60,"width":659,"height":260,"type":"file","file":"Pasted image 20251023171257.png"}
+		{"id":"e1504dbf3d4ad7ad","x":-360,"y":60,"width":659,"height":260,"type":"file","file":"Pasted image 20251023171257.png"},
+		{"id":"54c49712f6c78e77","x":-360,"y":400,"width":250,"height":60,"type":"text","text":"물 임피던스 1.48MRayl\nTPX 1.4m"}
 	],
 	"edges":[]
 }
