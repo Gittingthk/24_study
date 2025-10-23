@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/PVA/s10853-024-09610-8.pdf",
+                "file": "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 795,
-                "zoom": 1.9768141164770632
+                "left": -12,
+                "top": 787,
+                "zoom": 1.2306198734854403
               },
               "icon": "lucide-file-text",
-              "title": "s10853-024-09610-8"
+              "title": "1-s2.0-S030156292100380X-main"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/PVA/reference_roadmap.canvas",
     "논문 공부/PVA/s10853-024-09610-8.pdf",
+    "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
+    "논문 공부/PVA/reference_roadmap.canvas",
     "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
     "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
     "논문 공부/PVA/10063822.pdf",
