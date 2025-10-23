@@ -11,17 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/시편 고정틀/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 57,
+                "zoom": 2.0112943557277663
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S030156292100380X-main"
             }
           }
         ]
@@ -204,9 +203,10 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
+    "논문 공부/시편 고정틀/Untitled.canvas",
     "Pasted image 20251023171257.png",
     "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
-    "논문 공부/시편 고정틀/Untitled.canvas",
     "논문 공부/PVA/s10853-024-09610-8.pdf",
     "논문 공부/PVA/reference_roadmap.canvas",
     "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
@@ -254,7 +254,6 @@
     "계획/2025-7/0704.md",
     "kimaigastudy/we 한글.md",
     "ultrasound 논문/Untitled.md",
-    "Source/캡쳐사진 모음/Pasted image 20250416230411.png",
     "Untitled 1/Untitled.canvas",
     "ros2/Untitled.canvas",
     "잽 게임/Untitled.canvas",
