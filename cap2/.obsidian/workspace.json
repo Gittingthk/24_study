@@ -11,16 +11,17 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 787,
-                "zoom": 1.2306198734854403
+                "file": "논문 공부/시편 고정틀/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 93,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S030156292100380X-main"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -203,8 +204,9 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/PVA/s10853-024-09610-8.pdf",
     "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
+    "논문 공부/시편 고정틀/Untitled.canvas",
+    "논문 공부/PVA/s10853-024-09610-8.pdf",
     "논문 공부/PVA/reference_roadmap.canvas",
     "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
     "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
@@ -214,7 +216,6 @@
     "논문 공부/verasnoics/nihms677819.pdf",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/verasnoics",
-    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
@@ -257,7 +258,6 @@
     "ros2/Untitled.canvas",
     "잽 게임/Untitled.canvas",
     "llm공부/Untitled.canvas",
-    "MEW/Untitled.canvas",
-    "3학년 2학기/캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas"
+    "MEW/Untitled.canvas"
   ]
 }

@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"6cca219f23bce5f6","x":-125,"y":-30,"width":565,"height":370,"type":"text","text":"| 재질        | 음속 (m/s) | Z (MRayl) | 반사율   | 근거 출처                                                             |\r\n| --------- | -------- | --------- | ----- | ----------------------------------------------------------------- |\r\n| **TPX**   | 2093     | 1.74      | 0.8 % | Madsen EL et al., *Ultrasound Med Biol.*, 2011 [PMCID PMC3136917] |\r\n| **FEP**   | 1400     | 1.8       | 1 %   | NPL Ultrasound Database; Dupont FEP Datasheet; Hasegawa 2013      |\r\n| **PET**   | 2450     | 3.0       | 9 %   | NPL Database; Melinex Datasheet; NDT.net 2003                     |\r\n| **Mylar** | 2200     | 3.1       | 10 %  | NPL Database; Wells 1977 *Biomedical Ultrasonics*                 |\r\n"}
+	],
+	"edges":[]
+}
