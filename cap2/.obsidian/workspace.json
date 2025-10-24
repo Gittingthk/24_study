@@ -11,17 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/시편 고정틀/Untitled.canvas",
-                "viewState": {
-                  "x": -30.5,
-                  "y": 80,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "논문 공부/시편 고정틀/Carmel_UMB_D_18_00008R1.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 1.9777310924369749
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Carmel_UMB_D_18_00008R1"
             }
           }
         ]
@@ -204,9 +203,10 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/시편 고정틀/Untitled 1.canvas",
-    "논문 공부/시편 고정틀/Untitled.canvas",
     "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
+    "논문 공부/시편 고정틀/Untitled.canvas",
+    "논문 공부/시편 고정틀/Carmel_UMB_D_18_00008R1.pdf",
+    "논문 공부/시편 고정틀/Untitled 1.canvas",
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
     "Pasted image 20251023171257.png",
     "논문 공부/PVA/s10853-024-09610-8.pdf",
@@ -217,7 +217,6 @@
     "논문 공부/similar_paper/bioengineering-11-00620.pdf",
     "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
     "논문 공부/verasnoics/nihms677819.pdf",
-    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
