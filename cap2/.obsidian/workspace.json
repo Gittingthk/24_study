@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/mamba/2503.18970v2.pdf",
+                "file": "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
                 "page": 1,
-                "left": -6,
-                "top": 724,
-                "zoom": 2.4212962962962963
+                "left": -8,
+                "top": 786,
+                "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
-              "title": "2503.18970v2"
+              "title": "s41598-020-72270-6"
             }
           }
         ]
@@ -201,10 +201,14 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/AI/Deep_Learning/s41598-020-65453-8.pdf",
+    "논문 공부/AI/mamba/2503.18970v2.pdf",
+    "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
+    "논문 공부/AI/Deep_Learning",
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
-    "논문 공부/Untitled",
+    "논문 공부/AI",
     "논문 공부/시편 고정틀/nihms-299288.pdf",
     "논문 공부/시편 고정틀/Carmel_UMB_D_18_00008R1.pdf",
     "논문 공부/시편 고정틀/S030156292100380X.pdf",
@@ -214,10 +218,6 @@
     "Pasted image 20251023171257.png",
     "논문 공부/PVA/s10853-024-09610-8.pdf",
     "논문 공부/PVA/reference_roadmap.canvas",
-    "논문 공부/PVA/structure-and-applications-of-polyvinyl-alcohol-hydrogels-produc.pdf",
-    "논문 공부/PVA/Surry_2004_Phys._Med._Biol._49_5529.pdf",
-    "논문 공부/PVA/10063822.pdf",
-    "논문 공부/similar_paper/bioengineering-11-00620.pdf",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
