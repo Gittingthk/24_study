@@ -11,16 +11,14 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 786,
-                "zoom": 1.9768141164770632
+                "file": "논문 공부/시편 고정틀/설계툴/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "s41598-020-72270-6"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -203,9 +201,11 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
+    "논문 공부/시편 고정틀/설계툴/Untitled.md",
+    "논문 공부/시편 고정틀/설계툴",
     "논문 공부/AI/Deep_Learning/s41598-020-65453-8.pdf",
     "논문 공부/AI/mamba/2503.18970v2.pdf",
-    "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
     "논문 공부/AI/Deep_Learning",
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
     "논문 공부/AI",
@@ -213,10 +213,8 @@
     "논문 공부/시편 고정틀/Carmel_UMB_D_18_00008R1.pdf",
     "논문 공부/시편 고정틀/S030156292100380X.pdf",
     "논문 공부/시편 고정틀/Untitled.canvas",
-    "논문 공부/시편 고정틀/1-s2.0-S030156292100380X-main.pdf",
     "논문 공부/시편 고정틀/Untitled 1.canvas",
     "Pasted image 20251023171257.png",
-    "논문 공부/PVA/s10853-024-09610-8.pdf",
     "논문 공부/PVA/reference_roadmap.canvas",
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
@@ -254,7 +252,6 @@
     "계획/2025-7/0711.md",
     "계획/2025-7/0704.md",
     "kimaigastudy/we 한글.md",
-    "ultrasound 논문/Untitled.md",
     "Untitled 1/Untitled.canvas",
     "ros2/Untitled.canvas",
     "잽 게임/Untitled.canvas",
