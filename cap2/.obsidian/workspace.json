@@ -11,14 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "kimaigastudy/versasonics가이드 (b모드 활성화).md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/PVA/gels-09-00074.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 840,
+                "zoom": 1.9768141164770632
               },
-              "icon": "lucide-file",
-              "title": "versasonics가이드 (b모드 활성화)"
+              "icon": "lucide-file-text",
+              "title": "gels-09-00074"
             }
           }
         ]
@@ -199,8 +201,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "kimaigastudy/versasonics가이드 (b모드 활성화).md",
+    "논문 공부/PVA/gels-09-00074.pdf",
     "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
     "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
     "수학공부/수학 흐름도.md",
@@ -214,7 +218,6 @@
     "논문 공부/AI/Deep_Learning",
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
     "논문 공부/AI",
-    "논문 공부/시편 고정틀/nihms-299288.pdf",
     "논문 공부/시편 고정틀/Untitled.canvas",
     "논문 공부/시편 고정틀/Untitled 1.canvas",
     "Pasted image 20251023171257.png",
@@ -232,7 +235,6 @@
     "초음파 공부.md",
     "kimaigastudy/논문 리뷰.md",
     "콜아웃 함수.md",
-    "kimaigastudy/versasonics가이드 (b모드 활성화).md",
     "kimaigastudy/verasonics가이드.md",
     "kimaigastudy/verasnoics가이드(manual).md",
     "Pasted image 20250805165840.png",
