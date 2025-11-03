@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학공부/수학 흐름도.md",
+                "file": "kimaigastudy/versasonics가이드 (b모드 활성화).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수학 흐름도"
+              "title": "versasonics가이드 (b모드 활성화)"
             }
           }
         ]
@@ -199,10 +199,12 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
-    "논문 공부/시편 고정틀/설계툴/아이디어 스케치.md",
+    "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
+    "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
     "수학공부/수학 흐름도.md",
+    "논문 공부/시편 고정틀/설계툴/아이디어 스케치.md",
     "수학공부",
     "논문 공부/시편 고정틀/설계툴/Onshape & Mastering 디자인 복잡도.md",
     "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
@@ -213,7 +215,6 @@
     "논문 공부/시편 고정틀/Zhang_2016_J._Phys._D%3A_Appl._Phys._49_205502.pdf",
     "논문 공부/AI",
     "논문 공부/시편 고정틀/nihms-299288.pdf",
-    "논문 공부/시편 고정틀/Carmel_UMB_D_18_00008R1.pdf",
     "논문 공부/시편 고정틀/Untitled.canvas",
     "논문 공부/시편 고정틀/Untitled 1.canvas",
     "Pasted image 20251023171257.png",
@@ -232,7 +233,6 @@
     "kimaigastudy/논문 리뷰.md",
     "콜아웃 함수.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
-    "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
     "kimaigastudy/verasonics가이드.md",
     "kimaigastudy/verasnoics가이드(manual).md",
     "Pasted image 20250805165840.png",
@@ -252,7 +252,6 @@
     "Pasted image 20250728143320.png",
     "계획/2025-7/0707.md",
     "계획/2025-7/0711.md",
-    "계획/2025-7/0704.md",
     "Untitled 1/Untitled.canvas",
     "ros2/Untitled.canvas",
     "잽 게임/Untitled.canvas",
