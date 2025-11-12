@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
+                "file": "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 797,
+                "top": 786,
                 "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
-              "title": "1-s2.0-S175161612500164X-main"
+              "title": "s41598-020-72270-6"
             }
           }
         ]
@@ -203,6 +203,8 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
+    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
+    "논문 공부/닭가슴살_프로토콜",
     "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
     "논문 공부/AI/Deep_Learning/s41598-020-65453-8.pdf",
     "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
@@ -214,8 +216,6 @@
     "논문 공부/sub_닭가슴살_test/for_UTM_test/ASTM-F2150-Characterization-and-Testing-of-Biomaterial-Scaffolds-Used-in-Regenerative-Medicine-and-Tissue-Engineered-Medical-Products-한글.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616117304058-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/iso_13314_2011.pdf",
-    "논문 공부/PVA/gels-09-00074.pdf",
-    "논문 공부/sub_닭가슴살_test/for_SWI_test",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
     "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
     "수학공부/수학 흐름도.md",
