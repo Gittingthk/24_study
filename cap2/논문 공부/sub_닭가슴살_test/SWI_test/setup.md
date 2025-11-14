@@ -62,5 +62,6 @@ Speed : a ramp speed of 0.25 mm s1 and a hold phase of 20 s.
 
 Böl et al. (2012)
 
+Sample :  soleus muscles of New Zealand white rabbits
 
-Speed: strain rate of 0.05% $
+Speed: strain rate of 0.05% $s^{-1}$
