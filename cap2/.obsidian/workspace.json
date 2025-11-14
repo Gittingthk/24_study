@@ -235,9 +235,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
-                    "page": 3,
+                    "page": 12,
                     "left": -7,
-                    "top": 243,
+                    "top": 763,
                     "zoom": 2.3506711409395975
                   },
                   "icon": "lucide-file-text",
@@ -257,10 +257,11 @@
       }
     ]
   },
-  "active": "0a123ac103c2ac74",
+  "active": "1d25d28be7453e47",
   "lastOpenFiles": [
-    "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
     "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
+    "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929005004811-main.pdf",
+    "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
     "논문 공부/PVA/reference_roadmap.canvas",
@@ -272,7 +273,6 @@
     "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
     "논문 공부/verasnoics/nihms677819.pdf",
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
-    "논문 공부/닭가슴살_프로토콜",
     "계획/창업아이디어.md",
     "계획/프로젝트 운영 (논문작성).md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
