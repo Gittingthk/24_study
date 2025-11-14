@@ -40,3 +40,6 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 ![[Pasted image 20251114175032.png]]
 ### Reference
 
+Song et al. (2007) 
+
+Strain rate : Song et al. (2007)
