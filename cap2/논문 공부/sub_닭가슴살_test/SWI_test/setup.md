@@ -15,8 +15,7 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 ### Sample
 
 1. Sample size : 10 x 10 x 5 mm
-2. Sample detail : 1
-
+2. Sample detail : Fibre(out of plane)
 ----
 
 ### Test setup
