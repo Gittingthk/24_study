@@ -34,3 +34,5 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 
 1. The normality of the data was checked using Excel z-value Normal Distribution Calculation
 2.  Two-way ANOVA with deformation direction and stretch ratio
+
+### Data anaysis
