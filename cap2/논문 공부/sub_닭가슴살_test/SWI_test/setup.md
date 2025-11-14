@@ -14,9 +14,8 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 ----
 ### Sample
 
-1. Sample size : 10 x 10 x 5 mm
+1. Sample size : 10 x 10 x 5/10 mm
 2. Sample detail : Fibre(out of plane) 5mm thicnkness to prevent buckling
-3. 
 ----
 
 ### Test setup (quasi-static strain)
@@ -43,6 +42,8 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 
 Song et al. (2007) 
 
+Method :
+
 Sample: porcine tissue
 
 Strain rate : 0.007$s^{-1}$
@@ -51,4 +52,4 @@ Strain rate : 0.007$s^{-1}$
 
 Bosboom et al. (2001) 
 
-Ramp & hold function
+Ramp & Hold function
