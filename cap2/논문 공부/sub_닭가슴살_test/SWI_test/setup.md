@@ -37,3 +37,4 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 
 ### Data analysis
 
+![[Pasted image 20251114175032.png]]
