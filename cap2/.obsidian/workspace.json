@@ -25,12 +25,16 @@
             "id": "d973eb2c3b093d7b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 734,
+                "zoom": 1.9768141164770632
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S1751616116301485-main"
             }
           }
         ],
