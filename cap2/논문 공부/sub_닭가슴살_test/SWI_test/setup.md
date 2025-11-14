@@ -30,3 +30,6 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 4. Test limitation  : 30% 
 
 ### Statistical analysis
+
+
+1. 
