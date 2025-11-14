@@ -19,6 +19,7 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 3. 
 ----
 
-### Test setup
+### Test setup (quasi-static strain)
 
 1. 
+2. Test speed : strain rate of 0.05%.s
