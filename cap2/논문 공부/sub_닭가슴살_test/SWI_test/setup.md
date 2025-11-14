@@ -26,5 +26,5 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 3. Test details : 
 > -To reduce friction between platens and samples, silicon oil was sprayed on both platens 
 > -To evaulate the fluid exudation during compression,  the samples were patted dry with a tissue (to decrease the effect of PBS spraying) and then weighed before and after each experiment.
-> -
+> -The peak load (0.2 N) obtained from preliminary tests was considered as the maximum force and a preload of 0.01 N was chosen (1/20 maximum load) to make sure the platen touches the top surface of the tissue.
 4. Test limitation  : 30% 
