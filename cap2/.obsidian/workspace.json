@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계획/2025-9/Untitled.md",
+                "file": "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "setup"
             }
           }
         ]
@@ -218,9 +218,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
-                    "page": 1,
+                    "page": 2,
                     "left": -6,
-                    "top": 798,
+                    "top": 101,
                     "zoom": 2.3535301272015
                   },
                   "icon": "lucide-file-text",
@@ -242,8 +242,9 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
+    "계획/2025-9/Untitled.md",
+    "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
     "논문 공부/sub_닭가슴살_test/SWI_test/Chicken_breast_test",
     "논문 공부/sub_닭가슴살_test/SWI_test",
@@ -268,7 +269,6 @@
     "논문 공부/PVA/PVA_canvaus.canvas",
     "논문 공부/도식화.canvas",
     "Pasted image 20251017174655.png",
-    "계획/2025-9/Untitled.md",
     "계획/2025-8/연구동향 포스터 대회.md",
     "계획/2025-8/08월 일정.md",
     "논문 공부/논문리뷰.md",
