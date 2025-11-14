@@ -46,10 +46,14 @@ Method : quasi-static strain
 
 Sample: porcine tissue
 
-Strain rate : 0.007$s^{-1}$
+Speed : 0.007$s^{-1}$
 
 ---------
 
 Bosboom et al. (2001) 
 
-Ramp & Hold function
+Method : Ramp & Hold function
+
+Sample : tibialis anterior muscles(TAs)
+
+Speed : a ramp speed of 0.25 mm s1 and a hold phase of 20 s. 
