@@ -65,3 +65,9 @@ Böl et al. (2012)
 Sample :  soleus muscles of New Zealand white rabbits
 
 Speed: strain rate of 0.05% $s^{-1}$
+
+Limitation : 45%
+
+---
+
+Pietsch et al., 2014
