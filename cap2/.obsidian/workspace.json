@@ -25,20 +25,20 @@
             "id": "a931a426cad8e175",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "논문 공부/PVA/reference_roadmap.canvas",
-                "viewState": {
-                  "x": 1271.1844863731656,
-                  "y": 1995.3619382206507,
-                  "zoom": -0.03731959359818393
-                }
+                "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929005004811-main.pdf",
+                "page": 1,
+                "left": -20,
+                "top": 798,
+                "zoom": 0.767291138900275
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "reference_roadmap"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S0021929005004811-main"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,9 +235,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
-                    "page": 9,
+                    "page": 12,
                     "left": -7,
-                    "top": 435,
+                    "top": 221,
                     "zoom": 2.3506711409395975
                   },
                   "icon": "lucide-file-text",
@@ -257,15 +257,17 @@
       }
     ]
   },
-  "active": "1d25d28be7453e47",
+  "active": "a931a426cad8e175",
   "lastOpenFiles": [
-    "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
+    "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616117304058-main.pdf",
+    "논문 공부/sub_닭가슴살_test/for_UTM_test/ASTM-F2150-Characterization-and-Testing-of-Biomaterial-Scaffolds-Used-in-Regenerative-Medicine-and-Tissue-Engineered-Medical-Products-한글.pdf",
+    "논문 공부/PVA/reference_roadmap.canvas",
+    "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "Pasted image 20251114175032.png",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929005004811-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
-    "논문 공부/PVA/reference_roadmap.canvas",
     "계획/2025-9/Untitled.md",
     "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
     "논문 공부/sub_닭가슴살_test/SWI_test/Chicken_breast_test",
@@ -273,7 +275,6 @@
     "논문 공부/verasnoics/Untitled.md",
     "논문 공부/verasnoics/boe-12-2-1050 (1).pdf",
     "논문 공부/verasnoics/nihms677819.pdf",
-    "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "계획/창업아이디어.md",
     "계획/프로젝트 운영 (논문작성).md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
