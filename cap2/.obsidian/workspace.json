@@ -15,15 +15,26 @@
               "state": {
                 "file": "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 786,
-                "zoom": 1.9768141164770632
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "s41598-020-72270-6"
             }
+          },
+          {
+            "id": "d973eb2c3b093d7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +212,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "d973eb2c3b093d7b",
   "lastOpenFiles": [
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/닭가슴살_프로토콜",
