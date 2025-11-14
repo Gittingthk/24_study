@@ -42,7 +42,7 @@ The in vitro passive elastic response of chicken pectoralis muscle to applied te
 
 Song et al. (2007) 
 
-Method :
+Method : quasi-static strain
 
 Sample: porcine tissue
 
