@@ -71,3 +71,7 @@ Limitation : 45%
 ---
 
 Pietsch et al., 2014
+
+Sample: porcine hind legs
+
+Speed: 0.1, 0.01, 0.001 $s^{-1}$
