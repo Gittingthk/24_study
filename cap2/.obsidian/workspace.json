@@ -28,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
-                "page": 2,
+                "page": 1,
                 "left": -8,
-                "top": 734,
+                "top": 792,
                 "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
@@ -216,7 +216,48 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "d973eb2c3b093d7b",
+  "floating": {
+    "id": "6012cca1b485c75d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a828b2901bf556a",
+        "type": "window",
+        "children": [
+          {
+            "id": "f545346bb71f63f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d25d28be7453e47",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
+                    "page": 1,
+                    "left": -6,
+                    "top": 798,
+                    "zoom": 2.3535301272015
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1-s2.0-S1751616116301485-main"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 150,
+        "y": 216,
+        "width": 1620,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1d25d28be7453e47",
   "lastOpenFiles": [
     "논문 공부/robotic_arm/1-s2.0-S175161612500164X-main.pdf",
     "논문 공부/닭가슴살_프로토콜",
