@@ -11,16 +11,14 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 798,
-                "zoom": 1.9777310924369749
+                "file": "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S0021929004001447-main"
+              "icon": "lucide-file",
+              "title": "setup"
             }
           },
           {
@@ -217,12 +215,12 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
+    "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
     "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616116301485-main.pdf",
-    "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929005004811-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616113001392-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S1751616117304058-main.pdf",
