@@ -11,16 +11,14 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 786,
-                "zoom": 0.767291138900275
+                "file": "논문 공부/프로젝트 운영 (논문작성).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure"
+              "icon": "lucide-file",
+              "title": "프로젝트 운영 (논문작성)"
             }
           },
           {
@@ -217,10 +215,12 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
-    "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
+    "계획/창업아이디어.md",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
+    "계획/2025-11",
+    "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "논문 공부/Organoid_test",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
@@ -232,10 +232,8 @@
     "논문 공부/PVA/reference_roadmap.canvas",
     "Pasted image 20251114175032.png",
     "계획/2025-9/Untitled.md",
-    "논문 공부/AI/Deep_Learning/s41598-020-72270-6.pdf",
     "논문 공부/verasnoics/Untitled.md",
-    "계획/창업아이디어.md",
-    "계획/프로젝트 운영 (논문작성).md",
+    "논문 공부/프로젝트 운영 (논문작성).md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
     "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
     "수학공부/수학 흐름도.md",
