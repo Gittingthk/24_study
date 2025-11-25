@@ -11,14 +11,16 @@
             "id": "0a123ac103c2ac74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "계획/2025-11/2025-11-24.md",
-                "mode": "source",
-                "source": false
+                "file": "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
+                "page": 3,
+                "left": -8,
+                "top": 218,
+                "zoom": 1.9768141164770632
               },
-              "icon": "lucide-file",
-              "title": "2025-11-24"
+              "icon": "lucide-file-text",
+              "title": "Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure"
             }
           },
           {
@@ -217,8 +219,8 @@
   },
   "active": "0a123ac103c2ac74",
   "lastOpenFiles": [
-    "계획/2025-11/한 일 & 할 일.md",
     "계획/2025-11/2025-11-24.md",
+    "계획/2025-11/한 일 & 할 일.md",
     "계획/2025-9/Untitled.md",
     "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/DeWall_2012_Phys._Med._Biol._57_2273.pdf",
