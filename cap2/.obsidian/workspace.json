@@ -16,7 +16,7 @@
                 "file": "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
                 "page": 3,
                 "left": -8,
-                "top": 218,
+                "top": 673,
                 "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
@@ -30,16 +30,17 @@
               "type": "pdf",
               "state": {
                 "file": "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
-                "page": 2,
-                "left": -20,
-                "top": 230,
-                "zoom": 0.767291138900275
+                "page": 4,
+                "left": -8,
+                "top": 651,
+                "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
               "title": "1-s2.0-S002192901200471X-main"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +218,9 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0a123ac103c2ac74",
+  "active": "a931a426cad8e175",
   "lastOpenFiles": [
+    "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "계획/2025-11/2025-11-24.md",
     "계획/2025-11/한 일 & 할 일.md",
     "계획/2025-9/Untitled.md",
@@ -228,7 +230,6 @@
     "콜아웃 함수.md",
     "논문 공부/프로젝트 운영 (논문작성).md",
     "계획/창업아이디어.md",
-    "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "계획/2025-11",
     "논문 공부/Organoid_test",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S0021929004001447-main.pdf",
@@ -264,7 +265,6 @@
     "계획/2025-7/0728.md",
     "계획/2025-6/0731.md",
     "kimaigastudy/옵시디언 실험.md",
-    "kimaigastudy/딥러닝의 역사.md",
     "docker/Untitled.canvas",
     "Pasted image 20250728161735.png",
     "Pasted image 20250728143857.png",
