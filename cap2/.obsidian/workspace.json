@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "0317349e9c452abd",
+            "id": "163804efa2e7b426",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -202,6 +202,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "60988329e7150879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "975cac64bf500e8b",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +244,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0317349e9c452abd",
+  "active": "163804efa2e7b426",
   "lastOpenFiles": [
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "Day Planners/Day Planner-20251201.md",
