@@ -38,9 +38,19 @@
               "icon": "lucide-file-text",
               "title": "s41467-024-47480-5"
             }
+          },
+          {
+            "id": "0317349e9c452abd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,12 +228,12 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "a931a426cad8e175",
+  "active": "0317349e9c452abd",
   "lastOpenFiles": [
+    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "Day Planners/Day Planner-20251201.md",
     "Day Planners",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
-    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "논문 공부/Organoid_test/[TERM] Effects of induction culture on osteogenesis of scaffold-free engineered tissue for bone regeneration applications.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
     "논문 공부/(excluded) new Idea",
@@ -265,7 +275,6 @@
     "계획/2025-7/0701.md",
     "계획/2025-7/0728.md",
     "계획/2025-6/0731.md",
-    "kimaigastudy/옵시디언 실험.md",
     "docker/Untitled.canvas",
     "Pasted image 20250728161735.png",
     "Pasted image 20250728143857.png",
