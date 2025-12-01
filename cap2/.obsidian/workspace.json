@@ -43,10 +43,14 @@
             "id": "163804efa2e7b426",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -246,6 +250,7 @@
   },
   "active": "163804efa2e7b426",
   "lastOpenFiles": [
+    "Untitled.md",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "Day Planners/Day Planner-20251201.md",
     "Day Planners",
