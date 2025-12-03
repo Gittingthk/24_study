@@ -1,7 +1,7 @@
 {
   "customFolder": "Day Planners",
   "debug": false,
-  "mode": "File",
+  "mode": "Command",
   "mermaid": false,
   "completePastItems": true,
   "circularProgress": false,
@@ -19,8 +19,5 @@
   "autoResumeScroll": true,
   "autoResumeScrollDelay": 3000,
   "newDayStartsAt": 0,
-  "activePlan": {
-    "notePath": "Day Planners/Day Planner-20251201.md",
-    "anchorDate": 1764514800000
-  }
+  "activePlan": {}
 }

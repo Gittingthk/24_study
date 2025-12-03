@@ -52,9 +52,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "31fac028ccb6a8bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "163804efa2e7b426",
+  "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
     "Untitled.md",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
