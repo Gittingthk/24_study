@@ -11,14 +11,17 @@
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "계획/실험계획.md",
-                "mode": "source",
-                "source": false
+                "file": "계획/Untitled.canvas",
+                "viewState": {
+                  "x": -230,
+                  "y": 0,
+                  "zoom": -0.8095136760753715
+                }
               },
-              "icon": "lucide-file",
-              "title": "실험계획"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -217,11 +220,12 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
+    "J Tissue Eng Regen Med - 2015 - O'Connell - Human chondrocyte migration behaviour to guide the development of engineered.pdf",
+    "계획/실험계획.md",
     "계획/Untitled.canvas",
     "nihms687201.pdf",
     "The_interplay_between_chondrocyte_spheroids_and_me.pdf",
     "s41598-025-03676-3.pdf",
-    "계획/실험계획.md",
     "little2011.pdf",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
