@@ -57,16 +57,14 @@
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Untitled/ao3c09224.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 804,
-                "zoom": 1.9373304269947054
+                "file": "계획/실험계획.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ao3c09224"
+              "icon": "lucide-file",
+              "title": "실험계획"
             }
           }
         ],
@@ -266,6 +264,8 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
+    "Untitled/ao3c09224.pdf",
+    "계획/실험계획.md",
     "Untitled/콜아웃 함수.md",
     "Untitled/초음파 공부.md",
     "ShearWave공부",
@@ -310,7 +310,6 @@
     "kimaigastudy/Processing.md",
     "kimaigastudy/논문 리뷰.md",
     "kimaigastudy/verasonics가이드.md",
-    "kimaigastudy/verasnoics가이드(manual).md",
     "Untitled/Pasted image 20250805165840.png",
     "Untitled/Pasted image 20250805154044.png",
     "Untitled/Pasted image 20250728161735.png",
