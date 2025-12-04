@@ -11,17 +11,16 @@
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "계획/Untitled.canvas",
-                "viewState": {
-                  "x": -480,
-                  "y": 30,
-                  "zoom": -1
-                }
+                "file": "little2011.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.9227941176470589
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "little2011"
             }
           }
         ]
@@ -220,8 +219,8 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
-    "계획/실험계획.md",
     "계획/Untitled.canvas",
+    "계획/실험계획.md",
     "little2011.pdf",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
