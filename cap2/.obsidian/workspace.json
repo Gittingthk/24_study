@@ -8,67 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a123ac103c2ac74",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
-                "page": 2,
-                "left": -8,
-                "top": 642,
-                "zoom": 1.9768141164770632
-              },
-              "icon": "lucide-file-text",
-              "title": "Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure"
-            }
-          },
-          {
-            "id": "a931a426cad8e175",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 795,
-                "zoom": 1.9768141164770632
-              },
-              "icon": "lucide-file-text",
-              "title": "s41467-024-47480-5"
-            }
-          },
-          {
-            "id": "163804efa2e7b426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "계획/실험계획.md",
-                "mode": "source",
-                "source": false
+                "file": "계획/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "실험계획"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,8 +220,13 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
-    "Untitled/ao3c09224.pdf",
+    "little2011.pdf",
     "계획/실험계획.md",
+    "계획/Untitled.canvas",
+    "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
+    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
+    "Untitled/Untitled.md",
+    "Untitled/ao3c09224.pdf",
     "Untitled/콜아웃 함수.md",
     "Untitled/초음파 공부.md",
     "ShearWave공부",
@@ -279,13 +240,9 @@
     "docker/Untitled.canvas",
     "Day Planners/Day Planner-20251201.md",
     "계획/2025-11/2025-11-24.md",
-    "Untitled/Untitled.md",
-    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "Day Planners",
-    "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/Organoid_test/[TERM] Effects of induction culture on osteogenesis of scaffold-free engineered tissue for bone regeneration applications.pdf",
     "논문 공부/sub_닭가슴살_test/for_UTM_test/1-s2.0-S002192901200471X-main.pdf",
-    "논문 공부/(excluded) new Idea",
     "계획/2025-9/Untitled.md",
     "논문 공부/sub_닭가슴살_test/SWI_test/setup.md",
     "계획/2025-8/08월 일정.md",
@@ -318,7 +275,6 @@
     "Untitled/Pasted image 20250728143637.png",
     "Untitled/Pasted image 20250728143334.png",
     "Untitled 1/Untitled.canvas",
-    "ros2/Untitled.canvas",
-    "잽 게임/Untitled.canvas"
+    "ros2/Untitled.canvas"
   ]
 }
