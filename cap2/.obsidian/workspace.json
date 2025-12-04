@@ -11,17 +11,14 @@
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "계획/Untitled.canvas",
-                "viewState": {
-                  "x": -280,
-                  "y": -629,
-                  "zoom": 0
-                }
+                "file": "계획/실험계획.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "실험계획"
             }
           }
         ]
@@ -220,11 +217,11 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
+    "계획/Untitled.canvas",
     "nihms687201.pdf",
     "The_interplay_between_chondrocyte_spheroids_and_me.pdf",
     "s41598-025-03676-3.pdf",
     "계획/실험계획.md",
-    "계획/Untitled.canvas",
     "little2011.pdf",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
@@ -235,7 +232,6 @@
     "ShearWave공부",
     "Untitled/viscoelastic-characterization-of-phantoms-for-ultrasound-elastography-created-using-low-and-high-viscosity-poly%28vinyl.pdf",
     "Untitled/1-s2.0-S1742706109000762-main.pdf",
-    "Untitled/OJOPM_2013103015003372.pdf",
     "llm공부/Untitled 1.md",
     "llm공부/Untitled.md",
     "llm공부/Untitled.canvas",
