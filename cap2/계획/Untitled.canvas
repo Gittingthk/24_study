@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"5c94459273a032bd","type":"file","file":"little2011.pdf","x":-680,"y":-340,"width":400,"height":400},
-		{"id":"030805d0fa2937ab","type":"text","text":"목표\n관련 레퍼런스를 이용하여 test parameter정하기\n## 재료/시편 정보 정리\n추가적으로 고려해야할 사항\nshearwave와 연관시켜야한다.\n종류 : chondrocyte organoid & MSC organoid\n시편 형상: 지름 3.5-4mm 높이 2mm 가운데가 볼록한 disk형상\n알아야할 test parmameter: strain limitation, strain rate, Fmax, friction condition, **압축 Young’s modulus** (instantaneous modulus) 또는 **equilibrium Young’s modulus** (stress relaxation 후 평형 상태)","x":-280,"y":-760,"width":400,"height":300}
+		{"id":"030805d0fa2937ab","type":"text","text":"목표\n관련 레퍼런스를 이용하여 test parameter정하기\n## 재료/시편 정보 정리\n추가적으로 고려해야할 사항\nshearwave와 연관시켜야한다.\n종류 : chondrocyte organoid & MSC organoid\n시편 형상: 지름 3.5-4mm 높이 2mm 가운데가 볼록한 disk형상\n알아야할 test parmameter: strain limitation, strain rate, Fmax, friction condition, **압축 Young’s modulus** (instantaneous modulus) 또는 **equilibrium Young’s modulus** (stress relaxation 후 평형 상태)","x":-280,"y":-760,"width":400,"height":300},
+		{"id":"e97ced2e66684f74","x":-405,"y":-380,"width":250,"height":60,"type":"text","text":"$\\mathbf{\\pm 0.05~\\text{N}}$\n"}
 	],
 	"edges":[]
 }
