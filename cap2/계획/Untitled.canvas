@@ -6,7 +6,7 @@
 		{"id":"a615f328dd7cdf83","type":"file","file":"s41598-025-03676-3.pdf","x":-700,"y":360,"width":400,"height":400},
 		{"id":"5c94459273a032bd","type":"file","file":"little2011.pdf","x":-700,"y":-60,"width":400,"height":400},
 		{"id":"5c4ce077b0330099","x":380,"y":-940,"width":430,"height":60,"type":"text","text":"파괴시점까지 starin을 줄인다. 근데 언제 파괴될지 어떻게아는가? 생체재료는 파괴시점을 보기 힘들다. "},
-		{"id":"10a6593ddedfb474","x":100,"y":-140,"width":400,"height":400,"type":"file","file":"J Tissue Eng Regen Med - 2015 - O'Connell - Human chondrocyte migration behaviour to guide the development of engineered.pdf","subpath":"#page=2"}
+		{"id":"10a6593ddedfb474","x":-280,"y":-60,"width":400,"height":400,"type":"file","file":"J Tissue Eng Regen Med - 2015 - O'Connell - Human chondrocyte migration behaviour to guide the development of engineered.pdf","subpath":"#page=2"}
 	],
 	"edges":[]
 }
