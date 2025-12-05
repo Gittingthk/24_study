@@ -11,17 +11,16 @@
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "계획/Untitled.canvas",
-                "viewState": {
-                  "x": 201.92415592449927,
-                  "y": 70.52343144746078,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "s41598-025-03676-3.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 786,
+                "zoom": 1.9768141164770632
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "s41598-025-03676-3"
             }
           }
         ]
@@ -220,8 +219,8 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
-    "J Tissue Eng Regen Med - 2015 - O'Connell - Human chondrocyte migration behaviour to guide the development of engineered.pdf",
     "계획/Untitled.canvas",
+    "J Tissue Eng Regen Med - 2015 - O'Connell - Human chondrocyte migration behaviour to guide the development of engineered.pdf",
     "계획/실험계획.md",
     "nihms687201.pdf",
     "The_interplay_between_chondrocyte_spheroids_and_me.pdf",
