@@ -11,16 +11,14 @@
             "id": "31fac028ccb6a8bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "s41598-025-03676-3.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 657,
-                "zoom": 1.9768141164770632
+                "file": "ShearWave공부/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "s41598-025-03676-3"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -219,12 +217,13 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
+    "s41598-025-03676-3.pdf",
+    "ShearWave공부/Untitled.md",
     "계획/Untitled.canvas",
     "J Tissue Eng Regen Med - 2015 - O'Connell - Human chondrocyte migration behaviour to guide the development of engineered.pdf",
     "계획/실험계획.md",
     "nihms687201.pdf",
     "The_interplay_between_chondrocyte_spheroids_and_me.pdf",
-    "s41598-025-03676-3.pdf",
     "little2011.pdf",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
@@ -264,7 +263,6 @@
     "논문 공부/논문리뷰.md",
     "kimaigastudy/Processing.md",
     "kimaigastudy/논문 리뷰.md",
-    "kimaigastudy/verasonics가이드.md",
     "Untitled/Pasted image 20250805165840.png",
     "Untitled/Pasted image 20250805154044.png",
     "Untitled/Pasted image 20250728161735.png",
