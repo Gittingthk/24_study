@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "525121447a8aeb83",
+        "id": "8468d3d6fff4e8bd",
         "type": "tabs",
         "children": [
           {
-            "id": "d42e2f77d27fd499",
+            "id": "66d19f537998af27",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/Organoid_test/1-s2.0-S0142961225003126-main.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 396,
-                "zoom": 1.9768141164770632
-              },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S0142961225003126-main"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -217,11 +211,11 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "d42e2f77d27fd499",
+  "active": "66d19f537998af27",
   "lastOpenFiles": [
+    "논문 공부/Organoid_test/1-s2.0-S0142961225003126-main.pdf",
     "논문 공부/Organoid_test/1-s2.0-S1063458498901625-main.pdf",
     "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
-    "논문 공부/Organoid_test/1-s2.0-S0142961225003126-main.pdf",
     "논문 공부/Organoid_test/Untitled/s42003-023-04788-0.pdf",
     "논문 공부/Organoid_test/s41598-025-03676-3.pdf",
     "논문 공부/Organoid_test/omelyanenko-et-al-2018-extracellular-matrix-determines-biomechanical-properties-of-chondrospheres-during-their.pdf",
