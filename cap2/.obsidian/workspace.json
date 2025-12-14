@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "73ab478579f8414e",
+        "id": "525121447a8aeb83",
         "type": "tabs",
         "children": [
           {
-            "id": "31fac028ccb6a8bd",
+            "id": "d42e2f77d27fd499",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
+                "file": "논문 공부/Organoid_test/1-s2.0-S0142961225003126-main.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 786,
+                "top": 770,
                 "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
-              "title": "Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure"
+              "title": "1-s2.0-S0142961225003126-main"
             }
           }
         ]
@@ -217,8 +217,9 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "31fac028ccb6a8bd",
+  "active": "d42e2f77d27fd499",
   "lastOpenFiles": [
+    "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/Organoid_test/1-s2.0-S0142961225003126-main.pdf",
     "논문 공부/Organoid_test/Untitled/s42003-023-04788-0.pdf",
     "논문 공부/Organoid_test/s41598-025-03676-3.pdf",
@@ -229,7 +230,6 @@
     "논문 공부/Organoid_test/Untitled",
     "Untitled 1",
     "논문 공부/Organoid_test/efremov2021.pdf",
-    "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "ShearWave공부/Untitled.md",
     "ShearWave공부/Untitled 1.md",
     "계획/Untitled.canvas",
