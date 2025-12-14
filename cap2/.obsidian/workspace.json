@@ -13,12 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/Organoid_test/[TERM] Effects of induction culture on osteogenesis of scaffold-free engineered tissue for bone regeneration applications.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "논문 공부/Organoid_test/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 650,
+                "zoom": 1.9768141164770632
               },
               "icon": "lucide-file-text",
-              "title": "[TERM] Effects of induction culture on osteogenesis of scaffold-free engineered tissue for bone regeneration applications"
+              "title": "Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure"
             }
           }
         ]
@@ -217,6 +219,7 @@
   },
   "active": "31fac028ccb6a8bd",
   "lastOpenFiles": [
+    "논문 공부/Organoid_test/[TERM] Effects of induction culture on osteogenesis of scaffold-free engineered tissue for bone regeneration applications.pdf",
     "ShearWave공부/Untitled.md",
     "ShearWave공부/Untitled 1.md",
     "s41598-025-03676-3.pdf",
@@ -263,7 +266,6 @@
     "계획/2025-8/연구동향 포스터 대회.md",
     "논문 공부/논문리뷰.md",
     "kimaigastudy/Processing.md",
-    "kimaigastudy/논문 리뷰.md",
     "Untitled/Pasted image 20250805165840.png",
     "Untitled/Pasted image 20250805154044.png",
     "Untitled/Pasted image 20250728161735.png",
