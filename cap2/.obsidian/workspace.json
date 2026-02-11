@@ -37,12 +37,14 @@
             "id": "213c4c5db884279c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "논문 공부/Feature.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Feature"
             }
           }
         ],
@@ -242,6 +244,7 @@
   },
   "active": "213c4c5db884279c",
   "lastOpenFiles": [
+    "논문 공부/Feature.md",
     "논문 공부/AI/Deep_Learning/1301.3781v3.pdf",
     "논문 공부/Untitled 1.md",
     "논문 공부/Untitled.md",
