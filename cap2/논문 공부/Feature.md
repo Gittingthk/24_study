@@ -1,69 +1,88 @@
-MLP
+좋아. 그대로 **논문/프로토콜에 바로 붙일 수 있는 Markdown 구조**로 정리해줄게.  
+(수식은 LaTeX 형식으로 유지)
 
-좋아, 이제 **“논문에서 방어 가능한 정의” 기준으로** 하나씩 정리해줄게.  
-아래 설명은 전부 **네가 이미 갖고 있는 데이터 흐름**  
-(IQ → AxVel → ST-map → CC) 위에서 **추가 가정 없이** 얻을 수 있게 설명할게.
+---
+
+# Feature Definition for FT-based Boundary-Aware SWE
 
 ---
 
 # 0️⃣ 기본 전제 (공통 기반)
 
-- 입력 데이터  
-    [  
-    v(z, x, t) \quad \text{(axial velocity)}  
-    ]
-    
-- ST-map  
-    [  
-    S(x, t) = \text{mean or max}_z , |v(z,x,t)|  
-    ]
-    
-- ridge:  
-    ST-map에서 **최대 에너지(또는 위상 일관성)**를 따라 형성되는 전파 궤적  
-    → ( x(t) ) 또는 ( t(x) )
-    
+### 입력 데이터
+
+[  
+v(z, x, t) \quad \text{(axial velocity)}  
+]
+
+### ST-map 정의
+
+[  
+S(x, t) = \mathrm{mean}_z , |v(z,x,t)|  
+]  
+또는  
+[  
+S(x, t) = \max_z |v(z,x,t)|  
+]
+
+### Ridge 정의
+
+ST-map에서 최대 에너지 또는 위상 일관성을 따라 형성되는 전파 궤적
+
+[  
+x(t) \quad \text{또는} \quad t(x)  
+]
 
 ---
 
-# 1️⃣ ST-map / propagation 기반 feature (8)
-
-## 1. mean phase velocity (ridge slope)
-
-**의미**
-
-- ST-map에서 보이는 “주 전파 모드”의 평균 속도
-    
-- bulk + guided 모드가 섞인 **effective phase velocity**
-    
-
-**계산**
-
-1. ST-map에서 ridge 추출 (RANSAC or max-energy tracking)
-    
-2. 선형 근사  
-    [  
-    x(t) = c_p , t + b  
-    ]
-    
-3. slope = ( c_p )
-    
-
-➡️ FT ↑ → 점탄성 ↑ → **phase velocity 감소 또는 불안정**
+# 1️⃣ ST-map / Propagation 기반 Feature (8)
 
 ---
 
-## 2. std of phase velocity (dispersion strength)
+## 1. Mean Phase Velocity (Ridge Slope)
 
-**의미**
+### 의미
 
-- ridge가 “곧지 않다” → 주파수/모드별 속도 차이
+- 주 전파 모드의 평균 속도
     
-- **FT-induced dispersion**의 proxy
+- Bulk + guided 모드가 혼합된 effective phase velocity
     
 
-**계산**
+### 계산
 
-- ridge를 time window별로 local slope 계산
+1. ST-map에서 ridge 추출 (RANSAC 또는 max-energy tracking)
+    
+2. 선형 근사:
+    
+
+[  
+x(t) = c_p t + b  
+]
+
+3. 기울기:
+    
+
+[  
+c_p = \frac{dx}{dt}  
+]
+
+---
+
+## 2. Std of Phase Velocity (Dispersion Strength)
+
+### 의미
+
+- Ridge의 곡률/휘어짐 → 주파수 의존 속도 차이
+    
+- FT-induced dispersion proxy
+    
+
+### 계산
+
+- 시간 구간별 local slope 계산  
+    [  
+    c_p^{(i)}  
+    ]
     
 - 표준편차:  
     [  
@@ -71,281 +90,264 @@ MLP
     ]
     
 
-➡️ FT ↑ → microstructure ↑ → dispersion ↑
-
 ---
 
-## 3. ridge energy ratio
+## 3. Ridge Energy Ratio
 
-**의미**
+### 의미
 
-- 전체 에너지 중 “전파 가능한 모드”가 차지하는 비율
-    
-- FT로 인해 산란/감쇠되면 감소
+- 전체 에너지 중 전파 모드 에너지 비율
     
 
-**계산**  
+### 계산
+
 [  
-\frac{\sum_{(x,t)\in \text{ridge}} S(x,t)^2}{\sum_{x,t} S(x,t)^2}  
+\frac{\sum_{(x,t)\in \text{ridge}} S(x,t)^2}  
+{\sum_{x,t} S(x,t)^2}  
 ]
 
 ---
 
-## 4. ridge continuity score
+## 4. Ridge Continuity Score
 
-**의미**
+### 의미
 
-- ridge가 끊기는 정도
-    
-- FT ↑ → CC drop → ridge fragmentation
+- Ridge가 끊기는 정도 (fragmentation index)
     
 
-**계산 예**
+### 계산 예
 
-- ridge length / total time span
+- Ridge length / total time span  
+    또는
     
-- 또는 valid ridge point 비율
+- valid ridge point ratio
     
 
 ---
 
-## 5. group velocity (ToF-based)
+## 5. Group Velocity (ToF-based)
 
-**의미**
+### 의미
 
 - 에너지 packet 이동 속도
     
-- phase velocity와 **의도적으로 다른 정보**
+- Phase velocity와 의도적으로 구분
     
 
-**계산**
+### 계산
 
-1. 각 x에서 peak arrival time:  
+1. 각 위치에서 peak arrival time:  
     [  
-    t_\text{peak}(x)  
+    t_{\text{peak}}(x)  
     ]
     
-2. ToF regression:  
+2. ToF 회귀:  
     [  
     t(x) = \frac{x}{c_g} + b  
     ]
     
 
-➡️ FT 변화에 더 둔감할 수도 → **phase vs group 차이가 중요한 feature**
-
 ---
 
-## 6. arrival time variance
+## 6. Arrival Time Variance
 
-**의미**
+### 의미
 
-- 도달 시간의 공간적 불균일성
-    
-- FT로 인해 **wavefront roughness** 증가
+- Wavefront roughness
     
 
-**계산**  
+### 계산
+
 [  
-\mathrm{var}\big(t_\text{peak}(x)\big)  
+\mathrm{var}\left(t_{\text{peak}}(x)\right)  
 ]
 
 ---
 
-## 7. early / late energy ratio
+## 7. Early/Late Energy Ratio
 
-**의미**
+### 의미
 
-- 초기 bulk wave vs 후기 반사/유도모드 비율
-    
-- boundary sensitivity 직접 반영
+- 초기 bulk vs 후기 반사/유도모드 비율
     
 
-**계산**  
+### 계산
+
 [  
-\frac{\sum_{t < t_0} S(x,t)^2}{\sum_{t > t_0} S(x,t)^2}  
+\frac{\sum_{t<t_0} S(x,t)^2}  
+{\sum_{t>t_0} S(x,t)^2}  
 ]
 
 ---
 
-## 8. temporal skewness
+## 8. Temporal Skewness
 
-**의미**
+### 의미
 
-- 파형 에너지 분포의 비대칭성
-    
-- FT ↑ → energy tail 길어짐
+- 시간 에너지 분포 비대칭성
     
 
-**계산**
+### 계산
 
-- 시간축 marginal 분포의 skewness
+- 시간 marginal 분포의 skewness
     
 
 ---
 
-# 2️⃣ Correlation / coherence 기반 feature (4)
+# 2️⃣ Correlation / Coherence 기반 Feature (4)
 
-## CC란 뭔데?
+---
 
-**정의**
+## Cross-Correlation (CC) 정의
 
-- 이웃 위치에서의 velocity time signal 유사도  
-    [  
-    \mathrm{CC}(x_1,x_2) = \max_\tau  
-    \frac{\langle v(x_1,t), v(x_2,t+\tau)\rangle}{|v_1||v_2|}  
-    ]
+[  
+\mathrm{CC}(x_1,x_2) =  
+\max_{\tau}  
+\frac{\langle v(x_1,t), v(x_2,t+\tau)\rangle}  
+{|v_1||v_2|}  
+]
+
+### 물리적 의미
+
+- 위상 일관성 (coherence)
     
-
-**물리적 의미**
-
-- 파동이 **위상 일관성(coherence)**을 유지하며 전파되는가
-    
-- FT ↑ → 점탄성/산란 ↑ → CC ↓
+- FT 증가 → 점탄성 증가 → CC 감소
     
 
 ---
 
-## 9. mean CC
+## 9. Mean CC
 
-- 모든 인접 쌍의 평균 CC  
-    ➡️ propagation quality
-    
+[  
+\mathrm{mean}\left(\mathrm{CC}(x_i,x_{i+1})\right)  
+]
 
 ---
 
-## 10. CC drop rate
+## 10. CC Drop Rate
 
-**의미**
+거리 증가에 따른 지수적 감소 모델:
 
-- 거리 증가에 따른 coherence 붕괴 속도
-    
-
-**계산**  
 [  
 \mathrm{CC}(x) \approx e^{-x/L_c}  
 ]
 
 ---
 
-## 11. axial vs lateral CC ratio
+## 11. Axial vs Lateral CC Ratio
 
-**의미**
-
-- axial은 안정, lateral은 경계 영향 큼  
-    → **boundary-induced decorrelation** 지표
-    
-
----
-
-## 12. decorrelation length
-
-**의미**
-
-- CC가 (1/e)로 감소하는 거리
-    
-- effective propagation length
-    
-
----
-
-# 3️⃣ Boundary / mode-sensitive feature (4)
-
-> ⚠️ 이 4개가 **“우리는 경계를 쓰는 논문이다”**의 핵심
-
----
-
-## 13. guided-mode energy ratio
-
-**의미**
-
-- bulk vs guided(Lamb-like) 모드 에너지 분리
-    
-- FT에 따라 guided 모드 점유율 변화
-    
-
-**계산**
-
-- DF / FFT mask 후  
-    [  
-    \frac{E_{\text{guided}}}{E_{\text{total}}}  
-    ]
-    
-
----
-
-## 14. reflection asymmetry index
-
-**의미**
-
-- 경계 반사로 인한 좌/우 비대칭
-    
-- ARF 위치 민감
-    
-
-**계산**  
 [  
-\frac{|E_\text{left} - E_\text{right}|}{E_\text{left} + E_\text{right}}  
+\frac{\mathrm{CC}_{axial}}  
+{\mathrm{CC}_{lateral}}  
+]
+
+→ Boundary-induced decorrelation 지표
+
+---
+
+## 12. Decorrelation Length
+
+[  
+L_c  
+]
+
+→ CC가 (1/e)로 감소하는 거리
+
+---
+
+# 3️⃣ Boundary / Mode-Sensitive Feature (4)
+
+> 본 논문의 boundary-aware 핵심 feature
+
+---
+
+## 13. Guided-Mode Energy Ratio
+
+### 의미
+
+- Bulk vs Lamb-like 모드 에너지 비율
+    
+
+### 계산
+
+[  
+\frac{E_{\text{guided}}}  
+{E_{\text{total}}}  
+]
+
+(DF mask 또는 ω–k domain 분리 후 계산)
+
+---
+
+## 14. Reflection Asymmetry Index
+
+### 의미
+
+- 좌/우 반사 에너지 비대칭
+    
+
+### 계산
+
+[  
+\frac{|E_{left} - E_{right}|}  
+{E_{left} + E_{right}}  
 ]
 
 ---
 
-## 15. dispersion curvature (ω–k nonlinearity)
+## 15. Dispersion Curvature (ω–k Nonlinearity)
 
-**의미**
+### 의미
 
-- phase velocity가 주파수에 따라 얼마나 비선형인지
-    
-- FT ↑ → 점탄성 ↑ → curvature ↑
+- Phase velocity의 주파수 의존 비선형성
     
 
-**계산**
+### 계산
 
-- ST-map → 2D FFT
+1. ST-map → 2D FFT
     
-- ridge in ( \omega\text{-}k )
+2. ω–k ridge 추출
     
-- second-order fit residual
+3. 2차 다항식 피팅 후 residual 계산
     
 
 ---
 
-## 16. free-surface sensitivity index
+## 16. Free-Surface Sensitivity Index
 
-**의미**
+### 의미
 
-- “같은 FT인데 ARF 위치(BG vs B)에 따라 얼마나 달라지나?”
-    
-- **boundary-aware의 결정타 feature**
+- ARF 위치(BG vs B)에 따른 feature 차이
     
 
-**계산**  
+### 계산
+
 [  
-|f_\text{BG} - f_\text{B}|  
+|f_{BG} - f_{B}|  
 ]
 
 ---
 
-# 🎯 한 문장으로 요약하면
+# 🎯 요약
 
-- **ST-map features**: “파동이 어떻게 가는가”
-    
-- **CC features**: “얼마나 일관되게 가는가”
-    
-- **Boundary/mode features**: “경계가 그 파동을 어떻게 바꾸는가”
-    
+|Feature Group|물리적 질문|
+|---|---|
+|ST-map|파동이 어떻게 가는가|
+|CC|얼마나 일관되게 가는가|
+|Boundary/mode|경계가 어떻게 바꾸는가|
 
-➡️ **FT는 세 영역 모두에 흔적을 남김**  
-➡️ 그래서 16 feature 설계는 논리적으로 매우 탄탄함
+Freeze–Thaw 변화는 위 세 영역 모두에 흔적을 남기며,  
+따라서 16-feature 구성은 FT-dependent boundary-aware signature를 정량화하는 구조로 타당하다.
 
 ---
 
-다음 단계로 내가 바로 해줄 수 있는 것:
+원하면 다음 단계로:
 
-1. `extract_features.m` **함수 스켈레톤 (입력/출력 명확)**
+- 🔹 Methods 섹션용 문장형 버전
     
-2. 각 feature별 **QC threshold 추천**
+- 🔹 코드용 `extract_features.m` 구조
     
-3. 이걸 그대로 쓸 수 있는 **Methods 문단 초안**
+- 🔹 발표용 한 장 요약 슬라이드 버전 (도식 + 정의 축약)
     
 
-👉 다음으로 **코드부터 갈까, 논문 문장부터 갈까?**
+어디로 갈까?
