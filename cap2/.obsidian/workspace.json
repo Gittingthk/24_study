@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "862aa8428bce113f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +228,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "66d19f537998af27",
+  "active": "862aa8428bce113f",
   "lastOpenFiles": [
     "논문 공부/AI/Deep_Learning/1301.3781v3.pdf",
     "논문 공부/Untitled 1.md",
