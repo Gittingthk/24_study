@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.4"
             }
+          },
+          {
+            "id": "213c4c5db884279c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "862aa8428bce113f",
+  "active": "213c4c5db884279c",
   "lastOpenFiles": [
     "논문 공부/AI/Deep_Learning/1301.3781v3.pdf",
     "논문 공부/Untitled 1.md",
