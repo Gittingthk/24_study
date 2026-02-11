@@ -1,33 +1,45 @@
 {
-  "version": 10,
+  "version": 16,
   "providers": [
     {
-      "type": "openai",
-      "id": "openai"
+      "type": "anthropic-plan",
+      "id": "anthropic-plan"
+    },
+    {
+      "type": "openai-plan",
+      "id": "openai-plan"
+    },
+    {
+      "type": "gemini-plan",
+      "id": "gemini-plan"
     },
     {
       "type": "anthropic",
       "id": "anthropic"
     },
     {
+      "type": "openai",
+      "id": "openai"
+    },
+    {
       "type": "gemini",
       "id": "gemini"
+    },
+    {
+      "type": "xai",
+      "id": "xai"
     },
     {
       "type": "deepseek",
       "id": "deepseek"
     },
     {
-      "type": "perplexity",
-      "id": "perplexity"
-    },
-    {
-      "type": "groq",
-      "id": "groq"
-    },
-    {
       "type": "mistral",
       "id": "mistral"
+    },
+    {
+      "type": "perplexity",
+      "id": "perplexity"
     },
     {
       "type": "openrouter",
@@ -42,43 +54,79 @@
       "id": "lm-studio"
     },
     {
-      "type": "morph",
-      "id": "morph"
+      "type": "openai-compatible",
+      "id": "morph",
+      "baseUrl": "https://api.morphllm.com/v1"
     }
   ],
   "chatModels": [
     {
-      "providerType": "anthropic",
-      "providerId": "anthropic",
-      "id": "claude-3.7-sonnet",
-      "model": "claude-3-7-sonnet-latest"
-    },
-    {
-      "providerType": "anthropic",
-      "providerId": "anthropic",
-      "id": "claude-3.7-sonnet-thinking",
-      "model": "claude-3-7-sonnet-latest",
+      "providerType": "anthropic-plan",
+      "providerId": "anthropic-plan",
+      "id": "claude-opus-4.5 (plan)",
+      "model": "claude-opus-4-5",
       "thinking": {
+        "enabled": true,
         "budget_tokens": 8192
       }
     },
     {
-      "providerType": "anthropic",
-      "providerId": "anthropic",
-      "id": "claude-3.5-sonnet",
-      "model": "claude-3-5-sonnet-latest"
+      "providerType": "anthropic-plan",
+      "providerId": "anthropic-plan",
+      "id": "claude-sonnet-4.5 (plan)",
+      "model": "claude-sonnet-4-5",
+      "thinking": {
+        "enabled": true,
+        "budget_tokens": 8192
+      }
+    },
+    {
+      "providerType": "openai-plan",
+      "providerId": "openai-plan",
+      "id": "gpt-5.2 (plan)",
+      "model": "gpt-5.2"
+    },
+    {
+      "providerType": "gemini-plan",
+      "providerId": "gemini-plan",
+      "id": "gemini-3-pro-preview (plan)",
+      "model": "gemini-3-pro-preview"
+    },
+    {
+      "providerType": "gemini-plan",
+      "providerId": "gemini-plan",
+      "id": "gemini-3-flash-preview (plan)",
+      "model": "gemini-3-flash-preview"
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
-      "id": "claude-3.5-haiku",
-      "model": "claude-3-5-haiku-latest"
+      "id": "claude-opus-4.5",
+      "model": "claude-opus-4-5"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-sonnet-4.5",
+      "model": "claude-sonnet-4-5"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-haiku-4.5",
+      "model": "claude-haiku-4-5"
     },
     {
       "providerType": "openai",
       "providerId": "openai",
-      "id": "gpt-4.1",
-      "model": "gpt-4.1"
+      "id": "gpt-5.2",
+      "model": "gpt-5.2"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5-mini",
+      "model": "gpt-5-mini"
     },
     {
       "providerType": "openai",
@@ -89,8 +137,66 @@
     {
       "providerType": "openai",
       "providerId": "openai",
-      "id": "gpt-4.1-nano",
-      "model": "gpt-4.1-nano"
+      "id": "o4-mini",
+      "model": "o4-mini",
+      "reasoning": {
+        "enabled": true,
+        "reasoning_effort": "medium"
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-3-pro-preview",
+      "model": "gemini-3-pro-preview"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-3-flash-preview",
+      "model": "gemini-3-flash-preview"
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek-chat",
+      "model": "deepseek-chat"
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek-reasoner",
+      "model": "deepseek-reasoner"
+    },
+    {
+      "providerType": "xai",
+      "providerId": "xai",
+      "id": "grok-4-1-fast",
+      "model": "grok-4-1-fast"
+    },
+    {
+      "providerType": "xai",
+      "providerId": "xai",
+      "id": "grok-4-1-fast-non-reasoning",
+      "model": "grok-4-1-fast-non-reasoning"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-opus-4.1",
+      "model": "claude-opus-4-1"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5.1",
+      "model": "gpt-5.1"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5-nano",
+      "model": "gpt-5-nano"
     },
     {
       "providerType": "openai",
@@ -107,22 +213,30 @@
     {
       "providerType": "openai",
       "providerId": "openai",
-      "id": "o4-mini",
-      "model": "o4-mini",
-      "reasoning_effort": "medium"
-    },
-    {
-      "providerType": "openai",
-      "providerId": "openai",
       "id": "o3",
       "model": "o3",
-      "reasoning_effort": "medium"
+      "reasoning": {
+        "enabled": true,
+        "reasoning_effort": "medium"
+      }
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.5-pro",
-      "model": "gemini-2.5-pro-exp-03-25"
+      "model": "gemini-2.5-pro"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-2.5-flash",
+      "model": "gemini-2.5-flash"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-2.5-flash-lite",
+      "model": "gemini-2.5-flash-lite"
     },
     {
       "providerType": "gemini",
@@ -133,38 +247,8 @@
     {
       "providerType": "gemini",
       "providerId": "gemini",
-      "id": "gemini-2.0-flash-thinking",
-      "model": "gemini-2.0-flash-thinking-exp"
-    },
-    {
-      "providerType": "gemini",
-      "providerId": "gemini",
       "id": "gemini-2.0-flash-lite",
       "model": "gemini-2.0-flash-lite"
-    },
-    {
-      "providerType": "gemini",
-      "providerId": "gemini",
-      "id": "gemini-1.5-pro",
-      "model": "gemini-1.5-pro"
-    },
-    {
-      "providerType": "gemini",
-      "providerId": "gemini",
-      "id": "gemini-1.5-flash",
-      "model": "gemini-1.5-flash"
-    },
-    {
-      "providerType": "deepseek",
-      "providerId": "deepseek",
-      "id": "deepseek-chat",
-      "model": "deepseek-chat"
-    },
-    {
-      "providerType": "deepseek",
-      "providerId": "deepseek",
-      "id": "deepseek-reasoner",
-      "model": "deepseek-reasoner"
     },
     {
       "providerType": "perplexity",
@@ -212,10 +296,80 @@
       }
     },
     {
-      "providerType": "morph",
+      "providerType": "openai-compatible",
       "providerId": "morph",
       "id": "morph-v0",
       "model": "morph-v0"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5",
+      "model": "gpt-5"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-4.1",
+      "model": "gpt-4.1"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-4.1-nano",
+      "model": "gpt-4.1-nano"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-sonnet-4.0",
+      "model": "claude-sonnet-4-0"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-3.7-sonnet",
+      "model": "claude-3-7-sonnet-latest"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-3.5-sonnet",
+      "model": "claude-3-5-sonnet-latest"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-3.5-haiku",
+      "model": "claude-3-5-haiku-latest"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-3.7-sonnet-thinking",
+      "model": "claude-3-7-sonnet-latest",
+      "thinking": {
+        "enabled": true,
+        "budget_tokens": 8192
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-2.0-flash-thinking",
+      "model": "gemini-2.0-flash-thinking-exp"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-1.5-pro",
+      "model": "gemini-1.5-pro"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-1.5-flash",
+      "model": "gemini-1.5-flash"
     }
   ],
   "embeddingModels": [

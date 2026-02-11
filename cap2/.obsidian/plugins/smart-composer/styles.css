@@ -582,6 +582,17 @@ input[type='text'].smtcmp-chat-list-dropdown-item-title-input {
   padding: var(--size-4-3);
 }
 
+.smtcmp-code-block-footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: var(--font-smallest);
+  border-top: 1px solid var(--background-modifier-border);
+  background-color: var(--background-primary);
+  border-radius: 0 0 var(--radius-s) var(--radius-s);
+  height: calc(var(--size-4-8) - var(--size-4-1));
+}
+
 #smtcmp-apply-view {
   flex: 1 1 auto;
   display: flex;
@@ -1166,6 +1177,107 @@ button.smtcmp-chat-input-model-select {
   margin: var(--size-4-1) 0;
 }
 
+.smtcmp-settings-desc-warning {
+  margin-bottom: var(--size-4-2);
+  padding: var(--size-4-2) var(--size-4-3);
+  border: 1px solid color-mix(in srgb, var(--text-error) 35%, transparent);
+  background-color: color-mix(in srgb, var(--text-error) 10%, transparent);
+  border-radius: var(--radius-s);
+  color: var(--text-normal);
+  line-height: var(--line-height-normal);
+
+  .smtcmp-settings-desc-warning-title {
+    color: var(--text-error);
+  }
+}
+
+.smtcmp-plan-connection-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--size-4-3);
+  margin-top: var(--size-4-3);
+}
+
+.smtcmp-plan-connection-card {
+  border: var(--border-width) solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  padding: var(--size-4-3);
+  background: var(--background-primary);
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-4-3);
+}
+
+.smtcmp-plan-connection-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--size-4-2);
+}
+
+.smtcmp-plan-connection-card-title {
+  color: var(--text-normal);
+  font-size: var(--font-ui-medium);
+  font-weight: var(--font-medium);
+}
+
+.smtcmp-plan-connection-card-desc {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  line-height: var(--line-height-tight);
+}
+
+.smtcmp-plan-connection-card-actions {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--size-4-2);
+  flex-wrap: wrap;
+}
+
+.smtcmp-plan-connect-steps {
+  border: var(--border-width) solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  border-radius: var(--radius-m);
+  padding: var(--size-4-2) var(--size-4-3);
+  margin-bottom: var(--size-4-3);
+}
+
+.smtcmp-plan-connect-steps-title {
+  color: var(--text-normal);
+  font-size: var(--font-ui-small);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--size-2-2);
+}
+
+.smtcmp-plan-connect-steps ol {
+  margin: 0;
+  padding-left: var(--size-4-4);
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  line-height: var(--line-height-tight);
+}
+
+.smtcmp-plan-connect-fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: var(--size-4-2);
+}
+
+.smtcmp-plan-connect-fallback .setting-item-info,
+.smtcmp-plan-connect-fallback .setting-item-control {
+  width: 100%;
+}
+
+.smtcmp-plan-connect-fallback-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--size-4-2);
+}
+
 .smtcmp-settings-callout {
   padding-inline-start: var(--size-4-2);
   border-inline-start: var(--blockquote-border-thickness) solid
@@ -1190,8 +1302,10 @@ button.smtcmp-chat-input-model-select {
 .smtcmp-settings-embedding-db-manage-header {
   display: flex;
   align-items: center;
-  gap: var(--size-4-2);
+  justify-content: end;
+  gap: var(--size-4-1);
   font-size: var(--font-ui-small);
+  margin-bottom: var(--size-4-2);
 }
 
 .smtcmp-settings-embedding-db-manage-table {
@@ -1757,6 +1871,18 @@ button.smtcmp-chat-input-model-select {
   color: var(--text-muted);
 }
 
+.smtcmp-plan-connect-waiting {
+  margin-top: var(--size-2-1);
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+}
+
+.smtcmp-plan-connect-error {
+  margin-top: var(--size-2-1);
+  font-size: var(--font-ui-small);
+  color: var(--text-error);
+}
+
 /* MCP Server Modal Styles */
 .smtcmp-mcp-server-modal-textarea {
   width: 100%;
@@ -1780,6 +1906,75 @@ button.smtcmp-chat-input-model-select {
   }
 }
 
+/* Template Section Styles */
+.smtcmp-templates-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.smtcmp-templates-header {
+  display: grid;
+  grid-template-columns: 1fr 112px; /* Name and Actions columns */
+  gap: var(--size-4-4);
+  align-items: center;
+  min-height: var(--size-4-10);
+  border-bottom: var(--border-width) solid var(--background-modifier-border);
+  font-weight: var(--font-medium);
+  color: var(--text-muted);
+
+  & > div {
+    padding: var(--size-4-1);
+  }
+  & > div:nth-child(1) {
+    text-align: left;
+  }
+  & > div:nth-child(2) {
+    text-align: center;
+  }
+}
+
+.smtcmp-templates-empty {
+  padding: var(--size-4-4) 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--text-muted);
+}
+
+.smtcmp-template {
+  border-bottom: var(--border-width) solid var(--background-modifier-border);
+}
+
+.smtcmp-template-row {
+  display: grid;
+  grid-template-columns: 1fr 112px; /* Match columns with .smtcmp-templates-header */
+  gap: var(--size-4-4);
+  align-items: center;
+  min-height: var(--size-4-10);
+
+  & > div {
+    padding: var(--size-4-1);
+  }
+}
+
+.smtcmp-template-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.smtcmp-template-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--size-4-1);
+
+  svg {
+    height: var(--icon-l);
+    width: var(--icon-l);
+    stroke-width: var(--icon-stroke);
+  }
+}
+
 .smtcmp-continue-response-button-container {
   display: flex;
   justify-content: center;
@@ -1790,4 +1985,8 @@ button.smtcmp-chat-input-model-select {
   display: flex;
   align-items: center;
   gap: var(--size-4-1);
+}
+
+.smtcmp-setting-item--nested {
+  padding-left: var(--size-4-4);
 }
